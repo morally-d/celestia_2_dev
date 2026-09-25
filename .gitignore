@@ -1,2 +1,11 @@
 # LLM / assistant working notes (local context only, not for the repo)
 /docs/
+
+# Local scratch / backup files
+*.bak
+*.bak[0-9]
+*.orig
+*.old
+*.tmp
+*.rej
+*~
