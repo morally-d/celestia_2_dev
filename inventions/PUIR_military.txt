@@ -45,10 +45,6 @@ medium_tanks = {
 			factor = 4
 			great_war_experience = 1
 		}
-		modifier = {
-			factor = 4
-			invention = medium_artillery
-		}
 	}
 	effect = {
 		tank = {

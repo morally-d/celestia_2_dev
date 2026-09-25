@@ -1,6 +1,6 @@
 #battleship_column_doctrine
 transport_convoys = {
-	limit = { clipper_designs = 1 }
+	limit = { clipper_design = 1 }
 	chance = {
 		base = 100
 	}

@@ -7,7 +7,7 @@ caste_privileges = {
 	limit = {
 		enlightenment_thought = 1 
 		year = 1850
-		tag = ENG
+		tag = GHO
 	}
 	news = no
 	chance = {
@@ -41,7 +41,7 @@ sati_abolished = {
 	limit = {
 		enlightenment_thought = 1 
 		year = 1855
-		tag = ENG
+		tag = GHO
 	}
 	news = no
 	chance = {
@@ -74,7 +74,7 @@ pig_fat_cartridges = {
 	limit = {
 		enlightenment_thought = 1 
 		year = 1860
-		tag = ENG
+		tag = GHO
 	}
 	news = no
 	chance = {

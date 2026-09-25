@@ -1463,7 +1463,6 @@ terrorism = {
 		}
 	}
 	effect = {
-		enable_crime = terrorist_cells
 		seperatism = 0.5
 		rebel_org_gain = {
 			faction = nationalist_rebels
@@ -1601,7 +1600,6 @@ anti_egalitarianism = {
 	}
 	effect = {
 		war_exhaustion = -0.05
-		enable_crime = citizen_guard
 	}
 }
 vangaurd_party = {

@@ -79,11 +79,11 @@ total_war_mobilisation = {
 		NOT = { 
 			OR = {
 				tag = CHI
-				tag = GXI
-				tag = YNN
-				tag = XBI
-				tag = MCK
-				tag = HUI 
+				tag = GHO
+				tag = GHO
+				tag = GHO
+				tag = GHO
+				tag = GHO 
 			}
 		} 
 	}

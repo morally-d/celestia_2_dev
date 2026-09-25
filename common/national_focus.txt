@@ -7,7 +7,7 @@ rail_focus =
 	}
 }
 
-customised_nationalfocuses = 
+production_focus = 
 {
 	internal_migration =
 	{

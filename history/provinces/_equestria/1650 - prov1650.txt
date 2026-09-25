@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = WAR
-controller = WAR
-add_core = WAR
+owner = WRZ
+controller = WRZ
+add_core = WRZ
 trade_goods = fish
 life_rating = 35
 

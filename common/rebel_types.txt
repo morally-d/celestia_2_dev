@@ -2131,21 +2131,7 @@ indian_sepoys = {
 	
 
 	# Country scope
-	demands_enforced_trigger = {
-		HND = {
-			all_core = {
-				OR = {
-					controlled_by = REB
-					NOT = { owned_by = THIS }
-				}
-				province_control_days = 60
-			}
-		}
-	}
 	
-	demands_enforced_effect = {
-		release_vassal = HND
-	}
 }
 
 ###################################

@@ -64,7 +64,7 @@ prophylactics = {
 		}
 		modifier = {
 			factor = 6
-			NOT = { pop_majority_religion = catholic }
+			NOT = { pop_majority_religion = placeholder }
 		}
 	}
 	effect = {

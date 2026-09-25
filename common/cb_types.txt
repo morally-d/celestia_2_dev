@@ -508,7 +508,7 @@ acquire_core_state_tiny = {
 	allowed_states = {
 		any_owned_province = {
 			is_core = THIS
-			is_core = TIN
+			is_core = GHO
 		}
 	}
 
@@ -572,7 +572,7 @@ acquire_core_state_small = {
 	allowed_states = {
 		any_owned_province = {
 			is_core = THIS
-			is_core = SMA
+			is_core = GHO
 		}
 	}
 
@@ -636,7 +636,7 @@ acquire_core_state_medium = {
 	allowed_states = {
 		any_owned_province = {
 			is_core = THIS
-			is_core = MED
+			is_core = GHO
 		}
 	}
 
@@ -700,7 +700,7 @@ acquire_core_state_large = {
 	allowed_states = {
 		any_owned_province = {
 			is_core = THIS
-			is_core = LRG
+			is_core = GHO
 		}
 	}
 
@@ -764,7 +764,7 @@ acquire_core_state_huge = {
 	allowed_states = {
 		any_owned_province = {
 			is_core = THIS
-			is_core = HUG
+			is_core = GHO
 		}
 	}
 
@@ -1001,7 +1001,7 @@ acquire_state_tiny = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = TIN
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -1107,29 +1107,29 @@ acquire_chinese_state_tiny = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = TIN
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
 		any_owned_province = {
-			is_core = TIB
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MGL
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MCK
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = XIN
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 	}
@@ -1239,7 +1239,7 @@ acquire_state_small = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = SMA
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -1350,29 +1350,29 @@ acquire_chinese_state_small = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = SMA
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
 		any_owned_province = {
-			is_core = TIB
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MGL
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MCK
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = XIN
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 	}
@@ -1472,7 +1472,7 @@ acquire_state_small_americas = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = SMA
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -1578,7 +1578,7 @@ acquire_state_medium = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = MED
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -1685,29 +1685,29 @@ acquire_chinese_state_medium = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = MED
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
 		any_owned_province = {
-			is_core = TIB
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MGL
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MCK
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = XIN
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 	}
@@ -1813,7 +1813,7 @@ acquire_state_large = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = LRG
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -1920,29 +1920,29 @@ acquire_chinese_state_large = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = LRG
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
 		any_owned_province = {
-			is_core = TIB
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MGL
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MCK
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = XIN
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 	}
@@ -2048,7 +2048,7 @@ acquire_state_huge = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = HUG
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
@@ -2155,29 +2155,29 @@ acquire_chinese_state_huge = {
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = HUG
+			is_core = GHO
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		OR = {
 		any_owned_province = {
-			is_core = TIB
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MGL
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = MCK
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 		any_owned_province = {
-			is_core = XIN
-			not = {	is_core = THIS region = CHI_1557 region = CHI_1578 }
+			is_core = GHO
+			not = {	is_core = THIS }
 			is_colonial = no
 		}
 	}
@@ -2260,7 +2260,7 @@ place_in_the_sun_tiny = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = TIN
+			is_core = GHO
 		}
 		is_colonial = yes
 	}
@@ -2344,7 +2344,7 @@ place_in_the_sun_small = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = SMA
+			is_core = GHO
 		}
 		is_colonial = yes
 	}
@@ -2427,7 +2427,7 @@ place_in_the_sun_medium = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = MED
+			is_core = GHO
 		}
 		is_colonial = yes
 	}
@@ -2510,7 +2510,7 @@ place_in_the_sun_large = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = LRG
+			is_core = GHO
 		}
 		is_colonial = yes
 	}
@@ -2593,7 +2593,7 @@ place_in_the_sun_huge = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = HUG
+			is_core = GHO
 		}
 		is_colonial = yes
 	}
@@ -2866,12 +2866,12 @@ free_peoples = {
 				exists = yes
 				NOT = {
 						OR = {
-							tag = GER
-							tag = SCA
-							tag = ITA
-							tag = YUG
-							tag = ROM
-							tag = CZH
+							tag = GHO
+							tag = GHO
+							tag = GHO
+							tag = GHO
+							tag = GHO
+							tag = GHO
 						}
 					}
 				}
@@ -2930,7 +2930,7 @@ free_peoples_tiny = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT tag = GHO  tag = TIN	tag = SMA  tag = MED  tag = LRG  tag = HUG }
+		NOT = { tag = LCT tag = GHO  tag = GHO	tag = GHO  tag = GHO  tag = GHO  tag = GHO }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -2952,15 +2952,15 @@ free_peoples_tiny = {
 			this_culture_union = FROM	
 		}
 		from = {
-			NOT = { OR = { tag = TIN tag = SMA tag = MED tag = LRG tag = HUG } }
+			NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			OR = {
 				exists = yes
-				NOT = { OR = { tag = GER tag = SCA tag = ITA tag = AIT tag = YUG tag = ROM tag = CZH tag = PLC } }
+				NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			}
 		}
 		
         any_owned_province = {
-            is_core = TIN
+            is_core = GHO
             is_core = FROM
             NOT =
             {
@@ -2973,7 +2973,7 @@ free_peoples_tiny = {
     allowed_states = {
         any_owned_province = { 
 			is_core = FROM
-            is_core = TIN
+            is_core = GHO
 		}
     }
 
@@ -3012,7 +3012,7 @@ free_peoples_small = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT tag = GHO  tag = TIN tag = SMA  tag = MED  tag = LRG  tag = HUG }
+		NOT = { tag = LCT tag = GHO  tag = GHO tag = GHO  tag = GHO  tag = GHO  tag = GHO }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3034,15 +3034,15 @@ free_peoples_small = {
 			this_culture_union = FROM	
 		}
 		from = {
-			NOT = { OR = { tag = TIN tag = SMA tag = MED tag = LRG tag = HUG } }
+			NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			OR = {
 				exists = yes
-				NOT = { OR = { tag = GER tag = SCA tag = ITA tag = AIT tag = YUG tag = ROM tag = CZH tag = PLC } }
+				NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			}
 		}
 		
         any_owned_province = {
-            is_core = SMA
+            is_core = GHO
             is_core = FROM
             NOT =
             {
@@ -3055,7 +3055,7 @@ free_peoples_small = {
     allowed_states = {
         any_owned_province = { 
 			is_core = FROM
-            is_core = SMA
+            is_core = GHO
 		}
     }
 
@@ -3094,7 +3094,7 @@ free_peoples_medium = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT tag = GHO  tag = TIN	tag = SMA  tag = MED  tag = LRG  tag = HUG }
+		NOT = { tag = LCT tag = GHO  tag = GHO	tag = GHO  tag = GHO  tag = GHO  tag = GHO }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3116,15 +3116,15 @@ free_peoples_medium = {
 			this_culture_union = FROM	
 		}
 		from = {
-			NOT = { OR = { tag = TIN tag = SMA tag = MED tag = LRG tag = HUG } }
+			NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			OR = {
 				exists = yes
-				NOT = { OR = { tag = GER tag = SCA tag = ITA tag = AIT tag = YUG tag = ROM tag = CZH tag = PLC } }
+				NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			}
 		}
 		
         any_owned_province = {
-            is_core = MED
+            is_core = GHO
             is_core = FROM
             NOT =
             {
@@ -3137,7 +3137,7 @@ free_peoples_medium = {
     allowed_states = {
         any_owned_province = { 
 			is_core = FROM
-            is_core = MED
+            is_core = GHO
 		}
     }
 
@@ -3176,7 +3176,7 @@ free_peoples_large = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT tag = GHO  tag = TIN	tag = SMA  tag = MED  tag = LRG  tag = HUG }
+		NOT = { tag = LCT tag = GHO  tag = GHO	tag = GHO  tag = GHO  tag = GHO  tag = GHO }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3198,15 +3198,15 @@ free_peoples_large = {
 			this_culture_union = FROM	
 		}
 		from = {
-			NOT = { OR = { tag = TIN tag = SMA tag = MED tag = LRG tag = HUG } }
+			NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			OR = {
 				exists = yes
-				NOT = { OR = { tag = GER tag = SCA tag = ITA tag = AIT tag = YUG tag = ROM tag = CZH tag = PLC } }
+				NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			}
 		}
 		
         any_owned_province = {
-            is_core = LRG
+            is_core = GHO
             is_core = FROM
             NOT =
             {
@@ -3219,7 +3219,7 @@ free_peoples_large = {
     allowed_states = {
         any_owned_province = { 
 			is_core = FROM
-            is_core = LRG
+            is_core = GHO
 		}
     }
 
@@ -3258,7 +3258,7 @@ free_peoples_huge = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = { tag = LCT tag = GHO  tag = TIN	tag = SMA  tag = MED  tag = LRG  tag = HUG }
+		NOT = { tag = LCT tag = GHO  tag = GHO	tag = GHO  tag = GHO  tag = GHO  tag = GHO }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3280,15 +3280,15 @@ free_peoples_huge = {
 			this_culture_union = FROM	
 		}
 		from = {
-			NOT = { OR = { tag = TIN tag = SMA tag = MED tag = LRG tag = HUG } }
+			NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			OR = {
 				exists = yes
-				NOT = { OR = { tag = GER tag = SCA tag = ITA tag = AIT tag = YUG tag = ROM tag = CZH tag = PLC } }
+				NOT = { OR = { tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO tag = GHO } }
 			}
 		}
 		
         any_owned_province = {
-            is_core = HUG
+            is_core = GHO
             is_core = FROM
             NOT =
             {
@@ -3301,7 +3301,7 @@ free_peoples_huge = {
     allowed_states = {
         any_owned_province = { 
 			is_core = FROM
-            is_core = HUG
+            is_core = GHO
 		}
     }
 
@@ -3814,7 +3814,7 @@ demand_concession_casus_belli_tiny = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = TIN
+			is_core = GHO
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
@@ -3892,7 +3892,7 @@ demand_concession_casus_belli_small = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = SMA
+			is_core = GHO
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
@@ -3970,7 +3970,7 @@ demand_concession_casus_belli_medium = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = MED
+			is_core = GHO
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
@@ -4048,7 +4048,7 @@ demand_concession_casus_belli_large = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = LRG
+			is_core = GHO
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
@@ -4126,7 +4126,7 @@ demand_concession_casus_belli_huge = {
 	
 	allowed_states = {
 		any_owned_province = {
-			is_core = HUG
+			is_core = GHO
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
@@ -4928,7 +4928,7 @@ acquire_treaty_port = {
 		THIS = {
 			OR = {
 				civilized = yes
-				tag = JAP
+				tag = GHO
 			}
 		}
 		THIS = {
@@ -4948,7 +4948,6 @@ acquire_treaty_port = {
 			owns = 1538
 			owns = 1606
 			owns = 1608
-			owns = 3249
 			owns = 1481
 			owns = 1499
 			owns = 2562
@@ -5487,13 +5486,6 @@ vassal_tax = {
 	
 	on_po_accepted = {
 		clr_country_flag = tax_war
-		THIS = {
-			create_vassal = HND
-			create_alliance = HND
-			relation = {
-				who = HND
-				value = 200
-			}
-		}
+		
 	}
 }

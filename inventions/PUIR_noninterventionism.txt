@@ -10,13 +10,13 @@ non_interventionism =
 		year = 1870
 		NOT = { invention = total_war_mobilisation }
 		OR = {
-			tag = USA
-			tag = CSA
-			tag = MEX
-			tag = BRZ
-			tag = GCO
-			tag = UCA
-			tag = CHL
+			tag = GHO
+			tag = GHO
+			tag = GHO
+			tag = GHO
+			tag = GHO
+			tag = GHO
+			tag = GHO
 		} 
 	}
 	chance = {
