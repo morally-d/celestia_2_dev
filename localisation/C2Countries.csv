@@ -10,7 +10,7 @@ BUF_ADJ;Buffalo;;x
 TRS;Trotsas;;x
 TRS_ADJ;Trotsan;;x
 PLB;Polar Bear Communities;;x
-PLB;Polar Bear;;x
+PLB_ADJ;Polar Bear;;x
 PNG;Kingdom of Pingland;;x
 PNG_ADJ;Penguin;;x
 GRF;Nova Griffonia;;x
@@ -18,7 +18,7 @@ GRF_ADJ;Nova Griffonian;;x
 SEV;Tsardom of Severyana;;x
 SEV_ADJ;Severyanian;;x
 EQC;New Mareland;;x
-EQC;New Marelander;;x
+EQC_ADJ;New Marelander;;x
 VES;Vesalipolis;;x
 VES_ADJ;Vesalipolis;;x
 VRA;Vraks;;x
@@ -157,8 +157,8 @@ DRG;Dragon Lands;;x
 DRG_ADJ;Draconian;;x
 OPN;Order of Opinicus;;x
 OPN_ADJ;Opinicus;;x
-GSG;Gryphus S�dkontinent-Gesellschaft;;x
-GSG_ADJ;GSG;;x
+GSG;Southern Continent Company;;x
+GSG_ADJ;Southern Continent;;x
 GR1;Viartorre;;x
 GR1_ADJ;Viartorrean;;x
 GR2;Pythagorea;;x
@@ -186,7 +186,7 @@ SUM_ADJ;Anserukian;;x
 ABY;Abyssinia;;x
 ABY_ADJ;Abyssinian;;x
 MAG;Maregypt;;x
-MAG_ADJ;Maregyptian;;;x
+MAG_ADJ;Maregyptian;;x
 CHI;Chiropterra;;x
 CHI_ADJ;Chiropterran;;x
 MTO;Maretonia;;x
@@ -255,7 +255,7 @@ CTL;Chital;;x
 CTL_ADJ;Chitali;;x
 SAM;Sambar;;x
 SAM_ADJ;Sambari;;x
-KIR;Kiria;;;x
+KIR;Kiria;;x
 KIR_ADJ;Kirian;;x
 GAZ;Taungpau;;x
 GAZ_ADJ;Taungpauan;;x
@@ -273,7 +273,7 @@ KXN;Lan Kir;;x
 KXN_ADJ;Lan Kir;;x
 KHM;Khamrin;;x
 KHM_ADJ;Khamrini;;x
-BLO;Blossom;;;x
+BLO;Blossom;;x
 BLO_ADJ;Blossom;;x
 COG;Cogon;;x
 COG_ADJ;Cogonese;;x
@@ -345,3 +345,12 @@ NIS;Nissali;;x
 NIS_ADJ;Nissali;;x
 MRX;Marixbur;;x
 MRX_ADJ;Marixbur;;x
+#Missing/utility tags (added 2026-09-26);;;;;;;;;;;;;;x
+GHO;Ghost Country;;x
+GHO_ADJ;Ghost;;x
+REB;Rebels;;x
+REB_ADJ;Rebel;;x
+JAN;Jan Mayen;;x
+JAN_ADJ;Jan Mayen;;x
+CHN;Changeling Queendom;;x
+CHN_ADJ;Changeling;;x
