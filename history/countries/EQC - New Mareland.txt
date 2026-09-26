@@ -1,4 +1,5 @@
 capital = 1235
+oob = "EQC_oob.txt"
 primary_culture = marelander
 religion = pony
 government = absolute_monarchy

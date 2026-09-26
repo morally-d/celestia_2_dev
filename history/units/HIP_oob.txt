@@ -1,0 +1,110 @@
+army = {
+	name = "1 Corps"
+	location = 1499
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 1499
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 1499
+	}
+}
+
+army = {
+	name = "Militia Corps"
+	location = 1373
+	regiment = {
+		name = "1. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "2. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "3. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "4. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "5. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "6. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "7. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "8. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "9. Militia"
+		type = irregular
+		home = 1373
+	}
+	regiment = {
+		name = "10. Militia"
+		type = irregular
+		home = 1373
+	}
+}
+

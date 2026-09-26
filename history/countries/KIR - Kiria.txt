@@ -1,4 +1,5 @@
 capital = 3179
+oob = "KIR_oob.txt"
 primary_culture = kirian
 religion = kirin
 government = absolute_monarchy

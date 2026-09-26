@@ -1,4 +1,5 @@
 capital = 1434
+oob = "EQS_oob.txt"
 primary_culture = equestrian
 religion = pony
 government = absolute_monarchy

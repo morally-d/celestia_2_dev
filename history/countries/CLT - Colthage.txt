@@ -1,4 +1,5 @@
 capital = 2127
+oob = "CLT_oob.txt"
 primary_culture = zonician
 religion = zebra
 government = absolute_monarchy

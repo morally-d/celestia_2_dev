@@ -1,0 +1,220 @@
+army = {
+	name = "Guard Corps"
+	location = 716
+	regiment = {
+		name = "1. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "2. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "3. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "4. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "5. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "6. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "7. Guard"
+		type = guard
+		home = 716
+	}
+	regiment = {
+		name = "1. Engineer"
+		type = engineer
+		home = 716
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 716
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 716
+	}
+}
+
+army = {
+	name = "1 Corps"
+	location = 596
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = infantry
+		home = 596
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 596
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 596
+	}
+}
+
+army = {
+	name = "2 Corps"
+	location = 277
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 277
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 277
+	}
+}
+
+army = {
+	name = "3 Corps"
+	location = 194
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = infantry
+		home = 194
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 194
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 194
+	}
+}
+

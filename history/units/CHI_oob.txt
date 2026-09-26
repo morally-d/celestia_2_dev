@@ -1,0 +1,55 @@
+army = {
+	name = "Guard Corps"
+	location = 1472
+	regiment = {
+		name = "1. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "2. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "3. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "4. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "5. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "6. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "7. Guard"
+		type = guard
+		home = 1472
+	}
+	regiment = {
+		name = "1. Engineer"
+		type = engineer
+		home = 1472
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 1472
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 1472
+	}
+}
+

@@ -1,0 +1,85 @@
+army = {
+	name = "1 Corps"
+	location = 1517
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 1517
+	}
+	regiment = {
+		name = "2. Artillery"
+		type = artillery
+		home = 1517
+	}
+}
+
+army = {
+	name = "2 Corps"
+	location = 1357
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 1357
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 1357
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 1357
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 1357
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 1357
+	}
+}
+

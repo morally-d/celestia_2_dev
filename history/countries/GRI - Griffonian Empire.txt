@@ -1,4 +1,5 @@
 capital = 1755
+oob = "GRI_oob.txt"
 primary_culture = herzlander
 religion = griffon
 government = absolute_monarchy

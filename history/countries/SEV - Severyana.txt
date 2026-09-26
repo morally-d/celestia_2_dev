@@ -1,4 +1,5 @@
 capital = 693
+oob = "SEV_oob.txt"
 primary_culture = severyanian
 religion = pony
 government = absolute_monarchy
