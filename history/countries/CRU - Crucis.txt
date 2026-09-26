@@ -2,9 +2,9 @@ capital = 224
 primary_culture = brackish
 religion = changeling
 government = absolute_monarchy
-plurality = 100
+plurality = 0
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.150
 civilized = yes
 is_releasable_vassal = no
 

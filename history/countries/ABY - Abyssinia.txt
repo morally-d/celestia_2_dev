@@ -2,9 +2,9 @@ capital = 1114
 primary_culture = abyssinian
 religion = abyssinian_cats
 government = absolute_monarchy
-plurality = 100
+plurality = 0
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.297
 civilized = yes
 is_releasable_vassal = no
 

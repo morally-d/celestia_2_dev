@@ -2,10 +2,10 @@ capital = 1725
 primary_culture = zonician
 religion = zebra
 government = absolute_monarchy
-plurality = 20
+plurality = 5
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0.01
+literacy = 0.223
+non_state_culture_literacy = 0.050
 civilized = yes
 is_releasable_vassal = no
 

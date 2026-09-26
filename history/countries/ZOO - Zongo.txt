@@ -2,10 +2,10 @@ capital = 2920
 primary_culture = roaman
 religion = zebra
 government = absolute_monarchy
-plurality = 20
+plurality = 0
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0.01
+literacy = 0.085
+non_state_culture_literacy = 0.050
 civilized = yes
 is_releasable_vassal = no
 

@@ -2,9 +2,9 @@ capital = 1616
 primary_culture = tobuckian
 religion = pony
 government = absolute_monarchy
-plurality = 100
+plurality = 5
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.184
 civilized = yes
 is_releasable_vassal = no
 

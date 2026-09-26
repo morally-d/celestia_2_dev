@@ -2,9 +2,9 @@ capital = 1985
 primary_culture = ostlander
 religion = griffon
 government = absolute_monarchy
-plurality = 100
+plurality = 0
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.262
 civilized = yes
 is_releasable_vassal = no
 

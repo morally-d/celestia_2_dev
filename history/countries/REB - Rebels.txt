@@ -1,1 +1,4 @@
 oob = "REB_oob.txt"
+
+plurality = 0
+literacy = 0.080

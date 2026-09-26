@@ -9,9 +9,9 @@ culture = severyanian
 culture = trotsan
 religion = donkeys
 government = absolute_monarchy
-plurality = 100
+plurality = 0
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.080
 civilized = no
 is_releasable_vassal = no
 

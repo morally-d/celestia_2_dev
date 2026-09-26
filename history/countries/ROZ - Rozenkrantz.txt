@@ -2,9 +2,9 @@ capital = 367
 primary_culture = polar_bears
 religion = bears
 government = absolute_monarchy
-plurality = 100
+plurality = 0
 nationalvalue = nv_order
-literacy = 1
+literacy = 0.080
 civilized = yes
 is_releasable_vassal = no
 
