@@ -1,6 +1,6 @@
 capital = 1235
 primary_culture = marelander_pony
-religion = placeholder
+religion = pony
 government = absolute_monarchy
 prestige = 60
 plurality = 20

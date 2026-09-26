@@ -1,6 +1,6 @@
 capital = 1388
 primary_culture = western_yak
-religion = placeholder
+religion = yak
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

@@ -1,5 +1,5 @@
 capital = 1128
-primary_culture = placeholder
+primary_culture = asstyrian_donkey
 culture = penguin
 culture = polar_bears
 culture = equestrian_pony
@@ -7,7 +7,7 @@ culture = marelander_pony
 culture = crystal_pony
 culture = severyanian_pony
 culture = trotsan_pony
-religion = placeholder
+religion = donkeys
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 capital = 1737
 primary_culture = penguin
-religion = placeholder
+religion = penguins
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

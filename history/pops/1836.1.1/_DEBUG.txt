@@ -1,42 +1,42 @@
 1778 = {
 	bankers = {
-		culture = placeholder
-		religion = placeholder
+		culture = polar_bears
+		religion = bears
 		size = 20000
 	}
 	bankers = {
 		culture = penguin
-		religion = placeholder
+		religion = penguins
 		size = 20000
 	}
 	bankers = {
 		culture = polar_bears
-		religion = placeholder
+		religion = bears
 		size = 20000
 	}
 	bankers = {
 		culture = equestrian_pony
-		religion = placeholder
+		religion = pony
 		size = 20000
 	}
 	bankers = {
 		culture = marelander_pony
-		religion = placeholder
+		religion = pony
 		size = 20000
 	}
 	bankers = {
 		culture = crystal_pony
-		religion = placeholder
+		religion = pony
 		size = 20000
 	}
 	bankers = {
 		culture = severyanian_pony
-		religion = placeholder
+		religion = pony
 		size = 20000
 	}
 	bankers = {
 		culture = trotsan_pony
-		religion = placeholder
+		religion = pony
 		size = 20000
 	}
 }

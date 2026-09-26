@@ -1,6 +1,6 @@
 capital = 257
 primary_culture = brackish_changeling
-religion = placeholder
+religion = changeling
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

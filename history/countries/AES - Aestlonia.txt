@@ -1,6 +1,6 @@
 capital = 947
-primary_culture = polar_bears
-religion = placeholder
+primary_culture = hestrayan_pony
+religion = pony
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 capital = 1517
 primary_culture = karthinian_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

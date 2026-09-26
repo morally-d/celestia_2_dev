@@ -1,6 +1,6 @@
 capital = 2038
 primary_culture = ostlander_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

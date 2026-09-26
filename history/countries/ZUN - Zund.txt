@@ -1,6 +1,6 @@
-capital = 1388
-primary_culture = placeholder
-religion = placeholder
+capital = 2108
+primary_culture = imazeeb_zebra
+religion = zebra
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

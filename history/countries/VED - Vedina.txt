@@ -1,6 +1,6 @@
 capital = 1059
 primary_culture = vedinan_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

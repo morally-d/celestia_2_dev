@@ -1,6 +1,6 @@
 capital = 2080
 primary_culture = lushian_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 capital = 1755
 primary_culture = herzlander_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

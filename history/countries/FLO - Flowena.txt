@@ -1,6 +1,6 @@
-capital = 1128
+capital = 1442
 primary_culture = pomovarran_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

@@ -1,7 +1,7 @@
 capital = 2333
 primary_culture = sicameonese_griffon
 culture = gryphussian_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

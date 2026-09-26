@@ -1,6 +1,6 @@
-capital = 1128
-primary_culture = brackish_changeling
-religion = placeholder
+capital = 182
+primary_culture = asstyrian_donkey
+religion = donkeys
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

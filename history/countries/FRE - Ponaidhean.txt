@@ -1,6 +1,6 @@
 capital = 2462
 primary_culture = ponaidh_pony
-religion = placeholder
+religion = pony
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

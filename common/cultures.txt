@@ -573,7 +573,7 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-ostlander_griffon = {						
+	ostlander_griffon = {						
 		color = { 229 134 100 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -735,7 +735,7 @@ ostlander_griffon = {
 		Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli }
 	}
-talousian_griffon = {					
+	talousian_griffon = {					
 		color = { 237 115 158 }
 		first_names = { Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
 			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando

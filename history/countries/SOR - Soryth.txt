@@ -1,6 +1,6 @@
 capital = 1742
 primary_culture = boreal_changeling
-religion = placeholder
+religion = changeling
 government = absolute_monarchy
 plurality = 20
 nationalvalue = nv_order

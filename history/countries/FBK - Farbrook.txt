@@ -1,6 +1,6 @@
 capital = 2087
 primary_culture = hill_pony
-religion = placeholder
+religion = pony
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

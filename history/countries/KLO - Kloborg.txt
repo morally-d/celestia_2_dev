@@ -1,6 +1,6 @@
-capital = 258
+capital = 1265
 primary_culture = feathisian_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

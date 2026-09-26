@@ -1,6 +1,6 @@
 capital = 2272
-primary_culture = polar_bears
-religion = placeholder
+primary_culture = yeti
+religion = yetis
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

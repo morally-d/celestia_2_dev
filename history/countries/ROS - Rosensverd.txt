@@ -1,6 +1,6 @@
-capital = 258
+capital = 1626
 primary_culture = polar_bears
-religion = placeholder
+religion = bears
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order

@@ -1,6 +1,6 @@
 capital = 2129
 primary_culture = prywhenian_griffon
-religion = placeholder
+religion = griffon
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order
