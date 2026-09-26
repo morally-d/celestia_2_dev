@@ -3,7 +3,6 @@ oob = "EQC_oob.txt"
 primary_culture = marelander
 religion = pony
 government = absolute_monarchy
-prestige = 60
 plurality = 5
 nationalvalue = nv_order
 literacy = 0.375
