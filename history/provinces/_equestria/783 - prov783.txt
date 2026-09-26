@@ -4,5 +4,12 @@ controller = SEV
 add_core = SEV
 trade_goods = fish
 life_rating = 35
+naval_base = 1
 terrain = urban
 
+
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+}

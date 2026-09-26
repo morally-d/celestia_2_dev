@@ -4,4 +4,11 @@ controller = AQU
 add_core = AQU
 trade_goods = coal
 life_rating = 35
+naval_base = 1
 
+
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

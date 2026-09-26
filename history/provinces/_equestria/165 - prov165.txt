@@ -4,5 +4,12 @@ controller = OLE
 add_core = OLE
 trade_goods = fish
 life_rating = 35
+naval_base = 1
 terrain = urban
 
+
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

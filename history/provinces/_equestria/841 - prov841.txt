@@ -4,4 +4,5 @@ controller = GRF
 add_core = GRF
 trade_goods = grain
 life_rating = 35
+naval_base = 1
 

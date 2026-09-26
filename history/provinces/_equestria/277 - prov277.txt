@@ -4,5 +4,18 @@ controller = EQS
 add_core = EQS
 trade_goods = iron
 life_rating = 35
+naval_base = 1
 terrain = urban_laspegasus
 
+
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}

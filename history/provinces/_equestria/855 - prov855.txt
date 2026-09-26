@@ -4,5 +4,6 @@ controller = SDL
 add_core = SDL
 trade_goods = coffee
 life_rating = 35
+naval_base = 1
 terrain = urban
 

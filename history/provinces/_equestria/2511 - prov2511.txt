@@ -6,3 +6,9 @@ trade_goods = fruit
 life_rating = 35
 terrain = urban
 
+
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

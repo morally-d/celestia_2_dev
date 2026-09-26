@@ -4,5 +4,12 @@ controller = MCW
 add_core = MCW
 trade_goods = grain
 life_rating = 35
+naval_base = 1
 terrain = urban
 
+
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}

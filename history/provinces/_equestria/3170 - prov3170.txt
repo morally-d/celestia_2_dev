@@ -4,5 +4,6 @@ controller = GRI
 add_core = SKY
 trade_goods = iron
 life_rating = 35
+naval_base = 1
 terrain = urban
 

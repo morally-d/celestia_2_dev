@@ -5,3 +5,9 @@ add_core = GRI
 trade_goods = grain
 life_rating = 35
 
+
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}

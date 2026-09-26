@@ -4,4 +4,5 @@ controller = TAL
 add_core = TAL
 trade_goods = fruit
 life_rating = 35
+naval_base = 1
 
