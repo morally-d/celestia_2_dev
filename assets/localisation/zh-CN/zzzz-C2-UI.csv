@@ -1,0 +1,48 @@
+# C2 界面术语覆盖：宗教 -> 种族（2026-09-26）
+POP_RELIGION;种族
+PV_POP_RELIGION;种族
+RELIGION_DISTTITLE;种族
+religion_disttitle;种族
+religion;种族
+is_state_religion;属于主体种族。
+CHANGE_RELIGION_EFFECT;将种族改为 $NAME$。\n
+religious_policy;种族政策
+pro_atheism;同化政策
+pro_atheism_desc;国家推动少数种族融入主体种族。
+pro_atheism_l;同化政策
+secularized;宽容政策
+secularized_desc;各种族自行其是，国家不予干预。
+secularized_l;宽容政策
+pluralism;融合政策
+pluralism_desc;国家积极推广主体种族，同时容忍其他种族。
+pluralism_l;融合政策
+moralism;种族至上
+moralism_desc;主体种族居于统治地位，少数种族受到歧视。
+moralism_l;种族至上
+mapmode_23;种族地图
+mapmode_tooltip_religion_majorities;$PROV$ 的种族构成：
+alice_religion_filter_header;种族
+alice_demographics_religion_header;种族
+alice_pop_details_religion;种族：
+national_religion;主体种族
+dominant_religion;主要种族
+same_rel_as_this;与本国同种族
+this_nation_religion;该国的种族
+from_nation_religion;来源国的种族
+this_nat_religion;该国的种族
+from_nat_religion;来源国的种族
+this_state_religion;主体种族
+this_pop_religion;该人口的种族
+member_of_nat_religion;属于主体种族
+where_religion_is;其种族为 $text$
+rebel_religion;叛乱者的种族
+alice_pnt_religion;种族：$x$
+alice_pnt_dominant_religion;主要种族：$x$
+make_national_religion;$text$ 成为主体种族
+make_province_religion;该省人口变为 $text$
+make_pop_religion;变为 $text$
+is_primary_religion;$NAME$ 是主体种族。
+religion_nation_modifier;人口多数属于 $NAME$
+pop_conver_2;人口永不会改变种族
+pop_conver_3;人口永不会改变种族
+pop_conver_8;可变同化系数：$x$

@@ -1,0 +1,48 @@
+# C2 UI terminology override: religion -> race (2026-09-26)
+POP_RELIGION;Race
+PV_POP_RELIGION;Race
+RELIGION_DISTTITLE;Race
+religion_disttitle;Race
+religion;Race
+is_state_religion;Belongs to the state race.
+CHANGE_RELIGION_EFFECT;Change race to $NAME$.\n
+religious_policy;Race Policy
+pro_atheism;Assimilation
+pro_atheism_desc;The state promotes the assimilation of minority races into the state race.
+pro_atheism_l;Assimilation
+secularized;Tolerance
+secularized_desc;Races are left to their own affairs, and the state does not intervene.
+secularized_l;Tolerance
+pluralism;Integration
+pluralism_desc;The state race is actively promoted while other races are tolerated.
+pluralism_l;Integration
+moralism;Supremacy
+moralism_desc;The state race dominates, and minority races face discrimination.
+moralism_l;Supremacy
+mapmode_23;Race
+mapmode_tooltip_religion_majorities;The races in $PROV$ are:
+alice_religion_filter_header;Race
+alice_demographics_religion_header;Race
+alice_pop_details_religion;Race:
+national_religion;the state race
+dominant_religion;the dominant race
+same_rel_as_this;the same race as this nation
+this_nation_religion;the state race of this nation
+from_nation_religion;the state race of the from nation
+this_nat_religion;the state race of this country
+from_nat_religion;the state race of the from country
+this_state_religion;the state race
+this_pop_religion;the race of this pop
+member_of_nat_religion;a member of the state race
+where_religion_is;Where its race is $text$
+rebel_religion;the rebel race
+alice_pnt_religion;Race: $x$
+alice_pnt_dominant_religion;Dominant race: $x$
+make_national_religion;$text$ becomes the state race
+make_province_religion;province population changes to $text$
+make_pop_religion;Changes to $text$
+is_primary_religion;$NAME$ is the state race.
+religion_nation_modifier;Majority of the population belongs to $NAME$
+pop_conver_2;Pops never change race
+pop_conver_3;Pops never change race
+pop_conver_8;Variable assimilation factors: $x$

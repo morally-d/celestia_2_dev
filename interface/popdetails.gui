@@ -310,7 +310,7 @@ guiTypes = {
 			name = "religion"
 			font = "Arial12_black"
 			borderSize = {x = 2 y = 2}
-			text = "Religion"	
+			text = "POP_RELIGION"	
 			maxWidth = 80
 			maxHeight = 20
 			format = right
