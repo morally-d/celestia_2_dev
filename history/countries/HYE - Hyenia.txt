@@ -1,5 +1,5 @@
 capital = 2362
-primary_culture = hyenian_hyena
+primary_culture = hyenian
 religion = hyenas
 government = absolute_monarchy
 plurality = 100

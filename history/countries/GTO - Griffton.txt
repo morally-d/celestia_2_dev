@@ -1,5 +1,5 @@
 capital = 1162
-primary_culture = herzlander_griffon
+primary_culture = herzlander
 religion = griffon
 government = absolute_monarchy
 plurality = 20

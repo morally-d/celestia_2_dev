@@ -1,5 +1,5 @@
 capital = 2348
-primary_culture = zonician_zebra
+primary_culture = zonician
 religion = zebra
 government = absolute_monarchy
 plurality = 100

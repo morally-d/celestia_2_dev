@@ -1,5 +1,5 @@
 capital = 2511
-primary_culture = macawian_harpy
+primary_culture = macawian
 religion = harpies
 government = absolute_monarchy
 plurality = 100

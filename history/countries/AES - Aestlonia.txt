@@ -1,5 +1,5 @@
 capital = 947
-primary_culture = hestrayan_pony
+primary_culture = hestrayan
 religion = pony
 government = absolute_monarchy
 plurality = 100

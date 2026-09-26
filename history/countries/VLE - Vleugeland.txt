@@ -1,5 +1,5 @@
 capital = 1206
-primary_culture = feathisian_griffon
+primary_culture = feathisian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

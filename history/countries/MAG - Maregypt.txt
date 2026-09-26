@@ -1,5 +1,5 @@
 capital = 1616
-primary_culture = tobuckian_pony
+primary_culture = tobuckian
 religion = pony
 government = absolute_monarchy
 plurality = 100

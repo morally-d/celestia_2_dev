@@ -1,5 +1,5 @@
 capital = 2951
-primary_culture = hindian_deer
+primary_culture = hindian
 religion = deer
 government = absolute_monarchy
 plurality = 100

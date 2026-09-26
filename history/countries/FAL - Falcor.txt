@@ -1,5 +1,5 @@
 capital = 1713
-primary_culture = karthinian_griffon
+primary_culture = karthinian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 103
-primary_culture = olenian_deer
+primary_culture = olenian
 religion = deer
 government = absolute_monarchy
 plurality = 20

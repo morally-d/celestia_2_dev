@@ -1,5 +1,5 @@
 capital = 2108
-primary_culture = imazeeb_zebra
+primary_culture = imazeeb
 religion = zebra
 government = absolute_monarchy
 plurality = 20

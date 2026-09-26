@@ -1,5 +1,5 @@
 capital = 2434
-primary_culture = gryphussian_griffon
+primary_culture = gryphussian
 religion = griffon
 government = absolute_monarchy
 plurality = 20

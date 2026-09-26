@@ -1,5 +1,5 @@
 capital = 2741
-primary_culture = austurland_deer
+primary_culture = austurland
 religion = deer
 government = absolute_monarchy
 plurality = 100

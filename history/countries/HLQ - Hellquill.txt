@@ -1,5 +1,5 @@
 capital = 1985
-primary_culture = ostlander_griffon
+primary_culture = ostlander
 religion = griffon
 government = absolute_monarchy
 plurality = 100

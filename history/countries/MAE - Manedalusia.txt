@@ -1,5 +1,5 @@
 capital = 1343
-primary_culture = manedalusian_pony
+primary_culture = manedalusian
 religion = pony
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 152
-primary_culture = boreal_changeling
+primary_culture = boreal
 religion = changeling
 government = absolute_monarchy
 plurality = 100

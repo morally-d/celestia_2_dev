@@ -1,5 +1,5 @@
 capital = 1142
-primary_culture = arabian_horse
+primary_culture = arabian
 religion = horses
 government = absolute_monarchy
 plurality = 100

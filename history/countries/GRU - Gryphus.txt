@@ -1,5 +1,5 @@
 capital = 852
-primary_culture = nova_griffon
+primary_culture = nova
 religion = griffon
 government = absolute_monarchy
 plurality = 20

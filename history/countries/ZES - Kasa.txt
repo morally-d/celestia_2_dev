@@ -1,5 +1,5 @@
 capital = 2526
-primary_culture = kasan_zebra
+primary_culture = kasan
 religion = zebra
 government = absolute_monarchy
 plurality = 20

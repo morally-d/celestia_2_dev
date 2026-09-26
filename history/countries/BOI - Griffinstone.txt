@@ -1,5 +1,5 @@
 capital = 1820
-primary_culture = griffonstone_griffon
+primary_culture = griffonstone
 religion = griffon
 government = absolute_monarchy
 plurality = 100

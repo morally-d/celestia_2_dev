@@ -1,5 +1,5 @@
 capital = 257
-primary_culture = brackish_changeling
+primary_culture = brackish
 religion = changeling
 government = absolute_monarchy
 plurality = 100

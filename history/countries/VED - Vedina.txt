@@ -1,5 +1,5 @@
 capital = 1059
-primary_culture = vedinan_griffon
+primary_culture = vedinan
 religion = griffon
 government = absolute_monarchy
 plurality = 100

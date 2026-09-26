@@ -1,5 +1,5 @@
 capital = 1434
-primary_culture = equestrian_pony
+primary_culture = equestrian
 religion = pony
 government = absolute_monarchy
 prestige = 60

@@ -1,5 +1,5 @@
 capital = 407
-primary_culture = trotsan_pony
+primary_culture = trotsan
 religion = pony
 government = absolute_monarchy
 plurality = 100

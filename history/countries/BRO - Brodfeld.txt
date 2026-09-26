@@ -1,5 +1,5 @@
 capital = 2129
-primary_culture = prywhenian_griffon
+primary_culture = prywhenian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

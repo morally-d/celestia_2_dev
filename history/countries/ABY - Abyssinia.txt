@@ -1,5 +1,5 @@
 capital = 1114
-primary_culture = abyssinian_cat
+primary_culture = abyssinian
 religion = abyssinian_cats
 government = absolute_monarchy
 plurality = 100

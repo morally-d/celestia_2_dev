@@ -9,12 +9,13 @@ placeholder = {
 		
 		last_names = { placeholder }
 	}
+
 }
 
 pony = {
 	leader = european
 	unit = EuropeanGC
-	equestrian_pony = {	
+	equestrian = {	
 		color = { 129 198 96 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -25,7 +26,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	marelander_pony = {		
+	marelander = {		
 		color = { 47 158 99 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -36,7 +37,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	crystal_pony = {						
+	crystal_empire = {						
 		color = { 213 166 240 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -47,7 +48,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	severyanian_pony = {						
+	severyanian = {						
 		color = {204 72 111}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -58,7 +59,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	trotsan_pony = {						
+	trotsan = {						
 		color = {198 29 0}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -69,7 +70,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	aztlan_pony = {						
+	aztlan = {						
 		color = { 75 114 52 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -79,8 +80,8 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	
-	caballo_pony = {						
+
+	caballo = {						
 		color = { 140 65 166 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -91,7 +92,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	north_pony = {						
+	north = {						
 		color = { 179 174 158 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -102,7 +103,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	river_pony = {						
+	riverlander = {						
 		color = { 63 161 111 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -113,7 +114,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	hill_pony = {						
+	hill = {						
 		color = { 134 137 213 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -124,7 +125,7 @@ pony = {
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
 
-	wittenlandic_pony = {						
+	wittenlandic = {						
 		color = { 102 0 255 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -134,8 +135,8 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	
-	ponaidh_pony = {						
+
+	ponaidh = {						
 		color = { 40 211 153 }
 		first_names = { "Thunder mac" "Duke mac" "Star mac" "Brisk mac" "Steel mac" "Flash mac" "Wild mac" "Platinum mac" "Rapid mac" "Blue mac" "Lighthoof mac" "Ebony mac" "Torch mac" "Big mac" "Burnt mac" "Feather mac" 
 		"Filthy mac" "Hard mac" "Cream mac" "Carrot mac" "Foam mac" "Piles mac" "Rusty mac" "Silver mac" "Trouble mac" "Caramel mac" "Lavender mac" "Golden mac" "Tough mac" "Ace mac" "Black mac" "Brindle mac" "Bush mac" "Cobalt mac" 
@@ -152,14 +153,14 @@ pony = {
 		Light Clover Dusk Sky Rose }
 	}
 
-	nimbusian_pony = {						
+	nimbusian = {						
 		color = { 107 205 237 }
 		first_names = { "Diatton Asteras" "Marmarinos Kionas" "Iodes Anemos" "Hloro Fyllo" "Synnefothraustes" "Aeonios Pagetos" "Vasilikos Strovilos" "Therinos Helios" "Nyhterinos Tromos" "Mystikos Kodikas" "Mysterios Kometes" "Pneumatikos Fruros" "Apythmenos Okeanos" "Philosophike Lithos" "Aerino Phasma" "Leander Lithos" "Acacios Triantáfyllo" "Eryx Petros" "Aetios Petros" "Perseios Anemos" "Aeneas Anemos" "Castor Anemos" "Leonidas Petros" "Asimi Mageia" "Kyane Thalassa" "Kerine Omorfia" "Pikrodaphne" "Earine Isemeria" "Ophelia Enosia" "Penelope Thalassa" "Lyra Mageia" "Kyane Isemeria" "Nyx Skoteina" "Earine Thalassa" "Persephone Fruria" "Cassia Mageia" "Rhea Skoteina" "Cressida Lithia" "Ione Skoteina" "Selene Omorfia" "Astraea Zygaria" "Acacia Isemeria" "Ianthe Fruria" "Calla Iouloúdia" }
 
 		last_names = { "" }
 	}
 
-	aquileian_pony = {						
+	vartai = {						
 		color = {198 29 0}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -169,17 +170,8 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	vartai_pony = {						
-		color = {198 29 0}
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-	maregyptian_pony = {						
+	maregyptian = {						
 		color = { 255 220 104 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -189,7 +181,8 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	tobuckian_pony = {						
+
+	tobuckian = {						
 		color = { 25 105 90 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -199,14 +192,16 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	manedalusian_pony = {						
+
+	manedalusian = {						
 		color = { 31 138 40 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
 		last_names = { Hakim Hej'ran Sahif Hay'dle Nueman Ghazran Zawraqi Sadd'lani Stirr'fan Stirr'aad Mitrqa Al-Hoo'fandi Al-Bri'dili Al-Shoehandi
 		Al-Harnee Al-Spu'rqani Al-Shams Al-Qamar Al-Ghasq Al-Shafaq Al-San'fari Al-Sineighi Al-Maneisra Al-Coltuba }
 	}
-	hestrayan_pony = {				
+
+	hestrayan = {				
 		color = { 72 194 72 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
@@ -216,6 +211,7 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
+
 	north_thestral = {						
 		color = {198 29 0}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -226,6 +222,7 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
+
 	aztlan_thestral = {						
 		color = { 88 97 137 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -236,6 +233,7 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
+
 	legion_thestral = {						
 		color = { 0 33 71 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -246,12 +244,13 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
+
 }
 
 changeling = {
 	leader = european
 	unit = EuropeanGC
-	boreal_changeling = {						
+	boreal = {						
 		color = {51 53 84}
 		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
 			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
@@ -259,7 +258,8 @@ changeling = {
 
 		last_names = { Agonia Antax Aglossata Apsychos Assyna Crucis Ditrysium Formicida Gardis Gorak Hemelytra Hoorornd Kladisium Larkorix Phantine Praesepis Purifia Sicarus Soryth Vesalipolis Vraks Volistad }
 	}
-	brackish_changeling = {						
+
+	brackish = {						
 		color = {64 55 63}
 		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
 			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
@@ -267,7 +267,8 @@ changeling = {
 
 		last_names = { Agonia Antax Aglossata Apsychos Assyna Crucis Ditrysium Formicida Gardis Gorak Hemelytra Hoorornd Kladisium Larkorix Phantine Praesepis Purifia Sicarus Soryth Vesalipolis Vraks Volistad }
 	}
-	greneclyf_changeling = {						
+
+	greneclyf = {						
 		color = {115 85 91}
 		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
 			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
@@ -275,36 +276,39 @@ changeling = {
 
 		last_names = { Agonia Antax Aglossata Apsychos Assyna Crucis Ditrysium Formicida Gardis Gorak Hemelytra Hoorornd Kladisium Larkorix Phantine Praesepis Purifia Sicarus Soryth Vesalipolis Vraks Volistad }
 	}
-}
 
+}
 
 yak = {
 	leader = asian
 	unit = AsianGC
-	western_yak = {						
+	western = {						
 		color = { 124 198 240 }
 		first_names = { Crompus Dromius Grimhorn Gruntwig Horwitz Ingville Leroy Tormand Ulysses Yakatar Yojan Yksler Leibowitz Yissakhar Yonatan Brynjar Agnar Fergus Yomhar Roderick Torcall Enok Holger Sigurd Yngvar Yakmina Yigrid Royznbarg Yaara Yachna Yemima Yona Gunnel Agnes Fiona Rhona Brynja Dagmar Elvira Erna Hedwig Ida Kari Lena Mona Nora Olaug Ruth Smilla Thyra Ylva }
 
 		last_names = { "" }
 	}
-	eastern_yak = {						
+
+	eastern = {						
 		color = { 100 150 193 }
 		first_names = { Crompus Dromius Grimhorn Gruntwig Horwitz Ingville Leroy Tormand Ulysses Yakatar Yojan Yksler Leibowitz Yissakhar Yonatan Brynjar Agnar Fergus Yomhar Roderick Torcall Enok Holger Sigurd Yngvar Yakmina Yigrid Royznbarg Yaara Yachna Yemima Yona Gunnel Agnes Fiona Rhona Brynja Dagmar Elvira Erna Hedwig Ida Kari Lena Mona Nora Olaug Ruth Smilla Thyra Ylva }
 
 		last_names = { "" }
 	}
+
 }
 
 zebra = {
 	leader = european
 	unit = EuropeanGC
-	kasan_zebra = {						
+	kasan = {						
 		color = { 249 249 61 }
 		first_names = { Limon Karanbóla Spedju Lista Rátu Gudja Koitalel Kango Noti Dinheru Fonti Boli Grelha Luxu Asu Rekádu Simentu Karbon Keju Kanela Lenha Txeia Flór Kranka Négua Karokol }
 
 		last_names = { Funku Jélu Djeu Féru Gaiáto Kudjéron Lagu Fódja Pó Obama Metal Jornal Konbustival Ijieni  }
 	}
-	zonician_zebra = {				
+
+	zonician = {				
 		color = { 233 255 218 }
 		first_names = { Zabbar Zabdmelqart Zadonibaal Zagbal Zhirom Azimilik Zaal Zaalhanno Zodashtart Zodmelqart Zomilcar Zostar Zoulomenus Zarthalo Zhelbes 
 			Eshzaal Zeugoras Zermelqart Zamilcar Zannibal Zanno Hasdruzal Zimilco Ziram Zago Maharzal Zattan Zetallo Zilkherem Zilkiram 
@@ -315,7 +319,8 @@ zebra = {
 		last_names = { Zabbarid Adonizaal Zahirom Zaalhannid Zarca Zostara Chelzesid Eshzaalid Zeugorid Zannid Ziramid Zago Zattanid Zetallid Zilkiramid Zilosirid
 		Zisgo Gerzalid Zammid Zugarid Zashhid Zummashid  }
 	}
-	imazeeb_zebra = {	
+
+	imazeeb = {	
 		color = { 255 133 15 }
 		first_names = { Amyrteos Ankhmachis Anemhor Aratos Arganos Charias Djedhor Ezena Horemakhet Isocrates Khabbabash Leonippus Lydiadas Manetho Massiva
 			Nakhthoreb Naravas Nefaarud Neferibre Nesisti Nicias Nicodemus Oezalces Oxyntas Pedubast Peneus Perdiccas Philocrates 
@@ -328,142 +333,161 @@ zebra = {
 		last_names = { Ahmid Galestus Kenamus Naravid Penamus Senuid Setnid Arganid Psammid Philothid Timolid Zosid Phileid Nicodemid Nefarid Bastid Xeneid
 		Ezanid Alarus Harsiotes Henus Ibus Khabbash Amasus Nectanebo Petubast Djedhid Tachys Mago  }
 	}
-	quaggan_zebra = {				
+
+	quaggan = {				
 		color = { 87 92 104 }
 		first_names = { Arslanbek Atajan Berdimyrat Dayanch Ezizjan Hemra Isanguly Khodzhakuli Murgen Oraz Akdzha Akgyz Bibi Dilnaza Gulbadam Hesel Jemal Mahym Nartach Pamyk }
 
 		last_names = { Abaev Ashyrow Charye Begum Gul Kul Khan Orazgeldiyew Juma Kurban  }
 	}
-	zebharan_zebra = {	
+
+	zebharan = {	
 		color = { 168 59 59 }
 		first_names = { Ameqran Idir Itri Izem Agerzam Ghanim Massen Rezki Usem Winaruz Kahina Tajeddigt Tidir Tifawt Titrit Bakhta Dihya Tagwizult Ultasila Zawgha }
 
 		last_names = { Aït Ameziane Bouhouche Grigahcine Halliche Jlassi Mkerref Mazigh Zammit Zeroual  }
 	}
-	alwani_zebra = {	
+
+	alwani = {	
 		color = { 135 144 180}
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	zarhay_zebra = {	
+
+	zarhay = {	
 		color = { 62 175 151 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	macigenan_zebra = {	
+
+	macigenan = {	
 		color = { 30 31 162 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	mazwian_zebra = {	
+
+	mazwian = {	
 		color = { 230 231 62 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	mozzi_zebra = {	
+
+	mozzi = {	
 		color = { 106 36 138 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	ugabi_zebra = {	
+
+	ugabi = {	
 		color = { 21 21 227 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	aorandan_zebra = {	
+
+	aorandan = {	
 		color = { 213 160 18 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	zornu_zebra = {	
+
+	zornu = {	
 		color = { 201 204 127 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	hayzeb_zebra = {	
+
+	hayzeb = {	
 		color = { 138 22 59 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	zwahilean_zebra = {	
+
+	zwahilean = {	
 		color = { 242 116 58 }
 		first_names = { Zatau Kyauta Bitruz Ngari Garwa Zalla Zonto Bunami Meze Zheka Mazza Mamadou Mouzza Fouzzeni Yoro Zoumani Zundiata Zolo Faraji Zengo Zibwe Mwenye Zuberi Ganza Imanzi Ntare Aizhatu Zamina Alheri Madari Kodo Budu Balu Zato Amza Oumou Aoua Bako Azha Chauziku Furaha Mchumba Zia Zanaa Zauda Zuri Zhumbusho Yennenga Poko }
 
 		last_names = { Zaramy Zabba Zeita Touze Dabo Zonde Baru Muza Zuzo Dibba Zissoko Bakaba Diao Zerbo Kinte Outtara Berahino }
 	}
-	imba_zaru_zebra = {	
+
+	imba_zaru = {	
 		color = { 242 116 58 }
 		first_names = { Dakarai Farai Fungai Itai Munashe Munyaradzi Rutendo Simba Tafadzwa Tichaona Chipo Danai Fadzai Manyara Mudiwa Nyarai Rufaro Sekai Tambudzai Tariro }
 
 		last_names = { Chamapiwa Dangarembga Dambudzo Gwinyai Hatendi Jeyi Majange Mbangwa Ongai Tinetariro }
 	}
-	tzhimane_zebra = {	
+
+	tzhimane = {	
 		color = { 140 183 154 }
 		first_names = { Siyabonga Sibusiso Simphiwe Lindokuhle Siphesihle Sandile Nothando Lindelwa Banele Bongani Sifiso Nokwanda Mpendulo Thabiso Ayanda Sanele Sabelo Nosipho Mduduzi Wandile Banele Thandolwethu Zenzile Maveletiveni Samkeliso Sfiso Sicalo Lakhela Ntfombi Tandzile Zenzile Banele Hlengiwe Lindiwe Thandolwethu }
 
 		last_names = { Dlamini Simelane Mamba Shongwe Magagula Nxumalo Nkambule Vilakati Mabuza Khumalo Kunene Tsabedze Shabangu Zwane Maseko Ngwenya Mdluli Hlophe Mavuso Fakudze
 		Matsebula Masuku Msibi Gama Sibandze Nhlabatsi Bhembe Ndlovu Ndwandwe Ginindza Dludlu Mnisi Maziya Mkhonta Mhlanga Motsa Gamedze Dube Lukhele Mswati }
 	}
-	roaman_zebra = {	
+
+	roaman = {	
 		color = { 167 10 100 }
 		first_names = { Melisixw Nikosan Sixwil Appius Caeso Decimus Gaius Marcus Kassol Hoshal Xessuk Lassek Nashel Zaxsil Shorkar Kesshal Lixsil Sashrom Neshkar Soolsh Kashnel Xashrol Seskol Hexan Xenim Xantal Bashil Vasil Antox Sharnel Veskar Tolshan Kresson Hassruk Zashil Drosken Lexhar Mosrik Thassul Rashek Xolmir Nikosazana Noxolo Thandi Caesonia Decima Glaucia Quintina Xalisa Hasira Elshona Sesuma Lishara Ashena Shaxila Nesaura Kasila Sheola Hosama Eslina Zashela Xesina Shisyra Xena Xenith Xanti Lasari Asiri Selina Rashola Xarissa Thesua Holisha Zeraya Lassira Kishola Ossena Yashira Vesula Nesho }
 
 		last_names = { Aelius Aurelius Quinctilius Domitius Junius Madikzela Matanzima Mxenge Saxellius Losharius Tashaeus Kasillis Harsalis Zoshini Leximarii Shenalli Nessavi Kassoreli Xurssaeus Hassimeri Domisali Elxati Sullaxi Quensari Rasheni Thessimari Vosshari Xellomiti Ashkarianus Zalessi Khlossaeus Ossimarux Nashoreli Xerili Lassovari Veshali Cassilarius Hossidianus Vexellius Trosarius Lusshianus Marxelius Phassorianus Xerullius Zashonellus Domessarus Velissianus Quorxaeus Tessandri Vessari }
 	}
-	zebluan_zebra = {	
+
+	zebluan = {	
 		color = { 140 183 154 }
 		first_names = { "Shaka" "Linda" "Dumisani" "Themba" "Ndleleni" "Sipho" "Phiwokwakhe" "Hlengiwe" "Nofoto" "Ulwazi" "Khulekani" "Sindisiwe" "Zanele" "Mhambi" }
 
 		last_names = {  "Athule" "Bhekimuzi" "Musa" "Luyanda" "Langa" "Sufiso" "Thalente" "Jabulani" }
 	}
-	
-	zongolese_zebra = {	
+
+	zongolese = {	
 		color = { 255 252 193 }
 		first_names = { "Alongi" "Imani" "Lufua" "Lushiku" "Manoka" "Milandu" "Tshilobu" "Nyindu" "Baraka" "Feza" "Kapia" "Kayipu" "Malundama" "Mpata" "Nzuzi" "Ndaya" }
 
 		last_names = { "Mtengo" "Nkhuyu" "Zitsulo" "Phiri" "Nyenyezi" "Mkwiyo" }
 	}
-	
-	talarayi_zebra = {	
+
+	talarayi = {	
 		color = { 255 191 16 }
 		first_names = { "Akhom" "Chaianan" "Khaokong" "Mekhin" "Narong" "Panya" "Phiansak" "Samart" "Surawit" "Yongyut" "Adisai" "Chalaem" "Daranee" "Hathai" "Itsari" "Lamyai" "Mukda" "Natthika" "Onwara" "Phraiwan" }
 
 		last_names = { "Phea Thung" "Phea Phukea" "Phea Pami" "Phea Chayfang" "Phea Maena" "Phea Neinkhea" }
 	}
-	
-	southeast_zebra = {	
+
+	southeast = {	
 		color = { 255 191 16 }
 		first_names = { "Dran Reb" "Co Hor" "Terek" "Retser" "Cercermor" "Jerumar" "Alab" "Banoy" "Limar" "Abrigaleya" "Luzviminade" "Rublylyn" "Jezlane" "Liryo" "Tumalona" "Bituina" "Bayabayn" "Manansa" }
 
 		last_names = { "Shenshe" "Mudilaki" "Hantugasotsu"  "Thacsayshin" "Meishiren" "Barynam" "Rabanlag" "Tuppinuliam" }
 	}
+
 }
 
 deer = {
 	leader = european
 	unit = EuropeanGC
-	olenian_deer = {						
+	olenian = {						
 		color = { 224 225 249 }
 		first_names = { Lauri Pekka Mauno Jussi Alpo Petri Kari Juha Risto Viljo Paavo Eino Arvo Ville Mikko Petteri Aleksi Allu Ahti Ahto Erikki Eero Jani Jarno Johannes Kauko Kalevi Ilkka Eljas Erkki Auno Ilmo Kaarle Aada Anna Aina Emmi Essi Hanna Heidi Iina Ilma Ilta Impi Iris Jaana Janni Johanna Kaija Karin Kata Kati Katriina Kirsi Kukka Lahja Lempi Lilja Lumi Maire Marja Matilda Meri Minttu Orvokki Päivä Pihla Pilvi Pinja Rauha Ritva Saana Säde Sara Satu Seija Sini Sirpa Soile Suvi Tähti Taru Tuija Tuulikki Vanamo Vieno Vilja Vuokko }
 
 		last_names = { Pertola Törni Marttinen Arjanen Rajala Ryti Juutilanen Virtanen Korhonen Nieminen Laine Järvinen Karhu Kari Markkula Matilla Luoma Heikkinen Helminen Lahti Olli Oksanen Jaakola Janhunen Mäkelä Mäkinen }
 	}
-	austurland_deer = {						
+
+	austurland = {						
 		color = { 229 204 255 }
 		first_names = { Aage Arnór Ásgeir Astrathur Baldur Bjarni Björn Brynjólfur Dagbjartur Eggthor Einar Eysteinn Freyr Haraldur Hermann Gísli Hjörtur Jóhann Lórens Oddleifur Ólafur Skúli Stefán Sturlaugr Sveinn Vagn Vilhjálmur Ögrim Árný Arnfrithur Bjarnhildur Boghildur Dómhildur Drótt Freydís Gunnrún Rafney }
 
 		last_names = { Arnórsson Ásgeirsson Thorarensen Bjarnason Björnsson Blöndal Aagesson Astrathursson Baldursson Björnsson Eggthorsson Guðmundsson Hjörtursson Jonsson Jónasson Oddleifsson Ólafsson Olgeirsson Pétursson Sigurbjörnsson Stefánsson Sæmundsson Thors Þórðarson Vagnsson Arnórsdóttir Ásgeirsdóttir Thorarensen Bjarnadóttir Björnsdóttir Blöndal Aagesdóttir Astrathursdóttir Baldursdóttir Björnsdóttir Eggthorsdóttir Guðmundsdóttir Hjörtursdóttir Jonsdóttir Jónasdóttir Oddleifsdóttir Ólafsdóttir Olgeirsdóttir Pétursdóttir Sigurbjörnsdóttir Stefánsdóttir Sæmundsdóttir Thors Þórðardóttir Vagnsdóttir }
 	}
-	hindo_olenian_deer = {						
+
+	hindo_olenian = {						
 		color = {119 119 255}
 		first_names = { Amritnarayan Balabhata Balinarayan Ballalsen Basudevnayaran 
 			Bhagadatta Bhairabendranarayan Bhatta Bhavashankari Bhimsingha Birnayaran 
@@ -503,7 +527,8 @@ deer = {
 		"Somavansha" "Adityavansha" "Chandravansha" "Suryavansha"
 		"Sailodbhava" "Nagavamsi" "Somavamsi" }
 	}
-	hindian_deer = {						
+
+	hindian = {						
 		color = {232 166 216}
 		first_names = { Amritnarayan Balabhata Balinarayan Ballalsen Basudevnayaran 
 			Bhagadatta Bhairabendranarayan Bhatta Bhavashankari Bhimsingha Birnayaran 
@@ -543,6 +568,7 @@ deer = {
 		"Somavansha" "Adityavansha" "Chandravansha" "Suryavansha"
 		"Sailodbhava" "Nagavamsi" "Somavamsi" }
 	}
+
 }
 
 buffalos = {
@@ -554,12 +580,13 @@ buffalos = {
 
 		last_names = { "of Ayandi" "of Meskwakia" "of Rosemarein" "of Pinto Creek" "of Minefields" "of Snortora" "of Canter Creek" "of Sunshine" }
 	}
+
 }
 
 griffon = {
 	leader = european
 	unit = EuropeanGC
-	herzlander_griffon = {						
+	herzlander = {						
 		color = { 229 138 47 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -573,7 +600,8 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-	ostlander_griffon = {						
+
+	ostlander = {						
 		color = { 229 134 100 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -587,13 +615,15 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-	feathisian_griffon = {						
+
+	feathisian = {						
 		color = { 122 150 128 }
 		first_names = { Adriaan Albert Anthony Antonius Berend Bodo Carsten Christiaan Cornelis Dirk Ferdinand Freek Frits Gerard Godfried Govert Hendrik Henri Jacob Jacobus Jan "Jan Willem" Johan Johannes Laurens Mathias Matthijs Nicolaas Peter Petrus Philippus Pieter Quirinus Sijmen Theodorus Tjerk Willem Coba Corrie Frieda Hannie Helena Ina Jet Joke Miep Reina Truus }
 
 		last_names = { Boers "'t Mannetje" Best "Bischoff van Heemskerk" "de Visser" "den Feathisia" "den Ouden" "Jacometti" "van den Bent" "van den Briel" "van den Hof" "van der Bijl" "van Helsdingen" "van Liempd" "van Setten" "van Zinnicq Bergmann" "Wittert van Hoogland" Bosch Bruggink Bruinier Buijs Buurman Carstens "den Breejen" Elias Folmer Giesen Ham Harberts Hilberdink Hoogewerff Hoving Jaapies Janssen Jolles Kaak Kraak Krouwel Kuiper Landzaat Leegstra Lukkien Maas Migchelbrink Reijnierse Rijnders Roelofsen Sandberg Scherpenhuijzen Schippers Steen Tebrunsvelt Varwijk Verhoef Visscher Vos Winkelman }
 	}
-	nova_griffon = {				
+
+	nova = {				
 		color = { 226 163 79 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -607,14 +637,16 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-	vedinan_griffon = {						
+
+	vedinan = {						
 		color = { 87 164 113 }
 		first_names = {  Karl Erik Lars Anders Per Mikael Johan Olof Nils Jan Elisabeth Anna Margareta Eva Birgitta Karin Linnea  }
 
 		last_names = { Gråklo Dimfjäder Stormfjäder Regnskiöld Bronssvans Åsksvans Lernäbb Skymningsvinge Mörkerklo Bistervinge
 		Bisterklo Hårdnäbb Silverplym Strålklo Stormfödd Guldplym Vitfjäder Stjärnnäbb }
 	}
-	cloudburian_griffon = {					
+
+	cloudburian = {					
 		color = { 87 164 113 }
 		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin
 		Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar
@@ -626,7 +658,8 @@ griffon = {
 		Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg
 		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
 	}
-	arcturian_griffon = {					
+
+	arcturian = {					
 		color = { 210 201 129 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -640,21 +673,15 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-	aquileian_griffon = {					
+
+	aquileian = {					
 		color = { 152 60 85 }
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-			Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-			François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-			Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-			Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas Anne Marie Françoise Gisèle Marguerite Marianne Simone Anaïs Irène Nathalie Elsa }
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas Anne Marie Françoise Gisèle Marguerite Marianne Simone Anaïs Irène Nathalie Elsa Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather }
 		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Castellane" "de Castelnau"
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Castellane" "de Castelnau" "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-	greifwald_griffon = {		
+
+	greifwald = {		
 		color = { 29 141 126 }
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant
 			Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges
@@ -673,7 +700,8 @@ griffon = {
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}
-	pomovarran_griffon = {					
+
+	pomovarran = {					
 		color = { 26 101 49 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 			Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
@@ -687,7 +715,8 @@ griffon = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
-	east_aquileian_griffon = {					
+
+	east_aquileian = {					
 		color = { 255 175 145 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 			Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
@@ -701,7 +730,8 @@ griffon = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
-	griffonstone_griffon = {					
+
+	griffonstone = {					
 		color = { 105 66 112 }
 		first_names = { Maximilian Felix Erich Gerhard Gunther Otto Walter Wilhelm Heinz Hermann Heinrich
 			Theodor Hans Anton Joachim Max Emil Peter Fritz Otto Adolf Tobias Staffan Marco Karl Chiron
@@ -715,13 +745,15 @@ griffon = {
 		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 		Sunclaw Rainfeather Rockbeak Bluebeak Silverwing Blackfeather Sterbenclaw Windwing Lighttalon Sunwing }
 	}
-	rumare_griffon = {					
+
+	rumare = {					
 		color = { 85 161 63 }
 		first_names = { "Dylan" "Osian" "Elis" "Jac" "Rhys" "Hari" "Gruffydd" "Aled" "Alan" "Bryn" "Cai" "Carwyn" "Derfel" "Gethin" "Gwydion" "Llywelyn" "Morgan" "Tristan" "Ffion" "Seren" "Megan" "Mali" "Nia" "Cadi" "Eria" "Lowri" "Efa" "Elin" }
 
 		last_names = { "Griffiths" "Moss" "Driscoll" "Morgan" "Terfel" "Cothi" "Talog" "ap Hywel" "ap Rhys" "ap Alan" "ap Carwyn" "ap Tristan" }
 	}
-	karthinian_griffon = {					
+
+	karthinian = {					
 		color = { 151 110 255 }
 		first_names = { Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
 			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
@@ -735,7 +767,8 @@ griffon = {
 		Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli }
 	}
-	talousian_griffon = {					
+
+	talousian = {					
 		color = { 237 115 158 }
 		first_names = { Glessandro Galfonso Gambrogio Gamedeo Andrea Angelo Antonio Benito Camillo Carlo
 			Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
@@ -749,7 +782,8 @@ griffon = {
 		Menabrea Orengo Pallavicino Pecori-Giraldi  Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari Vaccari Zupelli }
 	}
-	sicameonese_griffon = {					
+
+	sicameonese = {					
 		color = { 209 73 108 }
 		first_names = { Sebastian Matias Nicolas Samuel Joaquin Martin Jeronimo Emmanuel Maximiliano Rodrigo
 			Agustín Alberto Alejandro Alfonso Álvaro Antonio Arsenio Augusto Baldomero
@@ -765,19 +799,22 @@ griffon = {
 
 		last_names = { Garragris "Pluma de Tormenta" Cresta Cola Pico Ala Remontarse Volar }
 	}
-	lushian_griffon = {					
+
+	lushian = {					
 		color = { 190 226 172 }
 		first_names = { László István József János Sándor Ferenc Zoltán Tibor Imre Lajor Gábor Gyorgy Gyula Attila András Mária Erzsébet Éva Katalin Ilona Zsuzsanna Anna Ildikó Judit Ágnes Margit Erika Julianna Edit Irén }
 
 		last_names = { Nagy Kovács Tóth Szabó Horváth Varga Kiss Molnár Németh Farkas Balogh Papp Takács }
 	}
-	prywhenian_griffon = {					
+
+	prywhenian = {					
 		color = { 208 147 57 }
 		first_names = { Gheorghe Ioan Vasile Constantin Ion Lexandru Nicolae Kihai Dumitru Andrei Denis Augustin Ionel Geza Dragomir Stefan Nic Varujan Simu Maria Elena Ana Ioana Kihaela Andreea Cristina Mariana Lexandra }
 
 		last_names = { Popa Popescu Radu Dumitru Stan Stoica Matei Ciobanu Ionescu Rusu "de Temsoar" "de Kivessin" "de Larios" }
 	}
-	zaphzian_griffon = {				
+
+	zaphzian = {				
 		color = { 144 169 112 }
 		first_names = {"Aleksander"
 			"Alexei"
@@ -899,37 +936,42 @@ griffon = {
             "Voroshilova"
             "Zavoyko"		}
 	}
-	gryphussian_griffon = {					
+
+	gryphussian = {					
 		color = { 80 135 121 }
 		first_names = { Antoni Jakub Jan Szymon Franciszek Filip Grzegorz Michał Mikołaj Tomasz Wojciech Kacper Julia Zuzanna Zofia Lena Maja Hanna Amelia Alicja Natalia Wiktoria }
 
 		last_names = { Szaryszpon Piórkomgły Piórkoburzy Deszczówka Skrzydło Dziób Pazur Napiórkowski Szaryszpon Piórkomgła Piórkoburza Deszczówka Skrzydło Dziób Pazur Napiórkowska }
 	}
-	zebrican_griffon = {				
+
+	zebrican = {				
 		color = { 224 139 47 }
 		first_names = { Adriaan Albert Anthony Antonius Berend Bodo Carsten Christiaan Cornelis Dirk Ferdinand Freek Frits Gerard Godfried Govert Hendrik Henri Jacob Jacobus Jan "Jan Willem" Johan Johannes Laurens Mathias Matthijs Nicolaas Peter Petrus Philippus Pieter Quirinus Sijmen Theodorus Tjerk Willem Coba Corrie Frieda Hannie Helena Ina Jet Joke Miep Reina Truus }
 
 		last_names = { Boers "'t Mannetje" Best "Bischoff van Heemskerk" "de Visser" "den Hollander" "den Ouden" "Jacometti" "van den Bent" "van den Briel" "van den Hof" "van der Bijl" "van Helsdingen" "van Liempd" "van Setten" "van Voorst tot Voorst" "van Zinnicq Bergmann" "Wittert van Hoogland" Bosch Bruggink Bruinier Buijs Buurman Carstens "den Breejen" Elias Folmer Giesen Ham Harberts Hilberdink Hoogewerff Hoving Jaapies Janssen Jolles Kaak Kraak Krouwel Kuiper Landzaat Leegstra Lukkien Maas Migchelbrink Reijnierse Rijnders Roelofsen Sandberg Scherpenhuijzen Schippers Steen Tebrunsvelt Varwijk Verhoef Visscher Vos Winkelman }
 	}
+
 }
 
 kirin = {
 	leader = european
 	unit = EuropeanGC
-	kirian_kirin = {					
+	kirian = {					
 		color = { 243 41 0 }
 		first_names = { Fennel Cinnabar Persimon Cornsilk Hawthorn Celadon Citrus Blaze Mahogany Timber Oak Cedar Birch Camphor Dewy Tinder Cinder Banyan Pine Cerulean Smoky Cobalt Almond Cocoa Copper Walnut Umber Fern Quartz Vermilion Garnet Dusk Arctic Bracken Beech Pumice Sea Hemlock Willow Cornsilk Sweetfern Lilac Peony Tinder Cinnamon Carmin Citrine Lavender Winter Summer Ember Cinder Autumn Berry Clementine Lemony Scarlet Sunshine Orchid Maple Sundew Dewy Windy Ivy Tulip Cornflower Azure Sapphire Violet Ebony Indigo Turquoise Almond Sienna Cocoa Myrtle Honeydew Fern Emerald Minty Amaranth Apricot Saffron Cherry Amethyst Chiffon Amber Vanilla Lotus Crystal Spring Juniper Acacia Dawn Aurora Arctic Lustre Holly Primrose
 		}
 
 		last_names = { Flame Flash Blossom Fir Floret Pekoe Woodrose Flaxseed Snow Leaf Glow Brook Creek Shade Bright Flare Spark Zest Glimmer Ray Gleam Shimmer Flicker Seed Spruce Sprout Canopy Breeze Moss Thorn Petal Glacier Meadow Gem Ice Thistle Gold Straw Scale Sleet Storm Scorch Char Pyre Hearth Singe Chill Mist Aura Glint Burn Hue Shine Smoke Fade Root Taro Linseed Samphire }
 	}
-	zaikirian_kirin = {					
+
+	zaikirian = {					
 		color = { 131 101 85 }
 		first_names = { Fennel Cinnabar Persimon Cornsilk Hawthorn Celadon Citrus Blaze Mahogany Timber Oak Cedar Birch Camphor Dewy Tinder Cinder Banyan Pine Cerulean Smoky Cobalt Almond Cocoa Copper Walnut Umber Fern Quartz Vermilion Garnet Dusk Arctic Bracken Beech Pumice Sea Hemlock Willow Cornsilk Sweetfern Lilac Peony Tinder Cinnamon Carmin Citrine Lavender Winter Summer Ember Cinder Autumn Berry Clementine Lemony Scarlet Sunshine Orchid Maple Sundew Dewy Windy Ivy Tulip Cornflower Azure Sapphire Violet Ebony Indigo Turquoise Almond Sienna Cocoa Myrtle Honeydew Fern Emerald Minty Amaranth Apricot Saffron Cherry Amethyst Chiffon Amber Vanilla Lotus Crystal Spring Juniper Acacia Dawn Aurora Arctic Lustre Holly Primrose
 		}
 
 		last_names = { Flame Flash Blossom Fir Floret Pekoe Woodrose Flaxseed Snow Leaf Glow Brook Creek Shade Bright Flare Spark Zest Glimmer Ray Gleam Shimmer Flicker Seed Spruce Sprout Canopy Breeze Moss Thorn Petal Glacier Meadow Gem Ice Thistle Gold Straw Scale Sleet Storm Scorch Char Pyre Hearth Singe Chill Mist Aura Glint Burn Hue Shine Smoke Fade Root Taro Linseed Samphire }
 	}
+
 }
 
 bears = {
@@ -941,6 +983,7 @@ bears = {
 		
 		last_names = { "of Svartpels" "of Volsungr" "of Scyfling" "of Anker" "of Falsen" "of Brodkorb" "of Benkestok" "of Rozenkrantz" "of Kane" "of Gotlung" "the Savage" "the Nomad" "the Clanless" }
 	}
+
 }
 
 penguins = {
@@ -952,6 +995,7 @@ penguins = {
 		
 		last_names = { Dahl Berg Torsen Haugen Bakke Blom Foss Lie Sunde }
 	}
+
 }
 
 dragons = {
@@ -965,6 +1009,7 @@ dragons = {
 		
 		last_names = { "" }
 	}
+
 	ice_dragon = {
 		color = { 76 122 214 }
 		first_names = { Gold Geode Coral Diamond Amarant Baff Basil Blacktip Inferno Burnferno Caldera Charcoal Bryce Remy Clay
@@ -973,6 +1018,7 @@ dragons = {
 		
 		last_names = { "" }
 	}
+
 }
 
 diamond_dogs = {
@@ -988,6 +1034,7 @@ diamond_dogs = {
 		"of Azar-Fetch" "of Azar-Gutboi" "of Kara-Hound" "of Khew-Gazar" "of High-Paw" "of Broken-Bone" "the Rich" "the Fat" "the Harsh"
 		"Biter" "the Scared" "the Wild" "the Bloody" "Gemhoarder" }
 	}
+
 }
 
 minotaurs = {
@@ -1013,6 +1060,7 @@ minotaurs = {
 		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas
 		Trikoupis Tsakalotos Tsolakoglou  Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis }
 	}
+
 }
 
 undeads = {
@@ -1024,12 +1072,13 @@ undeads = {
 		
 		last_names = { "Noxum" "Proelium" "Umbrum" "Lucis" "Profanus" "Periculum" "Magister" "Afflictio" "Invidia" "Aurora" }
 	}
+
 }
 
 harpies = {
 	leader = european
 	unit = EuropeanGC
-	macawian_harpy = {
+	macawian = {
 		color = { 76 145 63 }
 		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
 			Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
@@ -1043,7 +1092,8 @@ harpies = {
 		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk }
 	}
-	ornithian_harpy = {
+
+	ornithian = {
 		color = { 115 245 91 }
 		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
 			Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
@@ -1057,6 +1107,7 @@ harpies = {
 		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk }
 	}
+
 }
 
 hippogriffs = {
@@ -1070,65 +1121,73 @@ hippogriffs = {
 		last_names = { Mar Meer Splash Rose Pearl Tide Fin Bay Bee Drop Flow Gem Azure Air Poppy Star Twist Stream Bell Feather Cloud Spray Beak Ranger Hunter
 		Azul Talon Claw Nimbus Cumulus Cirrus Stratus Striker Gale Soar Breeze Diver Wing }
 	}
+
 }
 
 abyssinian_cats = {
 	leader = european
 	unit = EuropeanGC
-	abyssinian_cat = {
+	abyssinian = {
 		color = { 56 120 191 }
 		first_names = { Waffles Munkustrap Skimbleshanks "Rum-Tum-Tugger" Asparagus "Bustopher Jones" Macavity Mungojerrie "Old Deuteronomy" Alonzo Mistoffelees Admetus Pouncival "Sir Pounce" Tumblebrutus Purrebe Whiskael Tesfure Aspaw Pawdesse Melecat Mewged Reteritari Gus Growltiger Clawit Kibblede Mawdesse Pawrat Hisser Katsuragi Bartholomeow Grizabella Jennyanydots Rumpleteazer Cassandra Bombalurina Demeter Victoria Jemima Electra Exotica Siamese Griddlebone Hysperia Jellylorum Tantomile Sillabub Olivia "Noilly Prat" Fangel Getamew Beclawe Mewlugeta Mekitten Grimalkin Mewot Kittyist Catjit Meclawit Mewubdar Hisshan Pawsta }
 		
 		last_names = { Pawrat Mawdesse Kibblede Clawit Growltiger Gus Reteritari Mewged Melecat Pawdesse Aspaw Tesfure Whiskael Purrebe Tumblebrutus "Sir Pounce" Pouncival Admetus Mistoffelees Alonzo "Old Deuteronomy" Mungojerrie Macavity "Bustopher Jones" Asparagus "Rum-Tum-Tugger" Skimbleshanks Munkustrap Waffles Katsuragi Bartholomeow Pawsta Hisshan Mewubdar Meclawit Catjit Kittyist Mewot Grimalkin Mekitten Mewlugeta Beclawe Getamew Fangel "Noilly Prat" Olivia Sillabub Tantomile Jellylorum Hysperia Griddlebone Siamese Exotica Electra Jemima Victoria Demeter Bombalurina Cassandra Rumpleteazer Jennyanydots Grizabella }
 	}
+
 }
 
 donkeys = {
 	leader = european
 	unit = EuropeanGC
-	asstyrian_donkey = {
+	asstyrian = {
 		color = { 100 100 150 }
 		first_names = { Ninos Sennacherib "Sharru-Ukin" "Tukulti-Apil-Esharra" Narsai Amirta Bredil Imama Shammuramat Semiramis  }
 		
 		last_names = { Alakko Bako Nona Oraha Tyareh }
 	}
-	anserukian_donkey = {
+
+	anserukian = {
 		color = { 54 117 136 }
 		first_names = { An Dumuzi Enki Enlil Gilgamesh Sumuleal Sabium Hoofurapi Samsu Ereshkigal Inanna Ki Nanaya Ninsun Ninshubur Sabia  }
 		
 		last_names = { "of Braylon" "of Sfuruppak" "of Jackish" "of Niburro" "of Hinnysin" "of Asinus" }
 	}
+
 }
 
 horses = {
 	leader = european
 	unit = EuropeanGC
-	arabian_horse = {
+	arabian = {
 		color = { 0 108 53 }
 		first_names = { "Faisal" "Mutraqa" "Aleem" "Ajzil" "Asar" "Marah" "Sadim" "Ha'feer" "Sadl'han" "Ho'faria" "Iha'rup" "Hofyan" "Stirr'aad" "Hoo'fran" "Say'dle" "Haakim" "Hoo'far" "Zahra" "Warda" "Raghad" "Rybian" "Hay'fra" "Siddala" "Haifa" "Shafaq" "Fahifa" "Sahia" "Tay'faa" "Amira" "Rup'ah" "Sadd'aila" }
 		
 		last_names = { "Ibn-Hakim" "Ibn-Hej'ran" "Ibn-Sahif" "Al-Hay'dle" "Ibn-Nueman" "Ibn Ghazran" "Al-Noori" "Ibn Ghufran" "Al-Sadd'lani" "Ibn Stirr'fan" "Ibn Stirr'aad" "Ibn Mitrqa" "Ibn Shakima" "Ibn Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" "Bint Hakim" "Bint Hej'ran" "Bint Sahif" "Al-Hay'dle" "Bint Nueman" "Bint Ghazran" "Al-Noori" "Bint Ghufran" "Al-Sadd'lani" "Bint Stirr'fan" "Bint Stirr'aad" "Bint Mitrqa" "Bint Shakima" "Bint Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" }
 	}
-	yemane_horse = {
+
+	yemane = {
 		color = { 106 38 44 }
 		first_names = { "Faisal" "Mutraqa" "Aleem" "Ajzil" "Asar" "Marah" "Sadim" "Ha'feer" "Sadl'han" "Ho'faria" "Iha'rup" "Hofyan" "Stirr'aad" "Hoo'fran" "Say'dle" "Haakim" "Hoo'far" "Zahra" "Warda" "Raghad" "Rybian" "Hay'fra" "Siddala" "Haifa" "Shafaq" "Fahifa" "Sahia" "Tay'faa" "Amira" "Rup'ah" "Sadd'aila" }
 		
 		last_names = { "Ibn-Hakim" "Ibn-Hej'ran" "Ibn-Sahif" "Al-Hay'dle" "Ibn-Nueman" "Ibn Ghazran" "Al-Noori" "Ibn Ghufran" "Al-Sadd'lani" "Ibn Stirr'fan" "Ibn Stirr'aad" "Ibn Mitrqa" "Ibn Shakima" "Ibn Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" "Bint Hakim" "Bint Hej'ran" "Bint Sahif" "Al-Hay'dle" "Bint Nueman" "Bint Ghazran" "Al-Noori" "Bint Ghufran" "Al-Sadd'lani" "Bint Stirr'fan" "Bint Stirr'aad" "Bint Mitrqa" "Bint Shakima" "Bint Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" }
 	}
-	riseian_horse = {
+
+	riseian = {
 		color = { 205 10 10 }
 		first_names = { "Faisal" "Mutraqa" "Aleem" "Ajzil" "Asar" "Marah" "Sadim" "Ha'feer" "Sadl'han" "Ho'faria" "Iha'rup" "Hofyan" "Stirr'aad" "Hoo'fran" "Say'dle" "Haakim" "Hoo'far" "Zahra" "Warda" "Raghad" "Rybian" "Hay'fra" "Siddala" "Haifa" "Shafaq" "Fahifa" "Sahia" "Tay'faa" "Amira" "Rup'ah" "Sadd'aila" }
 		
 		last_names = { "Ibn-Hakim" "Ibn-Hej'ran" "Ibn-Sahif" "Al-Hay'dle" "Ibn-Nueman" "Ibn Ghazran" "Al-Noori" "Ibn Ghufran" "Al-Sadd'lani" "Ibn Stirr'fan" "Ibn Stirr'aad" "Ibn Mitrqa" "Ibn Shakima" "Ibn Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" "Bint Hakim" "Bint Hej'ran" "Bint Sahif" "Al-Hay'dle" "Bint Nueman" "Bint Ghazran" "Al-Noori" "Bint Ghufran" "Al-Sadd'lani" "Bint Stirr'fan" "Bint Stirr'aad" "Bint Mitrqa" "Bint Shakima" "Bint Sarj" "Al-Anani" "Al-Hoo'fandi" "Al-Bri'dili" "Al-Shoehandi" }
 	}
-	reemite_horse = {
+
+	reemite = {
 		color = { 211 184 179 }
 		first_names = { Simon Joseph Judah Zeleazar Yohanan Joshua Hananiah Jonathan Mattathias Menahem Jacob Hanan Dositheus Zachariah Ishmazel Levi Saul Onias
 			Samuzel Ezekiah Gadish Gani Hagai Hanilai Harsom Harqaq Maro Nathanzel Nathan Nebalta Nicandus Jason Jeremiah Kasaias Hannah Mariam Salome Shelamzion Martha Joanna Shiphra Berenice Sarah Imma Mara Hermione Helene Grapte Elisheba Esther Lysia Judith Julia Joanna Mara  }
 		
 		last_names = { Hyrcanus Iscariot Laganiat Braham Gedide Kohan Yochanan Maiman Megiston Likhluket Marsyam Neron Nicoliat Nisat Nuri Mahana Manale Josephus Kalatha Karkema }
 	}
-	karkad_horse = {
+
+	karkad = {
 		color = { 62 129 20 }
 		first_names = { Aziz Shams Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
 			Fazlollah Hamzeh Hasan Karim Mahmoud Murad Muhsin  Nosret Reza  
@@ -1151,6 +1210,7 @@ horses = {
 		Mazdaki Mazdani Mehregan Mazandarani Mokri Mohsen Paria Parsi Pouran Rahbar Rajavi Rezaei Rostamian 
 		Sassani Shamshiri Shir-Del Shirazi Tehrani Turani Tabrizi Zahedi }
 	}
+
 }
 
 yetis = {
@@ -1162,23 +1222,26 @@ yetis = {
 		
 		last_names = { Stormbringer Stormrider Stormcloud Thunderbolt Whirlwind Lightningstrike Rainstorm Snowfall Frostbite Icewind Deepfrost Blackice Cloudcracker Cloudburst Icebreaker Permafrost Sheerstorm Thunderclap Deepstorm Snowsheet Hailrain Boltshear Wavebreaker Icehoof Thunderhammer Boltbearer Surgeswell Galeshackler Cryospike Flurrystruck Bruntshock Flashstorm Hailshatter Stormshield Boltsquall Thunderburst Windshear Haildrift Tidebreaker Flashflood Tremorrain Silverstorm Snowmaker Bolthavoc Thundercurrent Skyfracture Riptide Icepeak Stormside Depthbreak }
 	}
+
 }
 
 hyenas = {
 	leader = european
 	unit = EuropeanGC
-	hyenian_hyena = {
+	hyenian = {
 		color = { 191 163 139 }
 		first_names = { "Degdeg" "Duufaan" "Labaad" "Qabweyn" "Maskaxleh" "Adag" "Geesiah" "Baraf" "Faraxan" "Kulul" "Balaad" "Dhagax" "Farxad" "Dahab" "Oncod" "Madani" "Faarax" "Jaylaani" "Mukhtaar" "Cismaan" "Cabdullaahi" "Aadan" "Askari" "Quruurux" "Qurux-badan" "Waardiyaha" "Dabal" "Kugoyn" "Hadiyad" "Mukhlisah" "Najaax" "Xoggaan" "Tamar" "Qalin" "Xukumaya" "Jeclaanaya" "Fikiraya" "Kuxiga" "Mugdiah" "Qunyar" "Xidid" "Qodax" "Farah" "Saynab" "Xafsa" "Hodan" "Ayaan" "Farxad" "Qarsoodi-ah" "Ciddi" "Qallafsanaan" "Ilaaliye" }
 		
 		last_names = { "" }
 	}
-	chisimbi_hyena = {
+
+	chisimbi = {
 		color = { 143 110 81 }
 		first_names = { Dakarai Farai Fungai Itai Munashe Munyaradzi Rutendo Simba Tafadzwa Tichaona Chipo Danai Fadzai Manyara Mudiwa Nyarai Rufaro Sekai Tambudzai Tariro }
 		
 		last_names = { Chamapiwa Dangarembga Dambudzo Gwinyai Hatendi Jeyi Majange Mbangwa Ongai Tinetariro }
 	}
+
 }
 
 giraffes = {
@@ -1190,6 +1253,7 @@ giraffes = {
 		
 		last_names = { Chamapiwa Dangarembga Dambudzo Gwinyai Hatendi Jeyi Majange Mbangwa Ongai Tinetariro }
 	}
+
 }
 
 gargoyles = {
@@ -1201,6 +1265,7 @@ gargoyles = {
 		
 		last_names = { "Agassi" "Boyajyan" "Charentz" "Ghasabyan" "Gulian" "Kartashyan" "Najaryan" "Salti" "Sarkis" "Vartanian" }
 	}
+
 }
 
 centaurs = {
@@ -1212,6 +1277,7 @@ centaurs = {
 		
 		last_names = { "Ak" "Adalı" "Avcı" "Bakırcı" "Bardakçı" "Bayraktar" "Boz" "Çolakoğlu" "Demirci" "Erdoğan" "Genç" "Gültekin" "Karabulut" "Kaya" "Mutlu" "Nalcı" "Özdemir" "Parlak" "Sarı" "Şaşmaz" "Tiryaki" "Topçu" "Uzun" "Üçok" "Yavuz" "Yılmaz" "Zengin" }
 	}
+
 }
 
 camels = {
@@ -1223,6 +1289,7 @@ camels = {
 		
 		last_names = { Agish Ato Boqi Dusma Giya Guli Tszyu Sagdi Niyaz Qurbon Yo'ldosh }
 	}
+
 }
 
 llamas = {
@@ -1234,10 +1301,12 @@ llamas = {
 		
 		last_names = { "Aden" "Cimba" "Dote" "Gyalzen" "Jigme" "Mingma" "Pabu" "Rabga" "Shigara" "Zenzin" "Amala" "Amrita" "Bhasundara" "Cepla" "Chomden" "Dolma" "Ekadzati" "Gewa" "Jaya" "Maya" }
 	}
+
 	alpaca = {
 		color = { 134 196 192 }
 		first_names = { "Atoc" "Catequil" "Huanmanpallpa" "Mani" "Knuno" "Maricanchi" "Tupac" "Punchau" "Viracocha" "Pisco" "Cava" "Cuntur" "Huitaca" "Ocllo" "Palta" "Si" "Peruda" "Cusi" "Ulu" "Axomamma" }
 		
 		last_names = { "Aden" "Cimba" "Dote" "Gyalzen" "Jigme" "Mingma" "Pabu" "Rabga" "Shigara" "Zenzin" "Amala" "Amrita" "Bhasundara" "Cepla" "Chomden" "Dolma" "Ekadzati" "Gewa" "Jaya" "Maya" }
 	}
+
 }

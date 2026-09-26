@@ -1,5 +1,5 @@
 capital = 2264
-primary_culture = zaphzian_griffon
+primary_culture = zaphzian
 religion = griffon
 government = absolute_monarchy
 plurality = 20

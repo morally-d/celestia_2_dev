@@ -1,5 +1,5 @@
 capital = 2251
-primary_culture = greneclyf_changeling
+primary_culture = greneclyf
 religion = changeling
 government = absolute_monarchy
 plurality = 100

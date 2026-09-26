@@ -1,5 +1,5 @@
 capital = 1757
-primary_culture = arcturian_griffon
+primary_culture = arcturian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 1442
-primary_culture = pomovarran_griffon
+primary_culture = pomovarran
 religion = griffon
 government = absolute_monarchy
 plurality = 100

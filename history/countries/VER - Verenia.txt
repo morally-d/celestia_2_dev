@@ -1,5 +1,5 @@
 capital = 1687
-primary_culture = east_aquileian_griffon
+primary_culture = east_aquileian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

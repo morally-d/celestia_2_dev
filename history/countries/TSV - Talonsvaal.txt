@@ -1,5 +1,5 @@
 capital = 2711
-primary_culture = roaman_zebra
+primary_culture = roaman
 religion = zebra
 government = absolute_monarchy
 plurality = 20

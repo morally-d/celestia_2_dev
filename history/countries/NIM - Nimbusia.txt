@@ -1,5 +1,5 @@
 capital = 2512
-primary_culture = nimbusian_pony
+primary_culture = nimbusian
 religion = pony
 government = absolute_monarchy
 plurality = 100

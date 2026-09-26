@@ -1,5 +1,5 @@
 capital = 1984
-primary_culture = hill_pony
+primary_culture = hill
 religion = pony
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 1746
-primary_culture = rumare_griffon
+primary_culture = rumare
 religion = griffon
 government = absolute_monarchy
 plurality = 100

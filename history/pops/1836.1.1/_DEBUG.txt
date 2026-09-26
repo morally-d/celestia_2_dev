@@ -15,27 +15,27 @@
 		size = 20000
 	}
 	bankers = {
-		culture = equestrian_pony
+		culture = equestrian
 		religion = pony
 		size = 20000
 	}
 	bankers = {
-		culture = marelander_pony
+		culture = marelander
 		religion = pony
 		size = 20000
 	}
 	bankers = {
-		culture = crystal_pony
+		culture = crystal_empire
 		religion = pony
 		size = 20000
 	}
 	bankers = {
-		culture = severyanian_pony
+		culture = severyanian
 		religion = pony
 		size = 20000
 	}
 	bankers = {
-		culture = trotsan_pony
+		culture = trotsan
 		religion = pony
 		size = 20000
 	}

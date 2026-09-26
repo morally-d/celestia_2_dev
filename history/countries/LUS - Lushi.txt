@@ -1,5 +1,5 @@
 capital = 2080
-primary_culture = lushian_griffon
+primary_culture = lushian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 1342
-primary_culture = talousian_griffon
+primary_culture = talousian
 religion = griffon
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 3026
-primary_culture = kirian_kirin
+primary_culture = kirian
 religion = kirin
 government = absolute_monarchy
 plurality = 100
