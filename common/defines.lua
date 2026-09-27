@@ -104,7 +104,7 @@ economy = {
 	GUNBOAT_HIGH_TAX_CAP = 1.0,
 	GUNBOAT_FLEET_SIZE_FACTOR = 100,
 	PROVINCE_SIZE_DIVIDER = 50,
-	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0.1, -- Capis don't build factories if less than this percent is employed in existing factories
+	CAPITALIST_BUILD_FACTORY_STATE_EMPLOYMENT_PERCENT = 0.7, -- Capis don't build factories if less than this percent is employed in existing factories
 	GOODS_FOCUS_SWAP_CHANCE = 0, -- Percent increased chance that artisan wants to change goods independantly of how well he is doing presently
 	NUM_CLOSED_FACTORIES_PER_STATE_LASSIEZ_FAIRE = 1, -- Number of closed factories allowed per state under Lassiez Faire
 	MIN_NUM_FACTORIES_PER_STATE_BEFORE_DELETING_LASSIEZ_FAIRE = 1, -- Min number of factories per state before starting to delete under Lassiez Faire
@@ -116,8 +116,8 @@ economy = {
 	MAX_FACTORY_MONEY_SAVE = 2500,	-- how much money is stored maximum in a factory.
 	SMALL_DEBT_LIMIT = 10000,
 	FACTORY_UPGRADE_EMPLOYEE_FACTOR = 0.8, -- determines how close to the employee limit we need to be before "upgrade all" will upgrade/expand a given factory (1 = 100%).
-	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.4,	-- how fast pops are Hired when there is a high demand
-	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.1,	-- how fast pops are Hired when there is a medium demand
+	RGO_SUPPLY_DEMAND_FACTOR_HIRE_HI = 0.2,	-- how fast pops are Hired when there is a high demand
+	RGO_SUPPLY_DEMAND_FACTOR_HIRE_LO = 0.02,	-- how fast pops are Hired when there is a medium demand
 	RGO_SUPPLY_DEMAND_FACTOR_FIRE = 0.4,		-- how fast pops are Fired when there is a low demand
 	EMPLOYMENT_HIRE_LOWEST = 0.001,				-- we Hire pops no slower then x% of total required per day
 	EMPLOYMENT_FIRE_LOWEST = 0.001,				-- we Fire pops no slower then x% of total required per day
@@ -737,17 +737,17 @@ ai =
 
 graphics =
 {
-	CITIES_SPRAWL_OFFSET = 0,
-	CITIES_SPRAWL_WIDTH = 0,
-	CITIES_SPRAWL_HEIGHT = 0,
-	CITIES_SPRAWL_ITERATIONS = 0,
-	CITIES_MESH_POOL_SIZE_FOR_COUNTRY = 0,
-	CITIES_MESH_POOL_SIZE_FOR_CULTURE = 0,
-	CITIES_MESH_POOL_SIZE_FOR_GENERIC = 0,
-	CITIES_MESH_TYPES_COUNT = 0,
-	CITIES_MESH_SIZES_COUNT = 0,
-	CITIES_SPECIAL_BUILDINGS_POOL_SIZE = 1,
-	CITIES_SIZE_MAX_POPULATION_K = 0			-- When province population reach 1mln, the city will get it's maximum size.
+	CITIES_SPRAWL_OFFSET = 2,
+	CITIES_SPRAWL_WIDTH = 52,
+	CITIES_SPRAWL_HEIGHT = 52,
+	CITIES_SPRAWL_ITERATIONS = 30,
+	CITIES_MESH_POOL_SIZE_FOR_COUNTRY = 64,
+	CITIES_MESH_POOL_SIZE_FOR_CULTURE = 64,
+	CITIES_MESH_POOL_SIZE_FOR_GENERIC = 256,
+	CITIES_MESH_TYPES_COUNT = 3,
+	CITIES_MESH_SIZES_COUNT = 3,
+	CITIES_SPECIAL_BUILDINGS_POOL_SIZE = 64,
+	CITIES_SIZE_MAX_POPULATION_K = 1000			-- When province population reach 1mln, the city will get it's maximum size.
 }
 
 }
