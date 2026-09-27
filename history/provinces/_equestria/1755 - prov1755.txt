@@ -9,6 +9,6 @@ terrain = urban_griffenheim
 
 state_building = {
 	level = 1
-	building = luxury_clothes_factory
+	building = regular_clothes_factory
 	upgrade = yes
 }
