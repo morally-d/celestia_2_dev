@@ -273,3 +273,38 @@ army = {
 	}
 }
 
+# =====================================================================
+# Starting sphere of influence (M1 section 1.7, 2026-09-27)
+#   <TAG> = { level = 5 }  -> TAG starts inside the Griffonian Empire's sphere
+#   level: 0 hostile / 1 opposed / 2 neutral / 3 cordial / 4 friendly / 5 in_sphere
+#   (see docs/C2_AI_DIPLOMACY_INVESTIGATION.md section 2.2)
+# =====================================================================
+
+# --- first tier ---
+RMA = { level = 5 influence_value = 100 }   # Romau
+FEA = { level = 5 influence_value = 100 }   # Grand Duchy of Feathisia
+BOI = { level = 5 influence_value = 100 }   # Griffonstone
+PYT = { level = 5 influence_value = 100 }   # Greifenmarschen
+GRF = { level = 5 influence_value = 100 }   # Nova Griffonia
+CLD = { level = 5 influence_value = 100 }   # Duchy of Cloudbury
+VED = { level = 5 influence_value = 100 }   # Kingdom of Vedina
+SKY = { level = 5 influence_value = 100 }   # Skyfall
+GTO = { level = 5 influence_value = 100 }   # Griffton
+VLE = { level = 5 influence_value = 100 }   # Vleugeland
+AQU = { level = 5 influence_value = 100 }   # Kingdom of Aquileia
+VER = { level = 5 influence_value = 100 }   # Verenia
+WNG = { level = 5 influence_value = 100 }   # Kingdom of Wingbardy
+LAK = { level = 5 influence_value = 100 }   # Rumare
+FAL = { level = 5 influence_value = 100 }   # Falcorian Queendom
+SCE = { level = 5 influence_value = 100 }   # Parishes of Sicameon
+CYA = { level = 5 influence_value = 100 }   # Cyanolisia
+
+# --- second tier (subjects of the above) ---
+KLO = { level = 5 influence_value = 100 }   # Kloberg
+FEZ = { level = 5 influence_value = 100 }   # Fezera
+FLO = { level = 5 influence_value = 100 }   # Flowena
+TAR = { level = 5 influence_value = 100 }   # Tarrin
+TAL = { level = 5 influence_value = 100 }   # Talouse
+FRN = { level = 5 influence_value = 100 }   # Francistria
+ARN = { level = 5 influence_value = 100 }   # Arantiga
+

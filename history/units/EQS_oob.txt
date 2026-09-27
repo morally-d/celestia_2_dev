@@ -218,3 +218,16 @@ army = {
 	}
 }
 
+# =====================================================================
+# Starting sphere of influence (M1 section 1.7, 2026-09-27)
+#   <TAG> = { level = 5 }  -> TAG starts inside Equestria's sphere
+#   level: 0 hostile / 1 opposed / 2 neutral / 3 cordial / 4 friendly / 5 in_sphere
+#   (see docs/C2_AI_DIPLOMACY_INVESTIGATION.md section 2.2)
+# =====================================================================
+
+HAY = { level = 5 influence_value = 100 }   # Hazerblanc / Hayshar
+SLL = { level = 5 influence_value = 100 }   # Trotgaron
+CST = { level = 5 influence_value = 100 }   # Canterstin
+EQC = { level = 5 influence_value = 100 }   # New Mareland
+SEV = { level = 5 influence_value = 100 }   # Tsardom of Severyana
+

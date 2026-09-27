@@ -1,0 +1,68 @@
+# =====================================================================
+# Celestia 2 - starting overlord/subject relations  (M1 section 1.7)
+# 2026-09-27   (scenario start = 932.1.1)
+#
+#   substate = "substate"  (tight; can be targeted by acquire_substate CBs,
+#                           survives a "break country" rebel victory)
+#   vassal   = "satellite" (loose; released by break-country effects)
+#   first  = overlord / suzerain
+#   second = subject
+#
+# No start_date/end_date -> active from scenario start.
+# Spheres (GP influence) are written separately in:
+#   history/units/EQS_oob.txt  and  history/units/GRI_oob.txt
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# [1] Equestrian circle  (EQS)
+# ---------------------------------------------------------------------
+substate = { first = EQS second = HAY }   # Hazerblanc / Hayshar
+substate = { first = EQS second = SLL }   # Trotgaron
+substate = { first = EQS second = CST }   # Canterstin
+substate = { first = EQS second = EQC }   # New Mareland
+vassal   = { first = EQS second = SEV }   # Tsardom of Severyana
+
+# ---------------------------------------------------------------------
+# [2] Griffonian Empire circle  (GRI) - first tier
+# ---------------------------------------------------------------------
+substate = { first = GRI second = RMA }   # Romau
+substate = { first = GRI second = FEA }   # Grand Duchy of Feathisia
+substate = { first = GRI second = BOI }   # Griffonstone
+substate = { first = GRI second = PYT }   # Greifenmarschen
+substate = { first = GRI second = GRF }   # Nova Griffonia
+
+vassal   = { first = GRI second = CLD }   # Duchy of Cloudbury
+vassal   = { first = GRI second = VED }   # Kingdom of Vedina
+vassal   = { first = GRI second = SKY }   # Skyfall
+vassal   = { first = GRI second = GTO }   # Griffton
+vassal   = { first = GRI second = VLE }   # Vleugeland
+vassal   = { first = GRI second = AQU }   # Kingdom of Aquileia
+vassal   = { first = GRI second = VER }   # Verenia
+vassal   = { first = GRI second = WNG }   # Kingdom of Wingbardy
+vassal   = { first = GRI second = LAK }   # Rumare
+vassal   = { first = GRI second = FAL }   # Falcorian Queendom
+vassal   = { first = GRI second = SCE }   # Parishes of Sicameon
+vassal   = { first = GRI second = CYA }   # Cyanolisia
+
+# ---------------------------------------------------------------------
+# [3] Griffonian Empire circle - second tier (their own subjects)
+# ---------------------------------------------------------------------
+substate = { first = FEA second = KLO }   # Kloberg        (under Feathisia)
+substate = { first = AQU second = FEZ }   # Fezera         (under Aquileia)
+substate = { first = AQU second = FLO }   # Flowena        (under Aquileia)
+vassal   = { first = AQU second = TAR }   # Tarrin         (under Aquileia)
+substate = { first = WNG second = TAL }   # Talouse        (under Wingbardy)
+vassal   = { first = WNG second = FRN }   # Francistria    (under Wingbardy)
+vassal   = { first = WNG second = ARN }   # Arantiga       (under Wingbardy)
+
+# ---------------------------------------------------------------------
+# [4] River circle  (RCT) - temporary stand-in for the River Coalition
+#     (a federation cannot be modelled yet; subjects approximate it)
+# ---------------------------------------------------------------------
+vassal = { first = RCT second = BAK }     # Bakara
+vassal = { first = RCT second = DEP }     # Deponya
+vassal = { first = RCT second = FRE }     # Ponaidhean (Freeponies)
+vassal = { first = RCT second = LCT }     # Lake City
+vassal = { first = RCT second = NIM }     # Nimbusia
+vassal = { first = RCT second = WIT }     # Wittenland
+vassal = { first = RCT second = DMT }     # Diamond Mountain (Diamond Dogs)
