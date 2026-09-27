@@ -1,0 +1,206 @@
+########################################################################
+#  Celestia 2 - Gold Rush Events
+#
+#  Mimics vanilla events/Goods.txt (province_event 1100, the one that
+#  turns Caozhou and friends into precious_metal):
+#  instead of setting trade_goods in history/provinces/*, the province's
+#  main RGO is switched to precious_metal by a province_event after the
+#  game has already started.  This deliberately keeps the new gold out of
+#  the pre-start economy simulation, and simply injects extra coin into
+#  the world market once play begins.
+#
+#  Event ids reserved for this file: 9991300 - 9991399
+#  When adding more provinces, continue at the next free id and add the
+#  matching EVTNAME / EVTDESC / EVTOPTA keys to:
+#    localisation/C2GoldRush.csv            (English)
+#    assets/localisation/zh-CN/zzzz-C2-GoldRush.csv   (Chinese)
+########################################################################
+
+province_event = {
+	id = 9991300
+
+	trigger = {
+		year = 932
+		province_id = 772			# The Mountain
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991300"
+	desc = "EVTDESC9991300"
+
+	option = {
+		name = "EVTOPTA9991300"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991301
+
+	trigger = {
+		year = 932
+		province_id = 1347			# Klugetown
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991301"
+	desc = "EVTDESC9991301"
+
+	option = {
+		name = "EVTOPTA9991301"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991302
+
+	trigger = {
+		year = 932
+		province_id = 1442			# Flowena
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991302"
+	desc = "EVTDESC9991302"
+
+	option = {
+		name = "EVTOPTA9991302"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991303
+
+	trigger = {
+		year = 932
+		province_id = 1444			# Firstport
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991303"
+	desc = "EVTDESC9991303"
+
+	option = {
+		name = "EVTOPTA9991303"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991304
+
+	trigger = {
+		year = 932
+		province_id = 1472			# New Ayacachtli
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991304"
+	desc = "EVTDESC9991304"
+
+	option = {
+		name = "EVTOPTA9991304"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991305
+
+	trigger = {
+		year = 932
+		province_id = 1498			# Bronzekreuz
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991305"
+	desc = "EVTDESC9991305"
+
+	option = {
+		name = "EVTOPTA9991305"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
+
+province_event = {
+	id = 9991306
+
+	trigger = {
+		year = 932
+		province_id = 1839			# Skyfall
+		not = { trade_goods = precious_metal }
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	fire_only_once = yes
+	title = "EVTNAME9991306"
+	desc = "EVTDESC9991306"
+
+	option = {
+		name = "EVTOPTA9991306"
+		trade_goods = precious_metal
+		add_province_modifier = {
+			name = gold_rush
+			duration = 730
+		}
+	}
+}
