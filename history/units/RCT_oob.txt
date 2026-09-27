@@ -53,3 +53,19 @@ army = {
 	}
 }
 
+# =====================================================================
+# Starting sphere of influence (M1 section 1.7, 2026-09-27)
+#   River circle common market, led by the River Republic (RCT).
+#   <TAG> = { level = 5 }  -> TAG starts inside RCT's sphere
+#   level: 0 hostile / 1 opposed / 2 neutral / 3 cordial / 4 friendly / 5 in_sphere
+#   (see docs/C2_AI_DIPLOMACY_INVESTIGATION.md section 2.2)
+# =====================================================================
+
+BAK = { level = 5 influence_value = 100 }   # Bakara
+DEP = { level = 5 influence_value = 100 }   # Deponya
+FRE = { level = 5 influence_value = 100 }   # Ponaidhean (Freeponies)
+LCT = { level = 5 influence_value = 100 }   # Lake City
+NIM = { level = 5 influence_value = 100 }   # Nimbusia
+WIT = { level = 5 influence_value = 100 }   # Wittenland
+DMT = { level = 5 influence_value = 100 }   # Diamond Mountain (Diamond Dogs)
+
