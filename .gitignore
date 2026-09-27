@@ -9,3 +9,12 @@
 *.tmp
 *.rej
 *~
+
+# PA-editor
+/alice-editor/
+
+# Economy-investigation scratch copies
+*_bak/
+*.pa_test_bak
+*.pre_align_bak
+*.pre_revert_bak
