@@ -34,12 +34,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 38118
+		size = 38021
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 288
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 97
 	}
 }
 
@@ -238,7 +243,7 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 153058
+		size = 152559
 	}
 	officers = {
 		culture = olenian
@@ -249,6 +254,11 @@
 		culture = olenian
 		religion = deer
 		size = 7558
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 499
 	}
 }
 
@@ -277,12 +287,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 47586
+		size = 47464
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 568
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 122
 	}
 }
 
@@ -437,12 +452,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 38908
+		size = 31126
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 83
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 3891
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 3891
 	}
 }
 
@@ -602,7 +627,7 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 145823
+		size = 144781
 	}
 	officers = {
 		culture = olenian
@@ -613,6 +638,16 @@
 		culture = olenian
 		religion = deer
 		size = 3054
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 982
+	}
+	clerks = {
+		culture = olenian
+		religion = deer
+		size = 60
 	}
 }
 
@@ -767,7 +802,7 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 250270
+		size = 248712
 	}
 	officers = {
 		culture = olenian
@@ -778,6 +813,16 @@
 		culture = olenian
 		religion = deer
 		size = 17768
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 1498
+	}
+	clerks = {
+		culture = olenian
+		religion = deer
+		size = 60
 	}
 }
 
@@ -937,12 +982,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 12919
+		size = 10335
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 69
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 1292
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 1292
 	}
 }
 
@@ -1039,12 +1094,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 16624
+		size = 13299
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 107
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 1662
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 1663
 	}
 }
 
@@ -1107,12 +1172,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 23108
+		size = 23049
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 149
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 59
 	}
 }
 
@@ -1175,12 +1245,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 13329
+		size = 13296
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 42
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 33
 	}
 }
 
@@ -1204,12 +1279,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 7866
+		size = 6293
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 8
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 786
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 787
 	}
 }
 
@@ -1238,12 +1323,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 88099
+		size = 87871
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 1247
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 228
 	}
 }
 
@@ -1267,12 +1357,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 13447
+		size = 10758
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 14
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 1344
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 1345
 	}
 }
 
@@ -1305,12 +1405,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 7847
+		size = 6278
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 67
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 784
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 785
 	}
 }
 
@@ -1339,7 +1449,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 157439
+		size = 125538
 	}
 	officers = {
 		culture = boreal
@@ -1350,6 +1460,21 @@
 		culture = boreal
 		religion = changeling
 		size = 3649
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 15744
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 15744
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 413
 	}
 }
 
@@ -1446,12 +1571,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 4916
+		size = 3933
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 10
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 491
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 492
 	}
 }
 
@@ -1519,12 +1654,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 30720
+		size = 24576
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 265
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 3072
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 3072
 	}
 }
 
@@ -1553,12 +1698,22 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 70001
+		size = 56001
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 760
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 7000
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 7000
 	}
 }
 
@@ -1650,12 +1805,22 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 81880
+		size = 65504
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 798
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 8188
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 8188
 	}
 }
 
@@ -1679,12 +1844,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 12303
+		size = 9842
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 26
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 1230
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 1231
 	}
 }
 
@@ -1713,7 +1888,7 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 307751
+		size = 304823
 	}
 	officers = {
 		culture = olenian
@@ -1724,6 +1899,16 @@
 		culture = olenian
 		religion = deer
 		size = 12373
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 2748
+	}
+	clerks = {
+		culture = olenian
+		religion = deer
+		size = 180
 	}
 }
 
@@ -1752,7 +1937,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 52875
+		size = 42300
 	}
 	officers = {
 		culture = boreal
@@ -1763,6 +1948,16 @@
 		culture = boreal
 		religion = changeling
 		size = 1049
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 5287
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 5288
 	}
 }
 
@@ -1791,12 +1986,17 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 90626
+		size = 90392
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 785
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 234
 	}
 }
 
@@ -1961,12 +2161,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 24279
+		size = 24217
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 157
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 62
 	}
 }
 
@@ -1995,12 +2200,22 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 105474
+		size = 84379
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 2209
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 10547
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 10548
 	}
 }
 
@@ -2077,12 +2292,17 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 30590
+		size = 30513
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 65
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 77
 	}
 }
 
@@ -2150,7 +2370,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 424850
+		size = 423485
 	}
 	officers = {
 		culture = boreal
@@ -2161,6 +2381,11 @@
 		culture = boreal
 		religion = changeling
 		size = 21846
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 1365
 	}
 }
 
@@ -2189,7 +2414,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 111865
+		size = 111573
 	}
 	officers = {
 		culture = boreal
@@ -2200,6 +2425,11 @@
 		culture = boreal
 		religion = changeling
 		size = 1841
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 292
 	}
 }
 
@@ -2252,12 +2482,22 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 12012
+		size = 9610
 	}
 	soldiers = {
 		culture = olenian
 		religion = deer
 		size = 25
+	}
+	labourers = {
+		culture = olenian
+		religion = deer
+		size = 1201
+	}
+	serfs = {
+		culture = olenian
+		religion = deer
+		size = 1201
 	}
 }
 
@@ -2485,7 +2725,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 132833
+		size = 132479
 	}
 	officers = {
 		culture = boreal
@@ -2496,6 +2736,11 @@
 		culture = boreal
 		religion = changeling
 		size = 4323
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 354
 	}
 }
 
@@ -2660,7 +2905,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 388543
+		size = 387496
 	}
 	officers = {
 		culture = boreal
@@ -2671,6 +2916,11 @@
 		culture = boreal
 		religion = changeling
 		size = 7497
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 1047
 	}
 }
 
@@ -2864,7 +3114,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 69667
+		size = 69484
 	}
 	officers = {
 		culture = boreal
@@ -2875,6 +3125,11 @@
 		culture = boreal
 		religion = changeling
 		size = 1472
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 183
 	}
 }
 
@@ -2903,7 +3158,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 170250
+		size = 169797
 	}
 	officers = {
 		culture = boreal
@@ -2914,6 +3169,11 @@
 		culture = boreal
 		religion = changeling
 		size = 5522
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 453
 	}
 }
 
@@ -2981,7 +3241,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 859987
+		size = 857272
 	}
 	officers = {
 		culture = boreal
@@ -2992,6 +3252,11 @@
 		culture = boreal
 		religion = changeling
 		size = 28590
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 2715
 	}
 }
 
@@ -3132,7 +3397,7 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 70886
+		size = 56523
 	}
 	officers = {
 		culture = trotsan
@@ -3143,6 +3408,21 @@
 		culture = trotsan
 		religion = pony
 		size = 1648
+	}
+	labourers = {
+		culture = trotsan
+		religion = pony
+		size = 7088
+	}
+	serfs = {
+		culture = trotsan
+		religion = pony
+		size = 7089
+	}
+	craftsmen = {
+		culture = trotsan
+		religion = pony
+		size = 186
 	}
 }
 
@@ -3249,7 +3529,7 @@
 	farmers = {
 		culture = olenian
 		religion = deer
-		size = 185079
+		size = 183815
 	}
 	officers = {
 		culture = olenian
@@ -3260,6 +3540,16 @@
 		culture = olenian
 		religion = deer
 		size = 10931
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 1204
+	}
+	clerks = {
+		culture = olenian
+		religion = deer
+		size = 60
 	}
 }
 
@@ -3424,12 +3714,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 8587
+		size = 6870
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 9
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 858
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 859
 	}
 }
 
@@ -3653,7 +3953,7 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 287627
+		size = 286698
 	}
 	officers = {
 		culture = brackish
@@ -3664,6 +3964,11 @@
 		culture = brackish
 		religion = changeling
 		size = 10565
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 929
 	}
 }
 
@@ -3799,7 +4104,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 125642
+		size = 125202
 	}
 	officers = {
 		culture = equestrian
@@ -3810,6 +4115,11 @@
 		culture = equestrian
 		religion = pony
 		size = 5744
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 440
 	}
 }
 
@@ -3838,12 +4148,17 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 80702
+		size = 80494
 	}
 	soldiers = {
 		culture = brackish
 		religion = changeling
 		size = 1229
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 208
 	}
 }
 
@@ -3911,12 +4226,17 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 17288
+		size = 17244
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 283
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 44
 	}
 }
 
@@ -3945,12 +4265,22 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 24405
+		size = 19524
 	}
 	soldiers = {
 		culture = boreal
 		religion = changeling
 		size = 373
+	}
+	labourers = {
+		culture = boreal
+		religion = changeling
+		size = 2440
+	}
+	serfs = {
+		culture = boreal
+		religion = changeling
+		size = 2441
 	}
 }
 
@@ -3979,12 +4309,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 59948
+		size = 47958
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 1185
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 5995
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 5995
 	}
 }
 
@@ -4086,7 +4426,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 127402
+		size = 126406
 	}
 	officers = {
 		culture = equestrian
@@ -4097,6 +4437,16 @@
 		culture = equestrian
 		religion = pony
 		size = 3672
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 936
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -4164,12 +4514,17 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 51246
+		size = 51115
 	}
 	soldiers = {
 		culture = brackish
 		religion = changeling
 		size = 499
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 131
 	}
 }
 
@@ -4198,7 +4553,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 190952
+		size = 190276
 	}
 	officers = {
 		culture = equestrian
@@ -4209,6 +4564,11 @@
 		culture = equestrian
 		religion = pony
 		size = 9960
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 676
 	}
 }
 
@@ -4295,7 +4655,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 70812
+		size = 70626
 	}
 	officers = {
 		culture = equestrian
@@ -4306,6 +4666,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1807
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 186
 	}
 }
 
@@ -4334,7 +4699,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 14018
+		size = 13981
 	}
 	officers = {
 		culture = boreal
@@ -4345,6 +4710,11 @@
 		culture = boreal
 		religion = changeling
 		size = 380
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 37
 	}
 }
 
@@ -4373,12 +4743,17 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 64982
+		size = 64814
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
 		size = 992
+	}
+	craftsmen = {
+		culture = trotsan
+		religion = pony
+		size = 168
 	}
 }
 
@@ -4407,12 +4782,22 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 19547
+		size = 15638
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 105
+	}
+	labourers = {
+		culture = buffalo
+		religion = buffalos
+		size = 1954
+	}
+	serfs = {
+		culture = buffalo
+		religion = buffalos
+		size = 1955
 	}
 }
 
@@ -4606,7 +4991,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 46387
+		size = 46265
 	}
 	officers = {
 		culture = equestrian
@@ -4617,6 +5002,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1184
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 122
 	}
 }
 
@@ -4645,12 +5035,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 48260
+		size = 48134
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 1118
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 126
 	}
 }
 
@@ -4713,7 +5108,7 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 27780
+		size = 22224
 	}
 	officers = {
 		culture = polar_bears
@@ -4724,6 +5119,16 @@
 		culture = polar_bears
 		religion = bears
 		size = 550
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 2778
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 2778
 	}
 }
 
@@ -4888,7 +5293,7 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 145957
+		size = 145572
 	}
 	officers = {
 		culture = brackish
@@ -4899,6 +5304,11 @@
 		culture = brackish
 		religion = changeling
 		size = 4049
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 385
 	}
 }
 
@@ -5102,12 +5512,17 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 125796
+		size = 125473
 	}
 	soldiers = {
 		culture = brackish
 		religion = changeling
 		size = 814
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 323
 	}
 }
 
@@ -5170,12 +5585,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 57338
+		size = 57191
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 433
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 147
 	}
 }
 
@@ -5233,12 +5653,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 34669
+		size = 27735
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 74
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3467
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3467
 	}
 }
 
@@ -5573,12 +6003,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 24444
+		size = 19555
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 26
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 2444
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 2445
 	}
 }
 
@@ -5641,7 +6081,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 55135
+		size = 54990
 	}
 	officers = {
 		culture = equestrian
@@ -5652,6 +6092,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1531
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 145
 	}
 }
 
@@ -6073,7 +6518,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 256140
+		size = 255465
 	}
 	officers = {
 		culture = boreal
@@ -6084,6 +6529,11 @@
 		culture = boreal
 		religion = changeling
 		size = 5395
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 675
 	}
 }
 
@@ -6112,7 +6562,7 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 456889
+		size = 455694
 	}
 	officers = {
 		culture = brackish
@@ -6123,6 +6573,11 @@
 		culture = brackish
 		religion = changeling
 		size = 9560
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 1195
 	}
 }
 
@@ -6540,12 +6995,22 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 21564
+		size = 17251
 	}
 	soldiers = {
 		culture = brackish
 		religion = changeling
 		size = 162
+	}
+	labourers = {
+		culture = brackish
+		religion = changeling
+		size = 2156
+	}
+	serfs = {
+		culture = brackish
+		religion = changeling
+		size = 2157
 	}
 }
 
@@ -6642,12 +7107,22 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 29939
+		size = 23951
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 194
+	}
+	labourers = {
+		culture = buffalo
+		religion = buffalos
+		size = 2994
+	}
+	serfs = {
+		culture = buffalo
+		religion = buffalos
+		size = 2994
 	}
 }
 
@@ -6676,12 +7151,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 18793
+		size = 15034
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 142
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1879
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1880
 	}
 }
 
@@ -6710,12 +7195,17 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 26741
+		size = 26673
 	}
 	soldiers = {
 		culture = brackish
 		religion = changeling
 		size = 172
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 68
 	}
 }
 
@@ -6744,7 +7234,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 240961
+		size = 190609
 	}
 	officers = {
 		culture = equestrian
@@ -6755,6 +7245,26 @@
 		culture = equestrian
 		religion = pony
 		size = 9907
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 24096
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 24096
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 2040
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 120
 	}
 }
 
@@ -6963,7 +7473,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 81070
+		size = 64856
 	}
 	officers = {
 		culture = equestrian
@@ -6974,6 +7484,16 @@
 		culture = equestrian
 		religion = pony
 		size = 2198
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 8107
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 8107
 	}
 }
 
@@ -7172,12 +7692,17 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 46760
+		size = 46640
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 354
+	}
+	craftsmen = {
+		culture = buffalo
+		religion = buffalos
+		size = 120
 	}
 }
 
@@ -7279,12 +7804,17 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 27340
+		size = 27271
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 206
+	}
+	craftsmen = {
+		culture = buffalo
+		religion = buffalos
+		size = 69
 	}
 }
 
@@ -7313,7 +7843,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 93535
+		size = 93289
 	}
 	officers = {
 		culture = equestrian
@@ -7324,6 +7854,11 @@
 		culture = equestrian
 		religion = pony
 		size = 2172
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 246
 	}
 }
 
@@ -7459,12 +7994,17 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 56073
+		size = 55930
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 544
+	}
+	craftsmen = {
+		culture = buffalo
+		religion = buffalos
+		size = 143
 	}
 }
 
@@ -7726,7 +8266,7 @@
 	farmers = {
 		culture = brackish
 		religion = changeling
-		size = 356783
+		size = 355845
 	}
 	officers = {
 		culture = brackish
@@ -7737,6 +8277,11 @@
 		culture = brackish
 		religion = changeling
 		size = 8692
+	}
+	craftsmen = {
+		culture = brackish
+		religion = changeling
+		size = 938
 	}
 }
 
@@ -8319,12 +8864,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 22391
+		size = 22334
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 120
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 57
 	}
 }
 
@@ -8411,12 +8961,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 33082
+		size = 32997
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 541
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 85
 	}
 }
 
@@ -8484,12 +9039,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 3472
+		size = 2778
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 53
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 347
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 347
 	}
 }
 
@@ -8552,12 +9117,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 28121
+		size = 22497
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 243
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 2812
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 2812
 	}
 }
 
@@ -8620,7 +9195,7 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 42981
+		size = 34385
 	}
 	officers = {
 		culture = polar_bears
@@ -8631,6 +9206,16 @@
 		culture = polar_bears
 		religion = bears
 		size = 2826
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 4298
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 4298
 	}
 }
 
@@ -8659,12 +9244,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 42391
+		size = 42283
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 365
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 108
 	}
 }
 
@@ -8727,12 +9317,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 77721
+		size = 77522
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 672
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 199
 	}
 }
 
@@ -8902,12 +9497,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 67730
+		size = 67556
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 735
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 174
 	}
 }
 
@@ -8955,12 +9555,17 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 39560
+		size = 39459
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 472
+	}
+	craftsmen = {
+		culture = buffalo
+		religion = buffalos
+		size = 101
 	}
 }
 
@@ -9023,12 +9628,27 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 33937
+		size = 27063
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 480
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3393
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3394
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 87
 	}
 }
 
@@ -9417,12 +10037,22 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 78737
+		size = 62990
 	}
 	soldiers = {
 		culture = polar_bears
 		religion = bears
 		size = 1287
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 7873
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 7874
 	}
 }
 
@@ -9587,12 +10217,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 57593
+		size = 57445
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 499
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 148
 	}
 }
 
@@ -9674,12 +10309,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 21474
+		size = 17179
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 92
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 2147
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 2148
 	}
 }
 
@@ -9849,12 +10494,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 29563
+		size = 23650
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 451
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 2956
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 2957
 	}
 }
 
@@ -9917,7 +10572,7 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 97207
+		size = 77766
 	}
 	officers = {
 		culture = trotsan
@@ -9928,6 +10583,16 @@
 		culture = trotsan
 		religion = pony
 		size = 5710
+	}
+	labourers = {
+		culture = trotsan
+		religion = pony
+		size = 9720
+	}
+	serfs = {
+		culture = trotsan
+		religion = pony
+		size = 9721
 	}
 }
 
@@ -10019,12 +10684,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 66190
+		size = 66020
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 717
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 170
 	}
 }
 
@@ -10189,12 +10859,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 64798
+		size = 64633
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 349
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 165
 	}
 }
 
@@ -10403,12 +11078,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 53802
+		size = 53003
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 820
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 739
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -10539,7 +11224,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 116067
+		size = 115655
 	}
 	officers = {
 		culture = equestrian
@@ -10550,6 +11235,11 @@
 		culture = equestrian
 		religion = pony
 		size = 7968
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 412
 	}
 }
 
@@ -10651,12 +11341,17 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 55175
+		size = 55034
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
 		size = 476
+	}
+	craftsmen = {
+		culture = trotsan
+		religion = pony
+		size = 141
 	}
 }
 
@@ -10962,7 +11657,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 150480
+		size = 149325
 	}
 	officers = {
 		culture = equestrian
@@ -10973,6 +11668,16 @@
 		culture = equestrian
 		religion = pony
 		size = 8533
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1095
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -11098,12 +11803,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 20466
+		size = 20414
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 266
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 52
 	}
 }
 
@@ -11132,12 +11842,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 24010
+		size = 23949
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 312
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 61
 	}
 }
 
@@ -11166,12 +11881,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 40367
+		size = 32294
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 173
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4036
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4037
 	}
 }
 
@@ -11239,12 +11964,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 11067
+		size = 8854
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 47
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1106
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1107
 	}
 }
 
@@ -11307,12 +12042,22 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 58882
+		size = 47106
 	}
 	soldiers = {
 		culture = western
 		religion = yak
 		size = 445
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 5888
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 5888
 	}
 }
 
@@ -11341,7 +12086,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 62831
+		size = 50265
 	}
 	officers = {
 		culture = equestrian
@@ -11352,6 +12097,16 @@
 		culture = equestrian
 		religion = pony
 		size = 1459
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 6283
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 6283
 	}
 }
 
@@ -11565,7 +12320,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 47679
+		size = 38143
 	}
 	officers = {
 		culture = equestrian
@@ -11576,6 +12331,16 @@
 		culture = equestrian
 		religion = pony
 		size = 3083
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4768
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4768
 	}
 }
 
@@ -11604,12 +12369,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 19314
+		size = 15451
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 62
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1931
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1932
 	}
 }
 
@@ -11677,12 +12452,22 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 46667
+		size = 37334
 	}
 	soldiers = {
 		culture = western
 		religion = yak
 		size = 712
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 4666
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 4667
 	}
 }
 
@@ -11779,7 +12564,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 30961
+		size = 30880
 	}
 	officers = {
 		culture = equestrian
@@ -11790,6 +12575,11 @@
 		culture = equestrian
 		religion = pony
 		size = 685
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 81
 	}
 }
 
@@ -11818,7 +12608,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 91432
+		size = 91107
 	}
 	officers = {
 		culture = equestrian
@@ -11829,6 +12619,11 @@
 		culture = equestrian
 		religion = pony
 		size = 5876
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 325
 	}
 }
 
@@ -11925,12 +12720,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 59643
+		size = 59489
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 843
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 154
 	}
 }
 
@@ -12124,12 +12924,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 5426
+		size = 4341
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 29
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 542
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 543
 	}
 }
 
@@ -12192,12 +13002,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 108175
+		size = 107898
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 700
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 277
 	}
 }
 
@@ -12260,7 +13075,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 48986
+		size = 39189
 	}
 	officers = {
 		culture = equestrian
@@ -12271,6 +13086,16 @@
 		culture = equestrian
 		religion = pony
 		size = 1535
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4898
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4899
 	}
 }
 
@@ -12430,12 +13255,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 34232
+		size = 27386
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 221
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 3423
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 3423
 	}
 }
 
@@ -12464,12 +13299,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 17899
+		size = 14319
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 174
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1790
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1790
 	}
 }
 
@@ -12522,12 +13367,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 31993
+		size = 31912
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 102
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 81
 	}
 }
 
@@ -12590,7 +13440,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 46406
+		size = 37125
 	}
 	officers = {
 		culture = equestrian
@@ -12601,6 +13451,16 @@
 		culture = equestrian
 		religion = pony
 		size = 924
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4640
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4641
 	}
 }
 
@@ -12629,7 +13489,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 72694
+		size = 72505
 	}
 	officers = {
 		culture = equestrian
@@ -12640,6 +13500,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1198
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 189
 	}
 }
 
@@ -12702,12 +13567,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 41534
+		size = 41428
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 404
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 106
 	}
 }
 
@@ -12886,12 +13756,22 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 76015
+		size = 60812
 	}
 	soldiers = {
 		culture = polar_bears
 		religion = bears
 		size = 991
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 7601
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 7602
 	}
 }
 
@@ -13270,7 +14150,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 146518
+		size = 146135
 	}
 	officers = {
 		culture = equestrian
@@ -13281,6 +14161,11 @@
 		culture = equestrian
 		religion = pony
 		size = 2576
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 383
 	}
 }
 
@@ -13348,7 +14233,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 44186
+		size = 44042
 	}
 	officers = {
 		culture = equestrian
@@ -13359,6 +14244,11 @@
 		culture = equestrian
 		religion = pony
 		size = 2245
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 144
 	}
 }
 
@@ -13489,12 +14379,27 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 17891
+		size = 14268
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 19
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1789
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1789
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 45
 	}
 }
 
@@ -13785,12 +14690,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 13864
+		size = 11091
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 89
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1386
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1387
 	}
 }
 
@@ -13853,7 +14768,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 149677
+		size = 148483
 	}
 	officers = {
 		culture = equestrian
@@ -13864,6 +14779,16 @@
 		culture = equestrian
 		religion = pony
 		size = 9214
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1134
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -14028,12 +14953,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 48945
+		size = 48820
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 317
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 125
 	}
 }
 
@@ -14193,7 +15123,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 44383
+		size = 35390
 	}
 	officers = {
 		culture = equestrian
@@ -14204,6 +15134,21 @@
 		culture = equestrian
 		religion = pony
 		size = 979
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4438
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4439
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 116
 	}
 }
 
@@ -14266,12 +15211,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 31308
+		size = 25046
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 236
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 3131
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 3131
 	}
 }
 
@@ -14334,7 +15289,7 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 549403
+		size = 439522
 	}
 	officers = {
 		culture = crystal_empire
@@ -14345,6 +15300,16 @@
 		culture = crystal_empire
 		religion = pony
 		size = 24904
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 54940
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 54941
 	}
 }
 
@@ -14373,7 +15338,7 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 78313
+		size = 62650
 	}
 	officers = {
 		culture = polar_bears
@@ -14384,6 +15349,16 @@
 		culture = polar_bears
 		religion = bears
 		size = 1905
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 7831
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 7832
 	}
 }
 
@@ -14407,12 +15382,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4829
+		size = 3863
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 5
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 483
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 483
 	}
 }
 
@@ -14475,7 +15460,7 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 257729
+		size = 206183
 	}
 	officers = {
 		culture = crystal_empire
@@ -14486,6 +15471,16 @@
 		culture = crystal_empire
 		religion = pony
 		size = 10624
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 25773
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 25773
 	}
 }
 
@@ -14509,12 +15504,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 6315
+		size = 5052
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 6
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 631
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 632
 	}
 }
 
@@ -14543,12 +15548,22 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 47424
+		size = 37939
 	}
 	soldiers = {
 		culture = western
 		religion = yak
 		size = 514
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 4742
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 4743
 	}
 }
 
@@ -14679,7 +15694,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 118174
+		size = 117864
 	}
 	officers = {
 		culture = equestrian
@@ -14690,6 +15705,11 @@
 		culture = equestrian
 		religion = pony
 		size = 2347
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 310
 	}
 }
 
@@ -14854,12 +15874,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 6135
+		size = 4908
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 39
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 613
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 614
 	}
 }
 
@@ -14927,12 +15957,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 18648
+		size = 18601
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 181
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 47
 	}
 }
 
@@ -14995,12 +16030,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 46720
+		size = 37376
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 49
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4672
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4672
 	}
 }
 
@@ -15097,7 +16142,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 45012
+		size = 36010
 	}
 	officers = {
 		culture = equestrian
@@ -15108,6 +16153,16 @@
 		culture = equestrian
 		religion = pony
 		size = 839
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 4501
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 4501
 	}
 }
 
@@ -15136,12 +16191,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 30267
+		size = 30190
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 361
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 77
 	}
 }
 
@@ -15170,7 +16230,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 128513
+		size = 128106
 	}
 	officers = {
 		culture = equestrian
@@ -15181,6 +16241,11 @@
 		culture = equestrian
 		religion = pony
 		size = 5997
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 407
 	}
 }
 
@@ -15496,12 +16561,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 14839
+		size = 14801
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 144
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 38
 	}
 }
 
@@ -15530,12 +16600,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 35133
+		size = 35044
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 189
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 89
 	}
 }
 
@@ -15598,7 +16673,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 139834
+		size = 139468
 	}
 	officers = {
 		culture = equestrian
@@ -15609,6 +16684,11 @@
 		culture = equestrian
 		religion = pony
 		size = 3083
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 366
 	}
 }
 
@@ -15846,12 +16926,22 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 20350
+		size = 16280
 	}
 	soldiers = {
 		culture = crystal_empire
 		religion = pony
 		size = 43
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 2035
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 2035
 	}
 }
 
@@ -15953,7 +17043,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 120550
+		size = 118914
 	}
 	officers = {
 		culture = equestrian
@@ -15964,6 +17054,16 @@
 		culture = equestrian
 		religion = pony
 		size = 2261
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1516
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 120
 	}
 }
 
@@ -16026,12 +17126,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 21212
+		size = 16970
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 206
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 2121
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 2121
 	}
 }
 
@@ -16094,7 +17204,7 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 66979
+		size = 53583
 	}
 	officers = {
 		culture = polar_bears
@@ -16105,6 +17215,16 @@
 		culture = polar_bears
 		religion = bears
 		size = 1476
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 6698
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 6698
 	}
 }
 
@@ -16133,12 +17253,22 @@
 	farmers = {
 		culture = penguin
 		religion = penguins
-		size = 37522
+		size = 30018
 	}
 	soldiers = {
 		culture = penguin
 		religion = penguins
 		size = 784
+	}
+	labourers = {
+		culture = penguin
+		religion = penguins
+		size = 3752
+	}
+	serfs = {
+		culture = penguin
+		religion = penguins
+		size = 3752
 	}
 }
 
@@ -16167,7 +17297,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 5973
+		size = 4778
 	}
 	officers = {
 		culture = equestrian
@@ -16178,6 +17308,16 @@
 		culture = equestrian
 		religion = pony
 		size = 145
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 597
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 598
 	}
 }
 
@@ -16240,12 +17380,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 26115
+		size = 20892
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 140
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 2611
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 2612
 	}
 }
 
@@ -16308,7 +17458,7 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 301199
+		size = 240959
 	}
 	officers = {
 		culture = western
@@ -16319,6 +17469,16 @@
 		culture = western
 		religion = yak
 		size = 15704
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 30120
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 30120
 	}
 }
 
@@ -16405,7 +17565,7 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 90921
+		size = 72737
 	}
 	officers = {
 		culture = crystal_empire
@@ -16416,6 +17576,16 @@
 		culture = crystal_empire
 		religion = pony
 		size = 4813
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 9092
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 9092
 	}
 }
 
@@ -16614,7 +17784,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 363711
+		size = 361790
 	}
 	officers = {
 		culture = equestrian
@@ -16625,6 +17795,16 @@
 		culture = equestrian
 		religion = pony
 		size = 14336
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1861
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -16794,12 +17974,17 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 13066
+		size = 13033
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 127
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 33
 	}
 }
 
@@ -16959,12 +18144,22 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 36956
+		size = 29565
 	}
 	soldiers = {
 		culture = western
 		religion = yak
 		size = 158
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 3695
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 3696
 	}
 }
 
@@ -17100,12 +18295,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 58706
+		size = 58556
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 444
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 150
 	}
 }
 
@@ -17134,7 +18334,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 50813
+		size = 40650
 	}
 	officers = {
 		culture = equestrian
@@ -17145,6 +18345,16 @@
 		culture = equestrian
 		religion = pony
 		size = 954
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 5081
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 5082
 	}
 }
 
@@ -17173,12 +18383,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 56097
+		size = 55953
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 670
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 144
 	}
 }
 
@@ -17338,7 +18553,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 142984
+		size = 141877
 	}
 	officers = {
 		culture = equestrian
@@ -17349,6 +18564,16 @@
 		culture = equestrian
 		religion = pony
 		size = 5079
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1047
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -17450,7 +18675,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 2268
+		size = 2263
 	}
 	officers = {
 		culture = equestrian
@@ -17461,6 +18686,11 @@
 		culture = equestrian
 		religion = pony
 		size = 47
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 5
 	}
 }
 
@@ -17868,12 +19098,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 63568
+		size = 63404
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 1038
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 164
 	}
 }
 
@@ -17970,7 +19205,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 121131
+		size = 96905
 	}
 	officers = {
 		culture = nova
@@ -17981,6 +19216,16 @@
 		culture = nova
 		religion = griffon
 		size = 2083
+	}
+	labourers = {
+		culture = nova
+		religion = griffon
+		size = 12113
+	}
+	serfs = {
+		culture = nova
+		religion = griffon
+		size = 12113
 	}
 }
 
@@ -18009,12 +19254,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 75254
+		size = 75060
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 981
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 194
 	}
 }
 
@@ -18077,12 +19327,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 22930
+		size = 22872
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 172
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 58
 	}
 }
 
@@ -18111,7 +19366,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 175522
+		size = 173592
 	}
 	officers = {
 		culture = equestrian
@@ -18122,6 +19377,16 @@
 		culture = equestrian
 		religion = pony
 		size = 7195
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 1810
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 120
 	}
 }
 
@@ -18252,7 +19517,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 105045
+		size = 83100
 	}
 	officers = {
 		culture = severyanian
@@ -18263,6 +19528,26 @@
 		culture = severyanian
 		religion = pony
 		size = 2434
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 10504
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 10505
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 876
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -18291,12 +19576,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 34591
+		size = 34503
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 224
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 88
 	}
 }
 
@@ -18427,12 +19717,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 27911
+		size = 27840
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 272
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 71
 	}
 }
 
@@ -18461,7 +19756,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 62363
+		size = 62144
 	}
 	officers = {
 		culture = equestrian
@@ -18472,6 +19767,11 @@
 		culture = equestrian
 		religion = pony
 		size = 3398
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 219
 	}
 }
 
@@ -18612,7 +19912,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 35811
+		size = 35701
 	}
 	officers = {
 		culture = equestrian
@@ -18623,6 +19923,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1120
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 110
 	}
 }
 
@@ -18685,12 +19990,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 35096
+		size = 34436
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 419
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 600
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -18719,12 +20034,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 37328
+		size = 29862
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 160
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3733
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3733
 	}
 }
 
@@ -18753,12 +20078,27 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 45317
+		size = 36138
 	}
 	soldiers = {
 		culture = western
 		religion = yak
 		size = 591
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 4531
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 4532
+	}
+	craftsmen = {
+		culture = western
+		religion = yak
+		size = 116
 	}
 }
 
@@ -18787,12 +20127,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 19720
+		size = 19670
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 170
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 50
 	}
 }
 
@@ -18821,7 +20166,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 66213
+		size = 66004
 	}
 	officers = {
 		culture = severyanian
@@ -18832,6 +20177,11 @@
 		culture = severyanian
 		religion = pony
 		size = 3801
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 209
 	}
 }
 
@@ -18860,12 +20210,27 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 84639
+		size = 67493
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 734
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 8464
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 8464
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 218
 	}
 }
 
@@ -18967,7 +20332,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 129472
+		size = 129130
 	}
 	officers = {
 		culture = equestrian
@@ -18978,6 +20343,11 @@
 		culture = equestrian
 		religion = pony
 		size = 3452
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 342
 	}
 }
 
@@ -19006,12 +20376,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 37247
+		size = 29798
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 819
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 3724
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 3725
 	}
 }
 
@@ -19040,12 +20420,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 31461
+		size = 25169
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 445
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3146
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3146
 	}
 }
 
@@ -19147,12 +20537,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 45577
+		size = 44801
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 295
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 716
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -19215,7 +20615,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 29471
+		size = 23577
 	}
 	officers = {
 		culture = equestrian
@@ -19226,6 +20626,16 @@
 		culture = equestrian
 		religion = pony
 		size = 683
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 2947
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 2947
 	}
 }
 
@@ -19468,7 +20878,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 49512
+		size = 39610
 	}
 	officers = {
 		culture = severyanian
@@ -19479,6 +20889,16 @@
 		culture = severyanian
 		religion = pony
 		size = 1040
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 4951
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 4951
 	}
 }
 
@@ -19507,7 +20927,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 544957
+		size = 541221
 	}
 	officers = {
 		culture = severyanian
@@ -19518,6 +20938,16 @@
 		culture = severyanian
 		religion = pony
 		size = 20703
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 3556
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 180
 	}
 }
 
@@ -19585,7 +21015,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 114673
+		size = 91738
 	}
 	officers = {
 		culture = equestrian
@@ -19596,6 +21026,16 @@
 		culture = equestrian
 		religion = pony
 		size = 3120
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 11467
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 11468
 	}
 }
 
@@ -19692,12 +21132,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 37001
+		size = 29601
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 482
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 3700
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 3700
 	}
 }
 
@@ -19726,7 +21176,7 @@
 	farmers = {
 		culture = penguin
 		religion = penguins
-		size = 67784
+		size = 54227
 	}
 	officers = {
 		culture = penguin
@@ -19737,6 +21187,16 @@
 		culture = penguin
 		religion = penguins
 		size = 2277
+	}
+	labourers = {
+		culture = penguin
+		religion = penguins
+		size = 6778
+	}
+	serfs = {
+		culture = penguin
+		religion = penguins
+		size = 6779
 	}
 }
 
@@ -19799,12 +21259,17 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 43140
+		size = 43029
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 468
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 111
 	}
 }
 
@@ -20071,12 +21536,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 32911
+		size = 26329
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 141
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3291
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3291
 	}
 }
 
@@ -20105,7 +21580,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 50360
+		size = 50201
 	}
 	officers = {
 		culture = severyanian
@@ -20116,6 +21591,11 @@
 		culture = severyanian
 		religion = pony
 		size = 2151
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 159
 	}
 }
 
@@ -20144,12 +21624,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 46137
+		size = 44698
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 754
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 1319
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 120
 	}
 }
 
@@ -20178,7 +21668,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 84743
+		size = 66912
 	}
 	officers = {
 		culture = severyanian
@@ -20189,6 +21679,26 @@
 		culture = severyanian
 		religion = pony
 		size = 1678
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 8474
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 8475
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 822
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -20217,7 +21727,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 593680
+		size = 590904
 	}
 	officers = {
 		culture = equestrian
@@ -20228,6 +21738,16 @@
 		culture = equestrian
 		religion = pony
 		size = 33873
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 2716
+	}
+	clerks = {
+		culture = equestrian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -20256,12 +21776,17 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 72113
+		size = 71927
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 940
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 186
 	}
 }
 
@@ -20290,12 +21815,17 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 14089
+		size = 14053
 	}
 	soldiers = {
 		culture = nova
 		religion = griffon
 		size = 137
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 36
 	}
 }
 
@@ -20392,7 +21922,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 81807
+		size = 80934
 	}
 	officers = {
 		culture = severyanian
@@ -20403,6 +21933,16 @@
 		culture = severyanian
 		religion = pony
 		size = 1619
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 813
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -20572,12 +22112,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 37779
+		size = 30223
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 244
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 3778
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 3778
 	}
 }
 
@@ -20674,12 +22224,17 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 36797
+		size = 36703
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 278
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 94
 	}
 }
 
@@ -20810,7 +22365,7 @@
 	farmers = {
 		culture = fire_dragon
 		religion = dragons
-		size = 8333
+		size = 6666
 	}
 	officers = {
 		culture = fire_dragon
@@ -20821,6 +22376,16 @@
 		culture = fire_dragon
 		religion = dragons
 		size = 144
+	}
+	labourers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 833
+	}
+	serfs = {
+		culture = fire_dragon
+		religion = dragons
+		size = 834
 	}
 }
 
@@ -20951,7 +22516,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 69228
+		size = 55382
 	}
 	officers = {
 		culture = severyanian
@@ -20962,6 +22527,16 @@
 		culture = severyanian
 		religion = pony
 		size = 1375
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 6923
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 6923
 	}
 }
 
@@ -21204,12 +22779,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 15007
+		size = 12006
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 228
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 1500
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 1501
 	}
 }
 
@@ -21311,7 +22896,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 171549
+		size = 171011
 	}
 	officers = {
 		culture = aquileian
@@ -21322,6 +22907,11 @@
 		culture = aquileian
 		religion = griffon
 		size = 9517
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 538
 	}
 }
 
@@ -21418,7 +23008,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 63468
+		size = 63260
 	}
 	officers = {
 		culture = equestrian
@@ -21429,6 +23019,11 @@
 		culture = equestrian
 		religion = pony
 		size = 3867
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 208
 	}
 }
 
@@ -21491,7 +23086,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 84348
+		size = 83466
 	}
 	officers = {
 		culture = severyanian
@@ -21502,6 +23097,16 @@
 		culture = severyanian
 		religion = pony
 		size = 1959
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 822
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -21530,12 +23135,22 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 64849
+		size = 51879
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 562
+	}
+	labourers = {
+		culture = severyanian
+		religion = pony
+		size = 6485
+	}
+	serfs = {
+		culture = severyanian
+		religion = pony
+		size = 6485
 	}
 }
 
@@ -21564,12 +23179,17 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 75564
+		size = 75371
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 489
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 193
 	}
 }
 
@@ -21705,7 +23325,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 4076
+		size = 4063
 	}
 	officers = {
 		culture = nova
@@ -21716,6 +23336,11 @@
 		culture = nova
 		religion = griffon
 		size = 80
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 13
 	}
 }
 
@@ -21778,7 +23403,7 @@
 	farmers = {
 		culture = fire_dragon
 		religion = dragons
-		size = 23802
+		size = 18972
 	}
 	officers = {
 		culture = fire_dragon
@@ -21789,6 +23414,21 @@
 		culture = fire_dragon
 		religion = dragons
 		size = 652
+	}
+	labourers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 2380
+	}
+	serfs = {
+		culture = fire_dragon
+		religion = dragons
+		size = 2380
+	}
+	craftsmen = {
+		culture = fire_dragon
+		religion = dragons
+		size = 70
 	}
 }
 
@@ -22002,12 +23642,22 @@
 	farmers = {
 		culture = fire_dragon
 		religion = dragons
-		size = 7618
+		size = 6094
 	}
 	soldiers = {
 		culture = fire_dragon
 		religion = dragons
 		size = 65
+	}
+	labourers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 762
+	}
+	serfs = {
+		culture = fire_dragon
+		religion = dragons
+		size = 762
 	}
 }
 
@@ -22036,7 +23686,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 243935
+		size = 242464
 	}
 	officers = {
 		culture = severyanian
@@ -22047,6 +23697,16 @@
 		culture = severyanian
 		religion = pony
 		size = 15032
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 1411
+	}
+	clerks = {
+		culture = severyanian
+		religion = pony
+		size = 60
 	}
 }
 
@@ -22075,7 +23735,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 23344
+		size = 23273
 	}
 	officers = {
 		culture = nova
@@ -22086,6 +23746,11 @@
 		culture = nova
 		religion = griffon
 		size = 784
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 71
 	}
 }
 
@@ -22114,7 +23779,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 103011
+		size = 102643
 	}
 	officers = {
 		culture = equestrian
@@ -22125,6 +23790,11 @@
 		culture = equestrian
 		religion = pony
 		size = 7424
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 368
 	}
 }
 
@@ -22333,12 +24003,22 @@
 	farmers = {
 		culture = fire_dragon
 		religion = dragons
-		size = 8999
+		size = 7199
 	}
 	soldiers = {
 		culture = fire_dragon
 		religion = dragons
 		size = 38
+	}
+	labourers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 900
+	}
+	serfs = {
+		culture = fire_dragon
+		religion = dragons
+		size = 900
 	}
 }
 
@@ -22367,7 +24047,7 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 38763
+		size = 38662
 	}
 	officers = {
 		culture = severyanian
@@ -22378,6 +24058,11 @@
 		culture = severyanian
 		religion = pony
 		size = 856
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 101
 	}
 }
 
@@ -22741,12 +24426,17 @@
 	farmers = {
 		culture = severyanian
 		religion = pony
-		size = 18199
+		size = 18152
 	}
 	soldiers = {
 		culture = severyanian
 		religion = pony
 		size = 258
+	}
+	craftsmen = {
+		culture = severyanian
+		religion = pony
+		size = 47
 	}
 }
 
@@ -22853,12 +24543,22 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 16492
+		size = 13194
 	}
 	soldiers = {
 		culture = nova
 		religion = griffon
 		size = 70
+	}
+	labourers = {
+		culture = nova
+		religion = griffon
+		size = 1649
+	}
+	serfs = {
+		culture = nova
+		religion = griffon
+		size = 1649
 	}
 }
 
@@ -22926,12 +24626,17 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 85601
+		size = 85379
 	}
 	soldiers = {
 		culture = nova
 		religion = griffon
 		size = 1306
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 222
 	}
 }
 
@@ -23057,12 +24762,22 @@
 	farmers = {
 		culture = fire_dragon
 		religion = dragons
-		size = 3579
+		size = 2863
 	}
 	soldiers = {
 		culture = fire_dragon
 		religion = dragons
 		size = 82
+	}
+	labourers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 358
+	}
+	serfs = {
+		culture = fire_dragon
+		religion = dragons
+		size = 358
 	}
 }
 
@@ -23130,7 +24845,7 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 55468
+		size = 55324
 	}
 	officers = {
 		culture = equestrian
@@ -23141,6 +24856,11 @@
 		culture = equestrian
 		religion = pony
 		size = 1160
+	}
+	craftsmen = {
+		culture = equestrian
+		religion = pony
+		size = 144
 	}
 }
 
@@ -23242,7 +24962,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 198168
+		size = 197532
 	}
 	officers = {
 		culture = nova
@@ -23253,6 +24973,11 @@
 		culture = nova
 		religion = griffon
 		size = 10979
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 636
 	}
 }
 
@@ -23320,12 +25045,22 @@
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 18823
+		size = 15058
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
 		size = 436
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 1882
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 1883
 	}
 }
 
@@ -23548,7 +25283,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 187436
+		size = 149455
 	}
 	officers = {
 		culture = nova
@@ -23559,6 +25294,21 @@
 		culture = nova
 		religion = griffon
 		size = 3740
+	}
+	labourers = {
+		culture = nova
+		religion = griffon
+		size = 18743
+	}
+	serfs = {
+		culture = nova
+		religion = griffon
+		size = 18744
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 494
 	}
 }
 
@@ -23621,7 +25371,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 116128
+		size = 115825
 	}
 	officers = {
 		culture = nova
@@ -23632,6 +25382,11 @@
 		culture = nova
 		religion = griffon
 		size = 1914
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 303
 	}
 }
 
@@ -23699,7 +25454,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 252789
+		size = 252002
 	}
 	officers = {
 		culture = nova
@@ -23710,6 +25465,11 @@
 		culture = nova
 		religion = griffon
 		size = 7951
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 787
 	}
 }
 
@@ -23966,7 +25726,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 276648
+		size = 275662
 	}
 	officers = {
 		culture = boreal
@@ -23977,6 +25737,11 @@
 		culture = boreal
 		religion = changeling
 		size = 16615
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 986
 	}
 }
 
@@ -24005,7 +25770,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 233761
+		size = 233147
 	}
 	officers = {
 		culture = boreal
@@ -24016,6 +25781,11 @@
 		culture = boreal
 		religion = changeling
 		size = 5424
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 614
 	}
 }
 
@@ -24044,7 +25814,7 @@
 	farmers = {
 		culture = western
 		religion = yak
-		size = 200828
+		size = 160662
 	}
 	officers = {
 		culture = western
@@ -24055,6 +25825,16 @@
 		culture = western
 		religion = yak
 		size = 12312
+	}
+	labourers = {
+		culture = western
+		religion = yak
+		size = 20083
+	}
+	serfs = {
+		culture = western
+		religion = yak
+		size = 20083
 	}
 }
 
@@ -24088,17 +25868,17 @@
 	clerks = {
 		culture = equestrian
 		religion = pony
-		size = 4108
+		size = 4228
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 36979
+		size = 38667
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 111759
+		size = 87599
 	}
 	officers = {
 		culture = equestrian
@@ -24109,6 +25889,16 @@
 		culture = equestrian
 		religion = pony
 		size = 5546
+	}
+	labourers = {
+		culture = equestrian
+		religion = pony
+		size = 11176
+	}
+	serfs = {
+		culture = equestrian
+		religion = pony
+		size = 11176
 	}
 }
 
@@ -24137,7 +25927,7 @@
 	farmers = {
 		culture = boreal
 		religion = changeling
-		size = 292744
+		size = 291977
 	}
 	officers = {
 		culture = boreal
@@ -24148,6 +25938,11 @@
 		culture = boreal
 		religion = changeling
 		size = 5809
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 767
 	}
 }
 
@@ -24176,12 +25971,22 @@
 	farmers = {
 		culture = polar_bears
 		religion = bears
-		size = 8484
+		size = 6787
 	}
 	soldiers = {
 		culture = polar_bears
 		religion = bears
 		size = 27
+	}
+	labourers = {
+		culture = polar_bears
+		religion = bears
+		size = 848
+	}
+	serfs = {
+		culture = polar_bears
+		religion = bears
+		size = 849
 	}
 }
 
@@ -24375,7 +26180,7 @@
 	farmers = {
 		culture = penguin
 		religion = penguins
-		size = 30180
+		size = 24144
 	}
 	officers = {
 		culture = penguin
@@ -24386,6 +26191,16 @@
 		culture = penguin
 		religion = penguins
 		size = 669
+	}
+	labourers = {
+		culture = penguin
+		religion = penguins
+		size = 3018
+	}
+	serfs = {
+		culture = penguin
+		religion = penguins
+		size = 3018
 	}
 }
 
@@ -24633,12 +26448,22 @@
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 21165
+		size = 16932
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 205
+	}
+	labourers = {
+		culture = buffalo
+		religion = buffalos
+		size = 2116
+	}
+	serfs = {
+		culture = buffalo
+		religion = buffalos
+		size = 2117
 	}
 }
 
@@ -24706,7 +26531,7 @@
 	farmers = {
 		culture = crystal_empire
 		religion = pony
-		size = 94797
+		size = 75838
 	}
 	officers = {
 		culture = crystal_empire
@@ -24717,6 +26542,16 @@
 		culture = crystal_empire
 		religion = pony
 		size = 5336
+	}
+	labourers = {
+		culture = crystal_empire
+		religion = pony
+		size = 9479
+	}
+	serfs = {
+		culture = crystal_empire
+		religion = pony
+		size = 9480
 	}
 }
 

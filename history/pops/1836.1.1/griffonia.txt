@@ -226,7 +226,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 12924
+		size = 12864
 	}
 	officers = {
 		culture = feathisian
@@ -242,6 +242,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 761
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -334,7 +339,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 33605
+		size = 33406
 	}
 	officers = {
 		culture = feathisian
@@ -355,6 +360,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 3476
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 199
 	}
 }
 
@@ -505,7 +515,7 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 73822
+		size = 58799
 	}
 	officers = {
 		culture = vedinan
@@ -516,6 +526,21 @@
 		culture = vedinan
 		religion = griffon
 		size = 4143
+	}
+	labourers = {
+		culture = vedinan
+		religion = griffon
+		size = 7382
+	}
+	serfs = {
+		culture = vedinan
+		religion = griffon
+		size = 7382
+	}
+	craftsmen = {
+		culture = vedinan
+		religion = griffon
+		size = 259
 	}
 }
 
@@ -710,12 +735,17 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 22439
+		size = 22382
 	}
 	soldiers = {
 		culture = vedinan
 		religion = griffon
 		size = 243
+	}
+	craftsmen = {
+		culture = vedinan
+		religion = griffon
+		size = 57
 	}
 }
 
@@ -1051,12 +1081,22 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 9960
+		size = 7696
 	}
 	soldiers = {
 		culture = north
 		religion = pony
 		size = 36
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 1132
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 1132
 	}
 }
 
@@ -1085,12 +1125,17 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 54576
+		size = 54436
 	}
 	soldiers = {
 		culture = vedinan
 		religion = griffon
 		size = 711
+	}
+	craftsmen = {
+		culture = vedinan
+		religion = griffon
+		size = 140
 	}
 }
 
@@ -1197,7 +1242,7 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 20520
+		size = 15856
 	}
 	farmers = {
 		culture = north
@@ -1208,6 +1253,16 @@
 		culture = vedinan
 		religion = griffon
 		size = 226
+	}
+	labourers = {
+		culture = vedinan
+		religion = griffon
+		size = 2332
+	}
+	serfs = {
+		culture = vedinan
+		religion = griffon
+		size = 2332
 	}
 }
 
@@ -1236,12 +1291,22 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 29158
+		size = 23326
 	}
 	soldiers = {
 		culture = vedinan
 		religion = griffon
 		size = 380
+	}
+	labourers = {
+		culture = vedinan
+		religion = griffon
+		size = 2916
+	}
+	serfs = {
+		culture = vedinan
+		religion = griffon
+		size = 2916
 	}
 }
 
@@ -1372,7 +1437,7 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 226072
+		size = 225278
 	}
 	officers = {
 		culture = vedinan
@@ -1383,6 +1448,11 @@
 		culture = vedinan
 		religion = griffon
 		size = 11704
+	}
+	craftsmen = {
+		culture = vedinan
+		religion = griffon
+		size = 794
 	}
 }
 
@@ -1411,12 +1481,17 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 58250
+		size = 58101
 	}
 	soldiers = {
 		culture = vedinan
 		religion = griffon
 		size = 377
+	}
+	craftsmen = {
+		culture = vedinan
+		religion = griffon
+		size = 149
 	}
 }
 
@@ -1445,12 +1520,22 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 31657
+		size = 25326
 	}
 	soldiers = {
 		culture = vedinan
 		religion = griffon
 		size = 274
+	}
+	labourers = {
+		culture = vedinan
+		religion = griffon
+		size = 3165
+	}
+	serfs = {
+		culture = vedinan
+		religion = griffon
+		size = 3166
 	}
 }
 
@@ -1479,12 +1564,22 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 5092
+		size = 4074
 	}
 	soldiers = {
 		culture = marelander
 		religion = pony
 		size = 83
+	}
+	labourers = {
+		culture = marelander
+		religion = pony
+		size = 509
+	}
+	serfs = {
+		culture = marelander
+		religion = pony
+		size = 509
 	}
 }
 
@@ -1523,7 +1618,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 58525
+		size = 58311
 	}
 	farmers = {
 		culture = aquileian
@@ -1549,6 +1644,11 @@
 		culture = aquileian
 		religion = pony
 		size = 831
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 214
 	}
 }
 
@@ -1577,7 +1677,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 11715
+		size = 11675
 	}
 	officers = {
 		culture = marelander
@@ -1588,6 +1688,11 @@
 		culture = marelander
 		religion = pony
 		size = 491
+	}
+	craftsmen = {
+		culture = marelander
+		religion = pony
+		size = 40
 	}
 }
 
@@ -1744,7 +1849,7 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 6907
+		size = 5526
 	}
 	officers = {
 		culture = north
@@ -1755,6 +1860,16 @@
 		culture = north
 		religion = pony
 		size = 192
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 690
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 691
 	}
 }
 
@@ -2003,12 +2118,12 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 123800
+		size = 79586
 	}
 	farmers = {
 		culture = aquileian
 		religion = pony
-		size = 97271
+		size = 95826
 	}
 	officers = {
 		culture = aquileian
@@ -2029,6 +2144,31 @@
 		culture = aquileian
 		religion = pony
 		size = 6106
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 22107
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 22107
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = pony
+		size = 600
+	}
+	clerks = {
+		culture = aquileian
+		religion = pony
+		size = 60
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 785
 	}
 }
 
@@ -2284,7 +2424,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 13694
+		size = 10043
 	}
 	soldiers = {
 		culture = aquileian
@@ -2300,6 +2440,16 @@
 		culture = greifwald
 		religion = griffon
 		size = 103
+	}
+	labourers = {
+		culture = greifwald
+		religion = griffon
+		size = 1825
+	}
+	serfs = {
+		culture = greifwald
+		religion = griffon
+		size = 1826
 	}
 }
 
@@ -2338,7 +2488,7 @@
 	farmers = {
 		culture = vedinan
 		religion = griffon
-		size = 29770
+		size = 29640
 	}
 	farmers = {
 		culture = cloudburian
@@ -2364,6 +2514,11 @@
 		culture = cloudburian
 		religion = griffon
 		size = 664
+	}
+	craftsmen = {
+		culture = cloudburian
+		religion = griffon
+		size = 130
 	}
 }
 
@@ -2397,12 +2552,22 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 7944
+		size = 5500
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 92
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1222
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1222
 	}
 }
 
@@ -2505,7 +2670,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 376138
+		size = 374156
 	}
 	farmers = {
 		culture = aquileian
@@ -2531,6 +2696,16 @@
 		culture = aquileian
 		religion = pony
 		size = 1921
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 1922
+	}
+	clerks = {
+		culture = aquileian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -2638,7 +2813,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 38175
+		size = 30053
 	}
 	farmers = {
 		culture = aquileian
@@ -2654,6 +2829,16 @@
 		culture = aquileian
 		religion = pony
 		size = 21
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 4061
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 4061
 	}
 }
 
@@ -2849,12 +3034,27 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 8796
+		size = 6569
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 71
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1099
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1100
+	}
+	craftsmen = {
+		culture = cloudburian
+		religion = griffon
+		size = 28
 	}
 }
 
@@ -2898,7 +3098,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 11059
+		size = 8517
 	}
 	farmers = {
 		culture = aquileian
@@ -2924,6 +3124,16 @@
 		culture = aquileian
 		religion = pony
 		size = 31
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 1271
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 1271
 	}
 }
 
@@ -3046,7 +3256,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 42816
+		size = 33301
 	}
 	farmers = {
 		culture = aquileian
@@ -3072,6 +3282,16 @@
 		culture = aquileian
 		religion = pony
 		size = 274
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 4757
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 4758
 	}
 }
 
@@ -3228,7 +3448,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 188689
+		size = 187869
 	}
 	farmers = {
 		culture = greifwald
@@ -3249,6 +3469,11 @@
 		culture = greifwald
 		religion = griffon
 		size = 3709
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 820
 	}
 }
 
@@ -3401,7 +3626,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 57225
+		size = 56816
 	}
 	farmers = {
 		culture = greifwald
@@ -3437,6 +3662,11 @@
 		culture = greifwald
 		religion = griffon
 		size = 705
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 409
 	}
 }
 
@@ -3539,7 +3769,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 64344
+		size = 64126
 	}
 	farmers = {
 		culture = aquileian
@@ -3565,6 +3795,11 @@
 		culture = aquileian
 		religion = pony
 		size = 443
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 218
 	}
 }
 
@@ -3608,7 +3843,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 33417
+		size = 26153
 	}
 	farmers = {
 		culture = aquileian
@@ -3624,6 +3859,16 @@
 		culture = aquileian
 		religion = pony
 		size = 89
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 3632
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 3632
 	}
 }
 
@@ -3721,7 +3966,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 47648
+		size = 36642
 	}
 	officers = {
 		culture = cloudburian
@@ -3742,6 +3987,21 @@
 		culture = cloudburian
 		religion = griffon
 		size = 2504
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 5414
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 5415
+	}
+	craftsmen = {
+		culture = cloudburian
+		religion = griffon
+		size = 177
 	}
 }
 
@@ -3946,12 +4206,22 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 6263
+		size = 5010
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 102
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 626
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 627
 	}
 }
 
@@ -4113,7 +4383,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 12501
+		size = 9723
 	}
 	farmers = {
 		culture = herzlander
@@ -4139,6 +4409,16 @@
 		culture = greifwald
 		religion = griffon
 		size = 12
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 1389
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 1389
 	}
 }
 
@@ -4664,7 +4944,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 22851
+		size = 22734
 	}
 	farmers = {
 		culture = greifwald
@@ -4680,6 +4960,11 @@
 		culture = greifwald
 		religion = griffon
 		size = 148
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 117
 	}
 }
 
@@ -4767,7 +5052,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 90055
+		size = 72044
 	}
 	officers = {
 		culture = cloudburian
@@ -4778,6 +5063,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 3207
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 9005
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 9006
 	}
 }
 
@@ -4821,7 +5116,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 48369
+		size = 48174
 	}
 	farmers = {
 		culture = aquileian
@@ -4847,6 +5142,11 @@
 		culture = aquileian
 		religion = pony
 		size = 726
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 195
 	}
 }
 
@@ -4982,7 +5282,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 343109
+		size = 273433
 	}
 	officers = {
 		culture = cloudburian
@@ -4993,6 +5293,21 @@
 		culture = cloudburian
 		religion = griffon
 		size = 11096
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 34311
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 34311
+	}
+	craftsmen = {
+		culture = cloudburian
+		religion = griffon
+		size = 1054
 	}
 }
 
@@ -5026,7 +5341,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 163543
+		size = 162906
 	}
 	farmers = {
 		culture = feathisian
@@ -5047,6 +5362,11 @@
 		culture = feathisian
 		religion = griffon
 		size = 857
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 637
 	}
 }
 
@@ -5114,12 +5434,22 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 15431
+		size = 12345
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 218
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1543
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1543
 	}
 }
 
@@ -5158,7 +5488,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 358793
+		size = 356093
 	}
 	farmers = {
 		culture = talousian
@@ -5179,6 +5509,16 @@
 		culture = talousian
 		religion = griffon
 		size = 1022
+	}
+	craftsmen = {
+		culture = marelander
+		religion = pony
+		size = 2580
+	}
+	clerks = {
+		culture = marelander
+		religion = pony
+		size = 120
 	}
 }
 
@@ -5237,7 +5577,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 56122
+		size = 55967
 	}
 	officers = {
 		culture = aquileian
@@ -5258,6 +5598,11 @@
 		culture = greifwald
 		religion = griffon
 		size = 1354
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 155
 	}
 }
 
@@ -5286,7 +5631,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 128886
+		size = 103109
 	}
 	officers = {
 		culture = feathisian
@@ -5297,6 +5642,16 @@
 		culture = feathisian
 		religion = griffon
 		size = 4157
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 12888
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 12889
 	}
 }
 
@@ -5403,7 +5758,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 330678
+		size = 328898
 	}
 	farmers = {
 		culture = talousian
@@ -5424,6 +5779,16 @@
 		culture = talousian
 		religion = griffon
 		size = 565
+	}
+	craftsmen = {
+		culture = marelander
+		religion = pony
+		size = 1720
+	}
+	clerks = {
+		culture = marelander
+		religion = pony
+		size = 60
 	}
 }
 
@@ -5629,12 +5994,22 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 12306
+		size = 9845
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 106
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1230
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1231
 	}
 }
 
@@ -5796,7 +6171,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 98940
+		size = 97955
 	}
 	farmers = {
 		culture = aquileian
@@ -5822,6 +6197,16 @@
 		culture = aquileian
 		religion = pony
 		size = 574
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 925
+	}
+	clerks = {
+		culture = aquileian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -5865,7 +6250,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 7799
+		size = 5399
 	}
 	farmers = {
 		culture = aquileian
@@ -5881,6 +6266,16 @@
 		culture = aquileian
 		religion = pony
 		size = 73
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 1200
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 1200
 	}
 }
 
@@ -5914,7 +6309,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 6676
+		size = 4451
 	}
 	soldiers = {
 		culture = north
@@ -5925,6 +6320,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 50
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1112
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1113
 	}
 }
 
@@ -6007,12 +6412,22 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 22523
+		size = 18018
 	}
 	soldiers = {
 		culture = feathisian
 		religion = griffon
 		size = 703
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 2252
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 2253
 	}
 }
 
@@ -6169,7 +6584,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 8700
+		size = 6653
 	}
 	farmers = {
 		culture = talousian
@@ -6185,6 +6600,16 @@
 		culture = talousian
 		religion = griffon
 		size = 4
+	}
+	labourers = {
+		culture = marelander
+		religion = pony
+		size = 1023
+	}
+	serfs = {
+		culture = marelander
+		religion = pony
+		size = 1024
 	}
 }
 
@@ -6267,7 +6692,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 15212
+		size = 11409
 	}
 	farmers = {
 		culture = cloudburian
@@ -6283,6 +6708,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 14
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 1901
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 1902
 	}
 }
 
@@ -6350,7 +6785,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 26230
+		size = 26142
 	}
 	farmers = {
 		culture = talousian
@@ -6371,6 +6806,11 @@
 		culture = talousian
 		religion = griffon
 		size = 179
+	}
+	craftsmen = {
+		culture = marelander
+		religion = pony
+		size = 88
 	}
 }
 
@@ -6483,7 +6923,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 7858
+		size = 5440
 	}
 	farmers = {
 		culture = aquileian
@@ -6499,6 +6939,16 @@
 		culture = aquileian
 		religion = pony
 		size = 31
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 1209
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 1209
 	}
 }
 
@@ -6650,7 +7100,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 92059
+		size = 91774
 	}
 	farmers = {
 		culture = aquileian
@@ -6676,6 +7126,11 @@
 		culture = aquileian
 		religion = pony
 		size = 479
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 285
 	}
 }
 
@@ -6734,7 +7189,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 34105
+		size = 26925
 	}
 	soldiers = {
 		culture = aquileian
@@ -6745,6 +7200,16 @@
 		culture = greifwald
 		religion = griffon
 		size = 894
+	}
+	labourers = {
+		culture = greifwald
+		religion = griffon
+		size = 3590
+	}
+	serfs = {
+		culture = greifwald
+		religion = griffon
+		size = 3590
 	}
 }
 
@@ -6788,7 +7253,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 45333
+		size = 34000
 	}
 	farmers = {
 		culture = aquileian
@@ -6804,6 +7269,16 @@
 		culture = aquileian
 		religion = pony
 		size = 216
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 5666
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 5667
 	}
 }
 
@@ -6847,7 +7322,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 17641
+		size = 13231
 	}
 	farmers = {
 		culture = aquileian
@@ -6873,6 +7348,16 @@
 		culture = aquileian
 		religion = pony
 		size = 112
+	}
+	labourers = {
+		culture = aquileian
+		religion = griffon
+		size = 2205
+	}
+	serfs = {
+		culture = aquileian
+		religion = griffon
+		size = 2205
 	}
 }
 
@@ -7029,12 +7514,27 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 38587
+		size = 30771
 	}
 	soldiers = {
 		culture = feathisian
 		religion = griffon
 		size = 631
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 3858
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 3859
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 99
 	}
 }
 
@@ -7176,7 +7676,7 @@
 	farmers = {
 		culture = aquileian
 		religion = griffon
-		size = 124209
+		size = 123324
 	}
 	farmers = {
 		culture = aquileian
@@ -7202,6 +7702,11 @@
 		culture = aquileian
 		religion = pony
 		size = 7821
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 885
 	}
 }
 
@@ -7255,7 +7760,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 57135
+		size = 56959
 	}
 	officers = {
 		culture = aquileian
@@ -7276,6 +7781,11 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 1073
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 176
 	}
 }
 
@@ -7314,7 +7824,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 29388
+		size = 21853
 	}
 	farmers = {
 		culture = talousian
@@ -7330,6 +7840,16 @@
 		culture = talousian
 		religion = griffon
 		size = 80
+	}
+	labourers = {
+		culture = marelander
+		religion = pony
+		size = 3767
+	}
+	serfs = {
+		culture = marelander
+		religion = pony
+		size = 3768
 	}
 }
 
@@ -7393,7 +7913,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 150502
+		size = 149981
 	}
 	officers = {
 		culture = aquileian
@@ -7414,6 +7934,11 @@
 		culture = greifwald
 		religion = griffon
 		size = 7899
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 521
 	}
 }
 
@@ -7604,7 +8129,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 44439
+		size = 35551
 	}
 	officers = {
 		culture = cloudburian
@@ -7615,6 +8140,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 1185
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 4444
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 4444
 	}
 }
 
@@ -7747,12 +8282,22 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 8566
+		size = 6853
 	}
 	soldiers = {
 		culture = feathisian
 		religion = griffon
 		size = 92
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 856
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 857
 	}
 }
 
@@ -7781,12 +8326,22 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 4322
+		size = 3458
 	}
 	soldiers = {
 		culture = cloudburian
 		religion = griffon
 		size = 18
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 432
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 432
 	}
 }
 
@@ -7854,12 +8409,17 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 7735
+		size = 7716
 	}
 	soldiers = {
 		culture = feathisian
 		religion = griffon
 		size = 66
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 19
 	}
 }
 
@@ -7918,7 +8478,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 16094
+		size = 12518
 	}
 	farmers = {
 		culture = pomovarran
@@ -7934,6 +8494,16 @@
 		culture = greifwald
 		religion = griffon
 		size = 104
+	}
+	labourers = {
+		culture = greifwald
+		religion = griffon
+		size = 1788
+	}
+	serfs = {
+		culture = greifwald
+		religion = griffon
+		size = 1788
 	}
 }
 
@@ -7962,12 +8532,22 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 83174
+		size = 66539
 	}
 	soldiers = {
 		culture = north
 		religion = pony
 		size = 629
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 8317
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 8318
 	}
 }
 
@@ -7996,7 +8576,7 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 4455
+		size = 2673
 	}
 	farmers = {
 		culture = cloudburian
@@ -8007,6 +8587,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 136
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 891
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 891
 	}
 }
 
@@ -8060,7 +8650,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 18646
+		size = 18590
 	}
 	farmers = {
 		culture = talousian
@@ -8071,6 +8661,11 @@
 		culture = marelander
 		religion = pony
 		size = 262
+	}
+	craftsmen = {
+		culture = marelander
+		religion = pony
+		size = 56
 	}
 }
 
@@ -8392,7 +8987,7 @@
 	farmers = {
 		culture = talousian
 		religion = griffon
-		size = 199726
+		size = 199111
 	}
 	officers = {
 		culture = talousian
@@ -8403,6 +8998,11 @@
 		culture = talousian
 		religion = griffon
 		size = 6467
+	}
+	craftsmen = {
+		culture = talousian
+		religion = griffon
+		size = 615
 	}
 }
 
@@ -8603,12 +9203,17 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 44693
+		size = 44573
 	}
 	soldiers = {
 		culture = east_aquileian
 		religion = griffon
 		size = 253
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 120
 	}
 }
 
@@ -8706,7 +9311,7 @@
 	farmers = {
 		culture = pomovarran
 		religion = griffon
-		size = 60260
+		size = 47574
 	}
 	officers = {
 		culture = aquileian
@@ -8727,6 +9332,16 @@
 		culture = pomovarran
 		religion = griffon
 		size = 1584
+	}
+	labourers = {
+		culture = pomovarran
+		religion = griffon
+		size = 6343
+	}
+	serfs = {
+		culture = pomovarran
+		religion = griffon
+		size = 6343
 	}
 }
 
@@ -8760,7 +9375,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 156585
+		size = 155342
 	}
 	farmers = {
 		culture = talousian
@@ -8781,6 +9396,16 @@
 		culture = karthinian
 		religion = griffon
 		size = 9811
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 1183
+	}
+	clerks = {
+		culture = karthinian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -8873,7 +9498,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 57045
+		size = 56895
 	}
 	officers = {
 		culture = cloudburian
@@ -8884,6 +9509,11 @@
 		culture = cloudburian
 		religion = griffon
 		size = 1519
+	}
+	craftsmen = {
+		culture = cloudburian
+		religion = griffon
+		size = 150
 	}
 }
 
@@ -9050,7 +9680,7 @@
 	farmers = {
 		culture = marelander
 		religion = pony
-		size = 9547
+		size = 7160
 	}
 	farmers = {
 		culture = talousian
@@ -9061,6 +9691,16 @@
 		culture = marelander
 		religion = pony
 		size = 129
+	}
+	labourers = {
+		culture = marelander
+		religion = pony
+		size = 1193
+	}
+	serfs = {
+		culture = marelander
+		religion = pony
+		size = 1194
 	}
 }
 
@@ -9246,7 +9886,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 5724
+		size = 4556
 	}
 	soldiers = {
 		culture = aquileian
@@ -9257,6 +9897,16 @@
 		culture = greifwald
 		religion = griffon
 		size = 84
+	}
+	labourers = {
+		culture = greifwald
+		religion = griffon
+		size = 584
+	}
+	serfs = {
+		culture = greifwald
+		religion = griffon
+		size = 584
 	}
 }
 
@@ -9324,12 +9974,22 @@
 	farmers = {
 		culture = talousian
 		religion = griffon
-		size = 30766
+		size = 24613
 	}
 	soldiers = {
 		culture = talousian
 		religion = griffon
 		size = 233
+	}
+	labourers = {
+		culture = talousian
+		religion = griffon
+		size = 3076
+	}
+	serfs = {
+		culture = talousian
+		religion = griffon
+		size = 3077
 	}
 }
 
@@ -9358,7 +10018,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 14071
+		size = 11257
 	}
 	officers = {
 		culture = feathisian
@@ -9369,6 +10029,16 @@
 		culture = feathisian
 		religion = griffon
 		size = 232
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 1407
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 1407
 	}
 }
 
@@ -9397,7 +10067,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 244767
+		size = 241924
 	}
 	officers = {
 		culture = herzlander
@@ -9408,6 +10078,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 13436
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 2663
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 180
 	}
 }
 
@@ -9470,12 +10150,17 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 42651
+		size = 42542
 	}
 	soldiers = {
 		culture = feathisian
 		religion = griffon
 		size = 508
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 109
 	}
 }
 
@@ -9504,7 +10189,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 118827
+		size = 117782
 	}
 	officers = {
 		culture = feathisian
@@ -9515,6 +10200,16 @@
 		culture = feathisian
 		religion = griffon
 		size = 7446
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 985
+	}
+	clerks = {
+		culture = feathisian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -9568,12 +10263,22 @@
 	farmers = {
 		culture = pomovarran
 		religion = griffon
-		size = 15692
+		size = 12457
 	}
 	soldiers = {
 		culture = pomovarran
 		religion = griffon
 		size = 447
+	}
+	labourers = {
+		culture = pomovarran
+		religion = griffon
+		size = 1617
+	}
+	serfs = {
+		culture = pomovarran
+		religion = griffon
+		size = 1618
 	}
 }
 
@@ -9666,7 +10371,7 @@
 	farmers = {
 		culture = talousian
 		religion = griffon
-		size = 19772
+		size = 15610
 	}
 	farmers = {
 		culture = east_aquileian
@@ -9677,6 +10382,16 @@
 		culture = talousian
 		religion = griffon
 		size = 202
+	}
+	labourers = {
+		culture = talousian
+		religion = griffon
+		size = 2081
+	}
+	serfs = {
+		culture = talousian
+		religion = griffon
+		size = 2081
 	}
 }
 
@@ -9901,7 +10616,7 @@
 	farmers = {
 		culture = greifwald
 		religion = griffon
-		size = 133666
+		size = 105744
 	}
 	officers = {
 		culture = aquileian
@@ -9917,6 +10632,21 @@
 		culture = greifwald
 		religion = griffon
 		size = 2889
+	}
+	labourers = {
+		culture = greifwald
+		religion = griffon
+		size = 13780
+	}
+	serfs = {
+		culture = greifwald
+		religion = griffon
+		size = 13780
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 362
 	}
 }
 
@@ -9945,12 +10675,22 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 12000
+		size = 9600
 	}
 	soldiers = {
 		culture = karthinian
 		religion = griffon
 		size = 156
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 1200
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 1200
 	}
 }
 
@@ -9979,7 +10719,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 76782
+		size = 76581
 	}
 	officers = {
 		culture = east_aquileian
@@ -9990,6 +10730,11 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 1440
+	}
+	craftsmen = {
+		culture = east_aquileian
+		religion = griffon
+		size = 201
 	}
 }
 
@@ -10112,7 +10857,7 @@
 	farmers = {
 		culture = pomovarran
 		religion = griffon
-		size = 63552
+		size = 63385
 	}
 	officers = {
 		culture = pomovarran
@@ -10123,6 +10868,11 @@
 		culture = pomovarran
 		religion = griffon
 		size = 1622
+	}
+	craftsmen = {
+		culture = aquileian
+		religion = griffon
+		size = 167
 	}
 }
 
@@ -10225,7 +10975,7 @@
 	farmers = {
 		culture = pomovarran
 		religion = griffon
-		size = 178895
+		size = 178268
 	}
 	officers = {
 		culture = pomovarran
@@ -10236,6 +10986,11 @@
 		culture = pomovarran
 		religion = griffon
 		size = 7915
+	}
+	craftsmen = {
+		culture = pomovarran
+		religion = griffon
+		size = 627
 	}
 }
 
@@ -10303,7 +11058,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 129592
+		size = 128527
 	}
 	officers = {
 		culture = feathisian
@@ -10314,6 +11069,16 @@
 		culture = feathisian
 		religion = griffon
 		size = 4092
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 1005
+	}
+	clerks = {
+		culture = feathisian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -10342,7 +11107,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 36909
+		size = 28867
 	}
 	officers = {
 		culture = karthinian
@@ -10353,6 +11118,26 @@
 		culture = karthinian
 		religion = griffon
 		size = 1024
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 3691
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 3691
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 600
+	}
+	clerks = {
+		culture = karthinian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -10431,7 +11216,7 @@
 	farmers = {
 		culture = cloudburian
 		religion = griffon
-		size = 7064
+		size = 3532
 	}
 	soldiers = {
 		culture = herzlander
@@ -10447,6 +11232,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 60
+	}
+	labourers = {
+		culture = cloudburian
+		religion = griffon
+		size = 1766
+	}
+	serfs = {
+		culture = cloudburian
+		religion = griffon
+		size = 1766
 	}
 }
 
@@ -10475,7 +11270,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 162400
+		size = 161820
 	}
 	officers = {
 		culture = karthinian
@@ -10486,6 +11281,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 11477
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 580
 	}
 }
 
@@ -10563,7 +11363,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 70905
+		size = 50646
 	}
 	farmers = {
 		culture = pomovarran
@@ -10579,6 +11379,16 @@
 		culture = pomovarran
 		religion = griffon
 		size = 462
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 10129
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 10130
 	}
 }
 
@@ -10759,12 +11569,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 57828
+		size = 57021
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 311
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 747
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -10793,12 +11613,22 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 8197
+		size = 6558
 	}
 	soldiers = {
 		culture = east_aquileian
 		religion = griffon
 		size = 70
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 819
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 820
 	}
 }
 
@@ -10944,7 +11774,7 @@
 	farmers = {
 		culture = talousian
 		religion = griffon
-		size = 58442
+		size = 58273
 	}
 	officers = {
 		culture = karthinian
@@ -10965,6 +11795,11 @@
 		culture = talousian
 		religion = griffon
 		size = 1092
+	}
+	craftsmen = {
+		culture = talousian
+		religion = griffon
+		size = 169
 	}
 }
 
@@ -11047,7 +11882,7 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 11018
+		size = 6611
 	}
 	farmers = {
 		culture = cloudburian
@@ -11063,6 +11898,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 107
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 2203
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 2204
 	}
 }
 
@@ -11229,7 +12074,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 41827
+		size = 33462
 	}
 	officers = {
 		culture = herzlander
@@ -11240,6 +12085,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 687
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 4182
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 4183
 	}
 }
 
@@ -11288,7 +12143,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 35840
+		size = 26880
 	}
 	farmers = {
 		culture = cloudburian
@@ -11314,6 +12169,16 @@
 		culture = cloudburian
 		religion = griffon
 		size = 419
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 4480
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 4480
 	}
 }
 
@@ -11342,7 +12207,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 18114
+		size = 14491
 	}
 	officers = {
 		culture = east_aquileian
@@ -11353,6 +12218,16 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 590
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 1811
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 1812
 	}
 }
 
@@ -11381,7 +12256,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 132476
+		size = 132008
 	}
 	officers = {
 		culture = karthinian
@@ -11392,6 +12267,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 7294
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 468
 	}
 }
 
@@ -11420,7 +12300,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 112728
+		size = 111697
 	}
 	officers = {
 		culture = karthinian
@@ -11431,6 +12311,16 @@
 		culture = karthinian
 		religion = griffon
 		size = 6236
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 971
+	}
+	clerks = {
+		culture = karthinian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -11459,7 +12349,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 73305
+		size = 73087
 	}
 	officers = {
 		culture = diamond_dog
@@ -11470,6 +12360,11 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 2015
+	}
+	craftsmen = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 218
 	}
 }
 
@@ -11498,7 +12393,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 92246
+		size = 73797
 	}
 	officers = {
 		culture = east_aquileian
@@ -11509,6 +12404,16 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 3670
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 9224
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 9225
 	}
 }
 
@@ -11537,7 +12442,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 150577
+		size = 150092
 	}
 	officers = {
 		culture = herzlander
@@ -11548,6 +12453,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 7141
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 485
 	}
 }
 
@@ -11601,7 +12511,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 30935
+		size = 30829
 	}
 	soldiers = {
 		culture = feathisian
@@ -11612,6 +12522,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 369
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 106
 	}
 }
 
@@ -11718,7 +12633,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 34251
+		size = 34158
 	}
 	farmers = {
 		culture = talousian
@@ -11729,6 +12644,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 470
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 93
 	}
 }
 
@@ -11757,7 +12677,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 267214
+		size = 265034
 	}
 	officers = {
 		culture = karthinian
@@ -11768,6 +12688,16 @@
 		culture = karthinian
 		religion = griffon
 		size = 9414
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 2060
+	}
+	clerks = {
+		culture = karthinian
+		religion = griffon
+		size = 120
 	}
 }
 
@@ -11840,7 +12770,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 44035
+		size = 34626
 	}
 	officers = {
 		culture = karthinian
@@ -11856,6 +12786,21 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 1415
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 4635
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 4635
+	}
+	craftsmen = {
+		culture = east_aquileian
+		religion = griffon
+		size = 139
 	}
 }
 
@@ -12133,12 +13078,22 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 5022
+		size = 4018
 	}
 	soldiers = {
 		culture = east_aquileian
 		religion = griffon
 		size = 32
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 502
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 502
 	}
 }
 
@@ -12206,7 +13161,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 37262
+		size = 37165
 	}
 	officers = {
 		culture = east_aquileian
@@ -12217,6 +13172,11 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 613
+	}
+	craftsmen = {
+		culture = east_aquileian
+		religion = griffon
+		size = 97
 	}
 }
 
@@ -12469,7 +13429,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 24085
+		size = 19268
 	}
 	officers = {
 		culture = east_aquileian
@@ -12480,6 +13440,16 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 723
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 2408
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 2409
 	}
 }
 
@@ -12508,7 +13478,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 70666
+		size = 55873
 	}
 	officers = {
 		culture = karthinian
@@ -12519,6 +13489,26 @@
 		culture = karthinian
 		religion = griffon
 		size = 3996
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 7066
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 7067
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 600
+	}
+	clerks = {
+		culture = karthinian
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -12581,12 +13571,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 83709
+		size = 66967
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 451
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 8371
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 8371
 	}
 }
 
@@ -12747,7 +13747,7 @@
 	farmers = {
 		culture = nova
 		religion = griffon
-		size = 74190
+		size = 73997
 	}
 	officers = {
 		culture = nova
@@ -12758,6 +13758,11 @@
 		culture = nova
 		religion = griffon
 		size = 1304
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 193
 	}
 }
 
@@ -12922,12 +13927,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 29406
+		size = 23525
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 94
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 2940
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 2941
 	}
 }
 
@@ -13054,12 +14069,17 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 32823
+		size = 32739
 	}
 	soldiers = {
 		culture = karthinian
 		religion = griffon
 		size = 212
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 84
 	}
 }
 
@@ -13088,7 +14108,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 85452
+		size = 85179
 	}
 	officers = {
 		culture = karthinian
@@ -13099,6 +14119,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 4255
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 273
 	}
 }
 
@@ -13127,12 +14152,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 15465
+		size = 12372
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 133
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 1546
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 1547
 	}
 }
 
@@ -13239,7 +14274,7 @@
 	farmers = {
 		culture = east_aquileian
 		religion = griffon
-		size = 138286
+		size = 107148
 	}
 	officers = {
 		culture = herzlander
@@ -13255,6 +14290,21 @@
 		culture = east_aquileian
 		religion = griffon
 		size = 4630
+	}
+	labourers = {
+		culture = east_aquileian
+		religion = griffon
+		size = 15365
+	}
+	serfs = {
+		culture = east_aquileian
+		religion = griffon
+		size = 15365
+	}
+	craftsmen = {
+		culture = east_aquileian
+		religion = griffon
+		size = 408
 	}
 }
 
@@ -13317,12 +14367,32 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 70148
+		size = 55458
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 454
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 7015
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 7015
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 600
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -13448,12 +14518,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 28199
+		size = 27467
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 461
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 672
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -13507,7 +14587,7 @@
 	farmers = {
 		culture = north
 		religion = pony
-		size = 13295
+		size = 8863
 	}
 	soldiers = {
 		culture = herzlander
@@ -13518,6 +14598,16 @@
 		culture = north
 		religion = pony
 		size = 85
+	}
+	labourers = {
+		culture = north
+		religion = pony
+		size = 2216
+	}
+	serfs = {
+		culture = north
+		religion = pony
+		size = 2216
 	}
 }
 
@@ -13546,7 +14636,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 85479
+		size = 68159
 	}
 	officers = {
 		culture = karthinian
@@ -13557,6 +14647,21 @@
 		culture = karthinian
 		religion = griffon
 		size = 1882
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 8548
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 8548
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 224
 	}
 }
 
@@ -13619,12 +14724,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 12359
+		size = 9887
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 134
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 1236
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 1236
 	}
 }
 
@@ -13687,7 +14802,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 95294
+		size = 75947
 	}
 	officers = {
 		culture = karthinian
@@ -13698,6 +14813,21 @@
 		culture = karthinian
 		religion = griffon
 		size = 4243
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 9529
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 9530
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 288
 	}
 }
 
@@ -13760,7 +14890,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 368609
+		size = 293586
 	}
 	officers = {
 		culture = herzlander
@@ -13771,6 +14901,21 @@
 		culture = herzlander
 		religion = griffon
 		size = 18622
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 36861
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 36861
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 1301
 	}
 }
 
@@ -13960,7 +15105,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 40200
+		size = 32160
 	}
 	officers = {
 		culture = karthinian
@@ -13971,6 +15116,16 @@
 		culture = karthinian
 		religion = griffon
 		size = 1771
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 4020
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 4020
 	}
 }
 
@@ -14111,12 +15266,22 @@
 	farmers = {
 		culture = arcturian
 		religion = griffon
-		size = 11873
+		size = 9498
 	}
 	soldiers = {
 		culture = arcturian
 		religion = griffon
 		size = 51
+	}
+	labourers = {
+		culture = arcturian
+		religion = griffon
+		size = 1187
+	}
+	serfs = {
+		culture = arcturian
+		religion = griffon
+		size = 1188
 	}
 }
 
@@ -14179,12 +15344,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 43851
+		size = 35081
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 718
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 4385
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 4385
 	}
 }
 
@@ -14213,7 +15388,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 142983
+		size = 142529
 	}
 	officers = {
 		culture = herzlander
@@ -14224,6 +15399,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 6681
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 454
 	}
 }
 
@@ -14335,12 +15515,22 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 32331
+		size = 25865
 	}
 	soldiers = {
 		culture = karthinian
 		religion = griffon
 		size = 457
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 3233
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 3233
 	}
 }
 
@@ -14447,12 +15637,22 @@
 	farmers = {
 		culture = arcturian
 		religion = griffon
-		size = 9498
+		size = 7598
 	}
 	soldiers = {
 		culture = arcturian
 		religion = griffon
 		size = 30
+	}
+	labourers = {
+		culture = arcturian
+		religion = griffon
+		size = 950
+	}
+	serfs = {
+		culture = arcturian
+		religion = griffon
+		size = 950
 	}
 }
 
@@ -14554,12 +15754,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 39681
+		size = 31745
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 430
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 3968
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 3968
 	}
 }
 
@@ -14627,12 +15837,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 10376
+		size = 8301
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 67
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 1037
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 1038
 	}
 }
 
@@ -14681,7 +15901,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 2513
+		size = 1675
 	}
 	farmers = {
 		culture = hill
@@ -14697,6 +15917,16 @@
 		culture = hill
 		religion = pony
 		size = 10
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 419
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 419
 	}
 }
 
@@ -14759,12 +15989,27 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 50671
+		size = 40407
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 606
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 5067
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 5067
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 130
 	}
 }
 
@@ -14793,7 +16038,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 159732
+		size = 159174
 	}
 	officers = {
 		culture = karthinian
@@ -14804,6 +16049,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 7281
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 558
 	}
 }
 
@@ -14871,7 +16121,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 82293
+		size = 82077
 	}
 	officers = {
 		culture = herzlander
@@ -14882,6 +16132,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 1816
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 216
 	}
 }
 
@@ -15042,7 +16297,7 @@
 	farmers = {
 		culture = arcturian
 		religion = griffon
-		size = 63606
+		size = 50885
 	}
 	officers = {
 		culture = arcturian
@@ -15053,6 +16308,16 @@
 		culture = arcturian
 		religion = griffon
 		size = 1477
+	}
+	labourers = {
+		culture = arcturian
+		religion = griffon
+		size = 6360
+	}
+	serfs = {
+		culture = arcturian
+		religion = griffon
+		size = 6361
 	}
 }
 
@@ -15222,7 +16487,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 102242
+		size = 80864
 	}
 	officers = {
 		culture = herzlander
@@ -15233,6 +16498,26 @@
 		culture = herzlander
 		religion = griffon
 		size = 2723
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 10224
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 10224
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 870
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -15261,7 +16546,7 @@
 	farmers = {
 		culture = rumare
 		religion = griffon
-		size = 46003
+		size = 36802
 	}
 	officers = {
 		culture = rumare
@@ -15272,6 +16557,16 @@
 		culture = rumare
 		religion = griffon
 		size = 2371
+	}
+	labourers = {
+		culture = rumare
+		religion = griffon
+		size = 4600
+	}
+	serfs = {
+		culture = rumare
+		religion = griffon
+		size = 4601
 	}
 }
 
@@ -15300,7 +16595,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 72018
+		size = 71790
 	}
 	officers = {
 		culture = karthinian
@@ -15311,6 +16606,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 2493
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 228
 	}
 }
 
@@ -15378,7 +16678,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 56774
+		size = 45419
 	}
 	officers = {
 		culture = herzlander
@@ -15389,6 +16689,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 1195
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 5677
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 5678
 	}
 }
 
@@ -15417,7 +16727,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 715960
+		size = 713009
 	}
 	officers = {
 		culture = herzlander
@@ -15428,6 +16738,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 36666
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 2891
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -15569,7 +16889,7 @@
 	farmers = {
 		culture = rumare
 		religion = griffon
-		size = 182724
+		size = 125758
 	}
 	officers = {
 		culture = griffonstone
@@ -15590,6 +16910,21 @@
 		culture = rumare
 		religion = griffon
 		size = 3627
+	}
+	labourers = {
+		culture = rumare
+		religion = griffon
+		size = 28111
+	}
+	serfs = {
+		culture = rumare
+		religion = griffon
+		size = 28112
+	}
+	craftsmen = {
+		culture = griffonstone
+		religion = griffon
+		size = 743
 	}
 }
 
@@ -15667,7 +17002,7 @@
 	farmers = {
 		culture = arcturian
 		religion = griffon
-		size = 70371
+		size = 56297
 	}
 	officers = {
 		culture = arcturian
@@ -15678,6 +17013,16 @@
 		culture = arcturian
 		religion = griffon
 		size = 2503
+	}
+	labourers = {
+		culture = arcturian
+		religion = griffon
+		size = 7037
+	}
+	serfs = {
+		culture = arcturian
+		religion = griffon
+		size = 7037
 	}
 }
 
@@ -15716,7 +17061,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 4631
+		size = 3308
 	}
 	farmers = {
 		culture = sicameonese
@@ -15732,6 +17077,16 @@
 		culture = sicameonese
 		religion = griffon
 		size = 52
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 661
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 662
 	}
 }
 
@@ -15760,7 +17115,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 172253
+		size = 171018
 	}
 	officers = {
 		culture = herzlander
@@ -15771,6 +17126,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 10886
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 1175
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
@@ -16088,7 +17453,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 28899
+		size = 21674
 	}
 	officers = {
 		culture = herzlander
@@ -16109,6 +17474,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 1278
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 3612
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 3613
 	}
 }
 
@@ -16299,7 +17674,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 100934
+		size = 100611
 	}
 	officers = {
 		culture = karthinian
@@ -16310,6 +17685,11 @@
 		culture = karthinian
 		religion = griffon
 		size = 5441
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 323
 	}
 }
 
@@ -16348,7 +17728,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 46659
+		size = 46515
 	}
 	officers = {
 		culture = zonician
@@ -16369,6 +17749,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 1238
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 144
 	}
 }
 
@@ -16558,12 +17943,22 @@
 	farmers = {
 		culture = undead
 		religion = undeads
-		size = 7995
+		size = 6396
 	}
 	soldiers = {
 		culture = undead
 		religion = undeads
 		size = 77
+	}
+	labourers = {
+		culture = undead
+		religion = undeads
+		size = 799
+	}
+	serfs = {
+		culture = undead
+		religion = undeads
+		size = 800
 	}
 }
 
@@ -16631,7 +18026,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 70947
+		size = 69400
 	}
 	officers = {
 		culture = herzlander
@@ -16642,6 +18037,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 3633
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 1427
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 120
 	}
 }
 
@@ -16670,7 +18075,7 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 95709
+		size = 76567
 	}
 	officers = {
 		culture = hill
@@ -16681,6 +18086,16 @@
 		culture = hill
 		religion = pony
 		size = 3599
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 9571
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 9571
 	}
 }
 
@@ -16861,12 +18276,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 21566
+		size = 17026
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 321
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 2270
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 2270
 	}
 }
 
@@ -16895,12 +18320,17 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 63851
+		size = 63687
 	}
 	soldiers = {
 		culture = karthinian
 		religion = griffon
 		size = 903
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 164
 	}
 }
 
@@ -16929,7 +18359,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 75191
+		size = 59957
 	}
 	officers = {
 		culture = karthinian
@@ -16940,6 +18370,21 @@
 		culture = karthinian
 		religion = griffon
 		size = 1576
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 7519
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 7519
+	}
+	craftsmen = {
+		culture = karthinian
+		religion = griffon
+		size = 196
 	}
 }
 
@@ -16968,7 +18413,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 127164
+		size = 126711
 	}
 	officers = {
 		culture = herzlander
@@ -16979,6 +18424,11 @@
 		culture = herzlander
 		religion = griffon
 		size = 8960
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 453
 	}
 }
 
@@ -17065,7 +18515,7 @@
 	farmers = {
 		culture = griffonstone
 		religion = griffon
-		size = 152100
+		size = 121218
 	}
 	officers = {
 		culture = griffonstone
@@ -17076,6 +18526,21 @@
 		culture = griffonstone
 		religion = griffon
 		size = 4467
+	}
+	labourers = {
+		culture = griffonstone
+		religion = griffon
+		size = 15210
+	}
+	serfs = {
+		culture = griffonstone
+		religion = griffon
+		size = 15210
+	}
+	craftsmen = {
+		culture = griffonstone
+		religion = griffon
+		size = 462
 	}
 }
 
@@ -17138,7 +18603,7 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 29019
+		size = 23215
 	}
 	officers = {
 		culture = hill
@@ -17149,6 +18614,16 @@
 		culture = hill
 		religion = pony
 		size = 739
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 2902
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 2902
 	}
 }
 
@@ -17177,7 +18652,7 @@
 	farmers = {
 		culture = arcturian
 		religion = griffon
-		size = 4916
+		size = 3933
 	}
 	officers = {
 		culture = arcturian
@@ -17188,6 +18663,16 @@
 		culture = arcturian
 		religion = griffon
 		size = 86
+	}
+	labourers = {
+		culture = arcturian
+		religion = griffon
+		size = 491
+	}
+	serfs = {
+		culture = arcturian
+		religion = griffon
+		size = 492
 	}
 }
 
@@ -17255,7 +18740,7 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 6684
+		size = 5199
 	}
 	farmers = {
 		culture = sicameonese
@@ -17281,6 +18766,16 @@
 		culture = sicameonese
 		religion = griffon
 		size = 17
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 742
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 743
 	}
 }
 
@@ -17407,12 +18902,27 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 71299
+		size = 56857
 	}
 	soldiers = {
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 384
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 7130
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 7130
+	}
+	craftsmen = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 182
 	}
 }
 
@@ -17451,7 +18961,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 96675
+		size = 96394
 	}
 	soldiers = {
 		culture = karthinian
@@ -17462,6 +18972,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 1808
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 281
 	}
 }
 
@@ -17544,12 +19059,12 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 277903
+		size = 166742
 	}
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 277903
+		size = 276115
 	}
 	officers = {
 		culture = feathisian
@@ -17570,6 +19085,21 @@
 		culture = herzlander
 		religion = griffon
 		size = 16719
+	}
+	labourers = {
+		culture = feathisian
+		religion = griffon
+		size = 55580
+	}
+	serfs = {
+		culture = feathisian
+		religion = griffon
+		size = 55581
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 1788
 	}
 }
 
@@ -17666,7 +19196,7 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 55718
+		size = 44574
 	}
 	officers = {
 		culture = hill
@@ -17677,6 +19207,16 @@
 		culture = hill
 		religion = pony
 		size = 919
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 5572
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 5572
 	}
 }
 
@@ -17744,12 +19284,17 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 55459
+		size = 55317
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 299
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 142
 	}
 }
 
@@ -17842,12 +19387,22 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 6884
+		size = 5507
 	}
 	soldiers = {
 		culture = sicameonese
 		religion = griffon
 		size = 66
+	}
+	labourers = {
+		culture = sicameonese
+		religion = griffon
+		size = 688
+	}
+	serfs = {
+		culture = sicameonese
+		religion = griffon
+		size = 689
 	}
 }
 
@@ -17876,7 +19431,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 152470
+		size = 150609
 	}
 	officers = {
 		culture = herzlander
@@ -17887,6 +19442,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 8875
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 1741
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 120
 	}
 }
 
@@ -17915,12 +19480,22 @@
 	farmers = {
 		culture = griffonstone
 		religion = griffon
-		size = 9562
+		size = 7650
 	}
 	soldiers = {
 		culture = griffonstone
 		religion = griffon
 		size = 72
+	}
+	labourers = {
+		culture = griffonstone
+		religion = griffon
+		size = 956
+	}
+	serfs = {
+		culture = griffonstone
+		religion = griffon
+		size = 956
 	}
 }
 
@@ -18177,7 +19752,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 110570
+		size = 110231
 	}
 	officers = {
 		culture = sicameonese
@@ -18188,6 +19763,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 4708
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 339
 	}
 }
 
@@ -18479,12 +20059,17 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 96409
+		size = 96144
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 2007
+	}
+	craftsmen = {
+		culture = griffonstone
+		religion = griffon
+		size = 265
 	}
 }
 
@@ -18655,7 +20240,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 45517
+		size = 34807
 	}
 	farmers = {
 		culture = vartai
@@ -18666,6 +20251,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 639
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 5355
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 5355
 	}
 }
 
@@ -18738,12 +20333,17 @@
 	farmers = {
 		culture = griffonstone
 		religion = griffon
-		size = 10144
+		size = 10119
 	}
 	soldiers = {
 		culture = griffonstone
 		religion = griffon
 		size = 32
+	}
+	craftsmen = {
+		culture = griffonstone
+		religion = griffon
+		size = 25
 	}
 }
 
@@ -18929,12 +20529,22 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 22128
+		size = 17702
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 239
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 2213
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 2213
 	}
 }
 
@@ -19056,12 +20666,22 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 24022
+		size = 19218
 	}
 	soldiers = {
 		culture = hill
 		religion = pony
 		size = 259
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 2402
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 2402
 	}
 }
 
@@ -19124,7 +20744,7 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 36172
+		size = 28938
 	}
 	officers = {
 		culture = hill
@@ -19135,6 +20755,16 @@
 		culture = hill
 		religion = pony
 		size = 1513
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 3617
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 3617
 	}
 }
 
@@ -19354,7 +20984,7 @@
 	farmers = {
 		culture = vartai
 		religion = pony
-		size = 22823
+		size = 22705
 	}
 	farmers = {
 		culture = hill
@@ -19370,6 +21000,11 @@
 		culture = vartai
 		religion = pony
 		size = 139
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 118
 	}
 }
 
@@ -19707,7 +21342,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 40367
+		size = 31869
 	}
 	officers = {
 		culture = griffonstone
@@ -19723,6 +21358,16 @@
 		culture = herzlander
 		religion = griffon
 		size = 747
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 4249
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 4249
 	}
 }
 
@@ -19776,7 +21421,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 49452
+		size = 49145
 	}
 	farmers = {
 		culture = herzlander
@@ -19812,6 +21457,11 @@
 		culture = vartai
 		religion = pony
 		size = 1240
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 307
 	}
 }
 
@@ -19889,7 +21539,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 20925
+		size = 20836
 	}
 	farmers = {
 		culture = vartai
@@ -19905,6 +21555,11 @@
 		culture = vartai
 		religion = pony
 		size = 45
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 89
 	}
 }
 
@@ -19992,7 +21647,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 60061
+		size = 59903
 	}
 	officers = {
 		culture = sicameonese
@@ -20003,6 +21658,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 1670
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 158
 	}
 }
 
@@ -20124,12 +21784,17 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 28812
+		size = 28739
 	}
 	soldiers = {
 		culture = sicameonese
 		religion = griffon
 		size = 123
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 73
 	}
 }
 
@@ -20222,12 +21887,22 @@
 	farmers = {
 		culture = hill
 		religion = pony
-		size = 26442
+		size = 21154
 	}
 	soldiers = {
 		culture = hill
 		religion = pony
 		size = 257
+	}
+	labourers = {
+		culture = hill
+		religion = pony
+		size = 2644
+	}
+	serfs = {
+		culture = hill
+		religion = pony
+		size = 2644
 	}
 }
 
@@ -20311,7 +21986,7 @@
 	farmers = {
 		culture = griffonstone
 		religion = griffon
-		size = 5745
+		size = 3412
 	}
 	farmers = {
 		culture = herzlander
@@ -20362,6 +22037,21 @@
 		culture = lushian
 		religion = griffon
 		size = 121
+	}
+	labourers = {
+		culture = griffonstone
+		religion = griffon
+		size = 1149
+	}
+	serfs = {
+		culture = griffonstone
+		religion = griffon
+		size = 1149
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 35
 	}
 }
 
@@ -20464,7 +22154,7 @@
 	farmers = {
 		culture = griffonstone
 		religion = griffon
-		size = 86242
+		size = 85971
 	}
 	officers = {
 		culture = griffonstone
@@ -20475,6 +22165,11 @@
 		culture = griffonstone
 		religion = griffon
 		size = 3982
+	}
+	craftsmen = {
+		culture = griffonstone
+		religion = griffon
+		size = 271
 	}
 }
 
@@ -20498,12 +22193,22 @@
 	farmers = {
 		culture = undead
 		religion = undeads
-		size = 2002
+		size = 1602
 	}
 	soldiers = {
 		culture = undead
 		religion = undeads
 		size = 2
+	}
+	labourers = {
+		culture = undead
+		religion = undeads
+		size = 200
+	}
+	serfs = {
+		culture = undead
+		religion = undeads
+		size = 200
 	}
 }
 
@@ -20690,7 +22395,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 3031
+		size = 2021
 	}
 	farmers = {
 		culture = griffonstone
@@ -20711,6 +22416,16 @@
 		culture = griffonstone
 		religion = griffon
 		size = 6
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 505
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 505
 	}
 }
 
@@ -20759,7 +22474,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 6447
+		size = 4605
 	}
 	farmers = {
 		culture = griffonstone
@@ -20775,6 +22490,16 @@
 		culture = griffonstone
 		religion = griffon
 		size = 39
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 921
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 921
 	}
 }
 
@@ -20916,7 +22641,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 95646
+		size = 95226
 	}
 	farmers = {
 		culture = vartai
@@ -20942,6 +22667,11 @@
 		culture = vartai
 		religion = pony
 		size = 317
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 420
 	}
 }
 
@@ -21063,7 +22793,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 71010
+		size = 70647
 	}
 	farmers = {
 		culture = vartai
@@ -21089,6 +22819,11 @@
 		culture = vartai
 		religion = pony
 		size = 1529
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 363
 	}
 }
 
@@ -21186,7 +22921,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 153536
+		size = 153020
 	}
 	officers = {
 		culture = sicameonese
@@ -21197,6 +22932,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 8471
+	}
+	craftsmen = {
+		culture = sicameonese
+		religion = griffon
+		size = 516
 	}
 }
 
@@ -21265,7 +23005,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 22016
+		size = 15726
 	}
 	farmers = {
 		culture = ostlander
@@ -21306,6 +23046,16 @@
 		culture = sicameonese
 		religion = griffon
 		size = 139
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 3145
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 3145
 	}
 }
 
@@ -21571,7 +23321,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 88082
+		size = 87620
 	}
 	farmers = {
 		culture = sicameonese
@@ -21602,6 +23352,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 1244
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 462
 	}
 }
 
@@ -21650,7 +23405,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 9023
+		size = 6413
 	}
 	farmers = {
 		culture = griffonstone
@@ -21666,6 +23421,21 @@
 		culture = griffonstone
 		religion = griffon
 		size = 34
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 1289
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 1289
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 32
 	}
 }
 
@@ -21719,7 +23489,7 @@
 	farmers = {
 		culture = vartai
 		religion = pony
-		size = 48719
+		size = 32479
 	}
 	officers = {
 		culture = ostlander
@@ -21740,6 +23510,16 @@
 		culture = vartai
 		religion = pony
 		size = 1079
+	}
+	labourers = {
+		culture = vartai
+		religion = pony
+		size = 8120
+	}
+	serfs = {
+		culture = vartai
+		religion = pony
+		size = 8120
 	}
 }
 
@@ -21916,7 +23696,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 45989
+		size = 36307
 	}
 	farmers = {
 		culture = lushian
@@ -21927,6 +23707,16 @@
 		culture = prywhenian
 		religion = griffon
 		size = 739
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 4841
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 4841
 	}
 }
 
@@ -21975,7 +23765,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 5361
+		size = 4021
 	}
 	farmers = {
 		culture = griffonstone
@@ -21991,6 +23781,16 @@
 		culture = griffonstone
 		religion = griffon
 		size = 17
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 670
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 670
 	}
 }
 
@@ -22244,12 +24044,27 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 11625
+		size = 8683
 	}
 	soldiers = {
 		culture = herzlander
 		religion = griffon
 		size = 46
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 1453
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 1453
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 36
 	}
 }
 
@@ -22278,7 +24093,7 @@
 	farmers = {
 		culture = undead
 		religion = undeads
-		size = 339764
+		size = 271811
 	}
 	officers = {
 		culture = undead
@@ -22289,6 +24104,16 @@
 		culture = undead
 		religion = undeads
 		size = 9080
+	}
+	labourers = {
+		culture = undead
+		religion = undeads
+		size = 33976
+	}
+	serfs = {
+		culture = undead
+		religion = undeads
+		size = 33977
 	}
 }
 
@@ -22523,7 +24348,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 120972
+		size = 120497
 	}
 	officers = {
 		culture = ostlander
@@ -22534,6 +24359,11 @@
 		culture = ostlander
 		religion = griffon
 		size = 7400
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 475
 	}
 }
 
@@ -22714,12 +24544,22 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 10486
+		size = 8389
 	}
 	soldiers = {
 		culture = prywhenian
 		religion = griffon
 		size = 67
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 1048
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 1049
 	}
 }
 
@@ -22872,12 +24712,22 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 31900
+		size = 25520
 	}
 	soldiers = {
 		culture = prywhenian
 		religion = griffon
 		size = 172
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 3190
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 3190
 	}
 }
 
@@ -22945,12 +24795,22 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 8370
+		size = 6696
 	}
 	soldiers = {
 		culture = prywhenian
 		religion = griffon
 		size = 35
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 837
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 837
 	}
 }
 
@@ -22994,7 +24854,7 @@
 	farmers = {
 		culture = lushian
 		religion = griffon
-		size = 26079
+		size = 25980
 	}
 	officers = {
 		culture = lushian
@@ -23010,6 +24870,11 @@
 		culture = lushian
 		religion = griffon
 		size = 1016
+	}
+	craftsmen = {
+		culture = lushian
+		religion = griffon
+		size = 99
 	}
 }
 
@@ -23469,12 +25334,22 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 23770
+		size = 19016
 	}
 	soldiers = {
 		culture = minotaur
 		religion = minotaurs
 		size = 659
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2377
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2377
 	}
 }
 
@@ -23503,7 +25378,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 20533
+		size = 16426
 	}
 	officers = {
 		culture = minotaur
@@ -23514,6 +25389,16 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 871
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2053
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2054
 	}
 }
 
@@ -23557,7 +25442,7 @@
 	farmers = {
 		culture = lushian
 		religion = griffon
-		size = 130405
+		size = 129967
 	}
 	officers = {
 		culture = lushian
@@ -23573,6 +25458,11 @@
 		culture = lushian
 		religion = griffon
 		size = 3976
+	}
+	craftsmen = {
+		culture = lushian
+		religion = griffon
+		size = 438
 	}
 }
 
@@ -23728,7 +25618,7 @@
 	farmers = {
 		culture = lushian
 		religion = griffon
-		size = 82103
+		size = 64818
 	}
 	officers = {
 		culture = lushian
@@ -23739,6 +25629,16 @@
 		culture = lushian
 		religion = griffon
 		size = 4542
+	}
+	labourers = {
+		culture = lushian
+		religion = griffon
+		size = 8642
+	}
+	serfs = {
+		culture = lushian
+		religion = griffon
+		size = 8643
 	}
 }
 
@@ -23767,7 +25667,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 114765
+		size = 91509
 	}
 	officers = {
 		culture = riverlander
@@ -23778,6 +25678,21 @@
 		culture = riverlander
 		religion = pony
 		size = 2802
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 11476
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 11477
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 303
 	}
 }
 
@@ -23826,7 +25741,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 14308
+		size = 14263
 	}
 	farmers = {
 		culture = ostlander
@@ -23842,6 +25757,11 @@
 		culture = ostlander
 		religion = griffon
 		size = 31
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 45
 	}
 }
 
@@ -24008,7 +25928,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 120341
+		size = 120023
 	}
 	officers = {
 		culture = prywhenian
@@ -24019,6 +25939,11 @@
 		culture = prywhenian
 		religion = griffon
 		size = 3346
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 318
 	}
 }
 
@@ -24185,7 +26110,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 44414
+		size = 34714
 	}
 	officers = {
 		culture = minotaur
@@ -24196,6 +26121,26 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 2647
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 4441
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 4442
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 757
+	}
+	clerks = {
+		culture = minotaur
+		religion = minotaurs
+		size = 60
 	}
 }
 
@@ -24292,7 +26237,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 21500
+		size = 17200
 	}
 	slaves = {
 		culture = diamond_dog
@@ -24308,6 +26253,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 990
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 2150
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 2150
 	}
 }
 
@@ -24370,7 +26325,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 387129
+		size = 307780
 	}
 	officers = {
 		culture = riverlander
@@ -24381,6 +26336,26 @@
 		culture = riverlander
 		religion = pony
 		size = 19143
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 38713
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 38713
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 1863
+	}
+	clerks = {
+		culture = riverlander
+		religion = pony
+		size = 60
 	}
 }
 
@@ -24409,12 +26384,17 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 60295
+		size = 60140
 	}
 	soldiers = {
 		culture = riverlander
 		religion = pony
 		size = 654
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 155
 	}
 }
 
@@ -24448,7 +26428,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 22997
+		size = 17998
 	}
 	farmers = {
 		culture = zaphzian
@@ -24459,6 +26439,16 @@
 		culture = prywhenian
 		religion = griffon
 		size = 188
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 2499
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 2500
 	}
 }
 
@@ -24546,7 +26536,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 29099
+		size = 28960
 	}
 	officers = {
 		culture = prywhenian
@@ -24567,6 +26557,11 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 615
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 139
 	}
 }
 
@@ -24595,7 +26590,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 139876
+		size = 139509
 	}
 	officers = {
 		culture = minotaur
@@ -24606,6 +26601,11 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 2624
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 367
 	}
 }
 
@@ -24684,7 +26684,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 34365
+		size = 25774
 	}
 	farmers = {
 		culture = lushian
@@ -24705,6 +26705,16 @@
 		culture = lushian
 		religion = griffon
 		size = 41
+	}
+	labourers = {
+		culture = zaphzian
+		religion = griffon
+		size = 4295
+	}
+	serfs = {
+		culture = zaphzian
+		religion = griffon
+		size = 4296
 	}
 }
 
@@ -24733,12 +26743,17 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 44945
+		size = 44830
 	}
 	soldiers = {
 		culture = prywhenian
 		religion = griffon
 		size = 438
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 115
 	}
 }
 
@@ -24792,7 +26807,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 24265
+		size = 24188
 	}
 	soldiers = {
 		culture = riverlander
@@ -24803,6 +26818,11 @@
 		culture = zaphzian
 		religion = griffon
 		size = 157
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 77
 	}
 }
 
@@ -24870,7 +26890,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 28947
+		size = 23158
 	}
 	officers = {
 		culture = diamond_dog
@@ -24896,6 +26916,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 3052
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 2894
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 2895
 	}
 }
 
@@ -24944,7 +26974,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 46372
+		size = 45584
 	}
 	farmers = {
 		culture = sicameonese
@@ -24970,6 +27000,16 @@
 		culture = sicameonese
 		religion = griffon
 		size = 64
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 728
+	}
+	clerks = {
+		culture = minotaur
+		religion = minotaurs
+		size = 60
 	}
 }
 
@@ -24998,7 +27038,7 @@
 	farmers = {
 		culture = feathisian
 		religion = griffon
-		size = 81222
+		size = 80935
 	}
 	officers = {
 		culture = feathisian
@@ -25009,6 +27049,11 @@
 		culture = feathisian
 		religion = griffon
 		size = 4217
+	}
+	craftsmen = {
+		culture = feathisian
+		religion = griffon
+		size = 287
 	}
 }
 
@@ -25106,7 +27151,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 153088
+		size = 121667
 	}
 	officers = {
 		culture = diamond_dog
@@ -25127,6 +27172,21 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 6420
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 15309
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 15309
+	}
+	craftsmen = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 803
 	}
 }
 
@@ -25229,12 +27289,17 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 58369
+		size = 58219
 	}
 	soldiers = {
 		culture = minotaur
 		religion = minotaurs
 		size = 633
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 150
 	}
 }
 
@@ -25263,7 +27328,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 259433
+		size = 257970
 	}
 	officers = {
 		culture = minotaur
@@ -25274,6 +27339,16 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 9809
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 1403
+	}
+	clerks = {
+		culture = minotaur
+		religion = minotaurs
+		size = 60
 	}
 }
 
@@ -25336,7 +27411,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 69281
+		size = 55099
 	}
 	officers = {
 		culture = diamond_dog
@@ -25362,6 +27437,21 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 2469
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 6928
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 6928
+	}
+	craftsmen = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 326
 	}
 }
 
@@ -25458,7 +27548,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 16313
+		size = 13050
 	}
 	officers = {
 		culture = diamond_dog
@@ -25479,6 +27569,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 830
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 1631
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 1632
 	}
 }
 
@@ -25576,7 +27676,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 28155
+		size = 21530
 	}
 	soldiers = {
 		culture = riverlander
@@ -25587,6 +27687,16 @@
 		culture = zaphzian
 		religion = griffon
 		size = 182
+	}
+	labourers = {
+		culture = zaphzian
+		religion = griffon
+		size = 3312
+	}
+	serfs = {
+		culture = zaphzian
+		religion = griffon
+		size = 3313
 	}
 }
 
@@ -25709,7 +27819,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 7058
+		size = 5294
 	}
 	soldiers = {
 		culture = riverlander
@@ -25720,6 +27830,16 @@
 		culture = zaphzian
 		religion = griffon
 		size = 84
+	}
+	labourers = {
+		culture = zaphzian
+		religion = griffon
+		size = 882
+	}
+	serfs = {
+		culture = zaphzian
+		religion = griffon
+		size = 882
 	}
 }
 
@@ -25748,7 +27868,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 55245
+		size = 44196
 	}
 	officers = {
 		culture = diamond_dog
@@ -25769,6 +27889,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 2445
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 5524
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 5525
 	}
 }
 
@@ -26179,7 +28309,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 156806
+		size = 156252
 	}
 	officers = {
 		culture = riverlander
@@ -26190,6 +28320,11 @@
 		culture = riverlander
 		religion = pony
 		size = 9086
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 554
 	}
 }
 
@@ -26472,7 +28607,7 @@
 	farmers = {
 		culture = diamond_dog
 		religion = diamond_dogs
-		size = 30749
+		size = 24599
 	}
 	officers = {
 		culture = diamond_dog
@@ -26493,6 +28628,16 @@
 		culture = diamond_dog
 		religion = diamond_dogs
 		size = 1278
+	}
+	labourers = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 3075
+	}
+	serfs = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 3075
 	}
 }
 
@@ -26521,12 +28666,22 @@
 	farmers = {
 		culture = karthinian
 		religion = griffon
-		size = 42012
+		size = 33610
 	}
 	soldiers = {
 		culture = karthinian
 		religion = griffon
 		size = 926
+	}
+	labourers = {
+		culture = karthinian
+		religion = griffon
+		size = 4201
+	}
+	serfs = {
+		culture = karthinian
+		religion = griffon
+		size = 4201
 	}
 }
 
@@ -26575,7 +28730,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 134906
+		size = 134350
 	}
 	farmers = {
 		culture = zaphzian
@@ -26601,6 +28756,11 @@
 		culture = zaphzian
 		religion = griffon
 		size = 1463
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 556
 	}
 }
 
@@ -26871,7 +29031,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 22089
+		size = 22014
 	}
 	farmers = {
 		culture = macawian
@@ -26907,6 +29067,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 9
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 75
 	}
 }
 
@@ -26970,7 +29135,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 51041
+		size = 50877
 	}
 	farmers = {
 		culture = wittenlandic
@@ -26986,6 +29151,11 @@
 		culture = zaphzian
 		religion = griffon
 		size = 609
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 164
 	}
 }
 
@@ -27058,7 +29228,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 98607
+		size = 98200
 	}
 	farmers = {
 		culture = gryphussian
@@ -27084,6 +29254,11 @@
 		culture = gryphussian
 		religion = griffon
 		size = 745
+	}
+	craftsmen = {
+		culture = prywhenian
+		religion = griffon
+		size = 407
 	}
 }
 
@@ -27117,7 +29292,7 @@
 	farmers = {
 		culture = prywhenian
 		religion = griffon
-		size = 9342
+		size = 7266
 	}
 	farmers = {
 		culture = sicameonese
@@ -27128,6 +29303,16 @@
 		culture = prywhenian
 		religion = griffon
 		size = 262
+	}
+	labourers = {
+		culture = prywhenian
+		religion = griffon
+		size = 1038
+	}
+	serfs = {
+		culture = prywhenian
+		religion = griffon
+		size = 1038
 	}
 }
 
@@ -27322,7 +29507,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 123350
+		size = 98357
 	}
 	officers = {
 		culture = riverlander
@@ -27333,6 +29518,21 @@
 		culture = riverlander
 		religion = pony
 		size = 2035
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 12335
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 12335
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 323
 	}
 }
 
@@ -27376,7 +29576,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 22955
+		size = 18122
 	}
 	soldiers = {
 		culture = riverlander
@@ -27387,6 +29587,16 @@
 		culture = zaphzian
 		religion = griffon
 		size = 198
+	}
+	labourers = {
+		culture = zaphzian
+		religion = griffon
+		size = 2416
+	}
+	serfs = {
+		culture = zaphzian
+		religion = griffon
+		size = 2417
 	}
 }
 
@@ -27748,7 +29958,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 42827
+		size = 42711
 	}
 	farmers = {
 		culture = sicameonese
@@ -27759,6 +29969,11 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 689
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 116
 	}
 }
 
@@ -27900,7 +30115,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 214933
+		size = 213705
 	}
 	officers = {
 		culture = riverlander
@@ -27911,6 +30126,16 @@
 		culture = riverlander
 		religion = pony
 		size = 5259
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 1168
+	}
+	clerks = {
+		culture = riverlander
+		religion = pony
+		size = 60
 	}
 }
 
@@ -28023,7 +30248,7 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 112588
+		size = 112189
 	}
 	officers = {
 		culture = minotaur
@@ -28034,6 +30259,11 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 6543
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 399
 	}
 }
 
@@ -28082,7 +30312,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 17592
+		size = 13194
 	}
 	farmers = {
 		culture = wittenlandic
@@ -28098,6 +30328,16 @@
 		culture = wittenlandic
 		religion = pony
 		size = 28
+	}
+	labourers = {
+		culture = zaphzian
+		religion = griffon
+		size = 2199
+	}
+	serfs = {
+		culture = zaphzian
+		religion = griffon
+		size = 2199
 	}
 }
 
@@ -28165,12 +30405,22 @@
 	farmers = {
 		culture = greneclyf
 		religion = changeling
-		size = 131310
+		size = 105048
 	}
 	soldiers = {
 		culture = greneclyf
 		religion = changeling
 		size = 3355
+	}
+	labourers = {
+		culture = greneclyf
+		religion = changeling
+		size = 13131
+	}
+	serfs = {
+		culture = greneclyf
+		religion = changeling
+		size = 13131
 	}
 }
 
@@ -28258,7 +30508,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 26287
+		size = 26184
 	}
 	soldiers = {
 		culture = gryphussian
@@ -28269,6 +30519,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 227
+	}
+	craftsmen = {
+		culture = gryphussian
+		religion = griffon
+		size = 103
 	}
 }
 
@@ -28395,7 +30650,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 119152
+		size = 118714
 	}
 	farmers = {
 		culture = wittenlandic
@@ -28421,6 +30676,11 @@
 		culture = wittenlandic
 		religion = pony
 		size = 386
+	}
+	craftsmen = {
+		culture = zaphzian
+		religion = griffon
+		size = 438
 	}
 }
 
@@ -28690,7 +30950,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 50205
+		size = 49399
 	}
 	farmers = {
 		culture = wittenlandic
@@ -28706,6 +30966,16 @@
 		culture = riverlander
 		religion = pony
 		size = 1293
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 746
+	}
+	clerks = {
+		culture = riverlander
+		religion = pony
+		size = 60
 	}
 }
 
@@ -28828,12 +31098,22 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 28883
+		size = 23106
 	}
 	soldiers = {
 		culture = minotaur
 		religion = minotaurs
 		size = 249
+	}
+	labourers = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2888
+	}
+	serfs = {
+		culture = minotaur
+		religion = minotaurs
+		size = 2889
 	}
 }
 
@@ -28882,7 +31162,7 @@
 	farmers = {
 		culture = zaphzian
 		religion = griffon
-		size = 107078
+		size = 106784
 	}
 	farmers = {
 		culture = wittenlandic
@@ -28898,6 +31178,11 @@
 		culture = wittenlandic
 		religion = pony
 		size = 92
+	}
+	craftsmen = {
+		culture = zaphzian
+		religion = griffon
+		size = 294
 	}
 }
 
@@ -28976,7 +31261,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 57015
+		size = 56762
 	}
 	officers = {
 		culture = ostlander
@@ -29007,6 +31292,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 1401
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 253
 	}
 }
 
@@ -29143,7 +31433,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 96156
+		size = 95865
 	}
 	officers = {
 		culture = wittenlandic
@@ -29159,6 +31449,11 @@
 		culture = wittenlandic
 		religion = pony
 		size = 2233
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 291
 	}
 }
 
@@ -29511,12 +31806,17 @@
 	farmers = {
 		culture = minotaur
 		religion = minotaurs
-		size = 19081
+		size = 19033
 	}
 	soldiers = {
 		culture = minotaur
 		religion = minotaurs
 		size = 164
+	}
+	craftsmen = {
+		culture = minotaur
+		religion = minotaurs
+		size = 48
 	}
 }
 
@@ -29545,7 +31845,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 67887
+		size = 54310
 	}
 	officers = {
 		culture = riverlander
@@ -29556,6 +31856,16 @@
 		culture = riverlander
 		religion = pony
 		size = 1806
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 6788
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 6789
 	}
 }
 
@@ -29746,12 +32056,22 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 71402
+		size = 57122
 	}
 	soldiers = {
 		culture = wittenlandic
 		religion = pony
 		size = 1255
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 7140
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 7140
 	}
 }
 
@@ -29780,7 +32100,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 61636
+		size = 61475
 	}
 	officers = {
 		culture = riverlander
@@ -29791,6 +32111,11 @@
 		culture = riverlander
 		religion = pony
 		size = 1359
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 161
 	}
 }
 
@@ -29893,7 +32218,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 147414
+		size = 146920
 	}
 	farmers = {
 		culture = nimbusian
@@ -29919,6 +32244,11 @@
 		culture = nimbusian
 		religion = pony
 		size = 322
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 494
 	}
 }
 
@@ -29997,7 +32327,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 69849
+		size = 69445
 	}
 	officers = {
 		culture = ostlander
@@ -30028,6 +32358,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 3331
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 404
 	}
 }
 
@@ -30154,12 +32489,27 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 56363
+		size = 44945
 	}
 	soldiers = {
 		culture = wittenlandic
 		religion = pony
 		size = 736
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 5636
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 5637
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 145
 	}
 }
 
@@ -30281,12 +32631,12 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 31832
+		size = 19099
 	}
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 31832
+		size = 31669
 	}
 	soldiers = {
 		culture = riverlander
@@ -30297,6 +32647,21 @@
 		culture = wittenlandic
 		religion = pony
 		size = 206
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 6366
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 6367
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 163
 	}
 }
 
@@ -30389,7 +32754,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 88331
+		size = 70665
 	}
 	officers = {
 		culture = riverlander
@@ -30400,6 +32765,16 @@
 		culture = riverlander
 		religion = pony
 		size = 2054
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 8833
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 8833
 	}
 }
 
@@ -30472,12 +32847,12 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 6380
+		size = 6334
 	}
 	farmers = {
 		culture = gryphussian
 		religion = griffon
-		size = 9570
+		size = 6380
 	}
 	officers = {
 		culture = ostlander
@@ -30498,6 +32873,21 @@
 		culture = gryphussian
 		religion = griffon
 		size = 76
+	}
+	labourers = {
+		culture = gryphussian
+		religion = griffon
+		size = 1595
+	}
+	serfs = {
+		culture = gryphussian
+		religion = griffon
+		size = 1595
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 46
 	}
 }
 
@@ -30910,7 +33300,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 44815
+		size = 44692
 	}
 	farmers = {
 		culture = nimbusian
@@ -30936,6 +33326,11 @@
 		culture = nimbusian
 		religion = pony
 		size = 46
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 123
 	}
 }
 
@@ -31319,7 +33714,7 @@
 	farmers = {
 		culture = gryphussian
 		religion = griffon
-		size = 6243
+		size = 4929
 	}
 	soldiers = {
 		culture = ostlander
@@ -31330,6 +33725,16 @@
 		culture = gryphussian
 		religion = griffon
 		size = 9
+	}
+	labourers = {
+		culture = gryphussian
+		religion = griffon
+		size = 657
+	}
+	serfs = {
+		culture = gryphussian
+		religion = griffon
+		size = 657
 	}
 }
 
@@ -31358,7 +33763,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 489491
+		size = 389198
 	}
 	officers = {
 		culture = riverlander
@@ -31369,6 +33774,26 @@
 		culture = riverlander
 		religion = pony
 		size = 25570
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 48949
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 48949
+	}
+	craftsmen = {
+		culture = riverlander
+		religion = pony
+		size = 2335
+	}
+	clerks = {
+		culture = riverlander
+		religion = pony
+		size = 60
 	}
 }
 
@@ -31648,7 +34073,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 36941
+		size = 36781
 	}
 	soldiers = {
 		culture = gryphussian
@@ -31659,6 +34084,11 @@
 		culture = wittenlandic
 		religion = pony
 		size = 732
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 160
 	}
 }
 
@@ -31687,7 +34117,7 @@
 	farmers = {
 		culture = riverlander
 		religion = pony
-		size = 52632
+		size = 42106
 	}
 	officers = {
 		culture = riverlander
@@ -31698,6 +34128,16 @@
 		culture = riverlander
 		religion = pony
 		size = 923
+	}
+	labourers = {
+		culture = riverlander
+		religion = pony
+		size = 5263
+	}
+	serfs = {
+		culture = riverlander
+		religion = pony
+		size = 5263
 	}
 }
 
@@ -31736,7 +34176,7 @@
 	farmers = {
 		culture = ostlander
 		religion = griffon
-		size = 9315
+		size = 9278
 	}
 	farmers = {
 		culture = gryphussian
@@ -31752,6 +34192,11 @@
 		culture = gryphussian
 		religion = griffon
 		size = 39
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 37
 	}
 }
 
@@ -31814,7 +34259,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 153951
+		size = 122757
 	}
 	officers = {
 		culture = wittenlandic
@@ -31825,6 +34270,21 @@
 		culture = wittenlandic
 		religion = pony
 		size = 2721
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 15395
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 15395
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 404
 	}
 }
 
@@ -31853,7 +34313,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 25738
+		size = 25608
 	}
 	slaves = {
 		culture = riverlander
@@ -31864,6 +34324,11 @@
 		culture = nimbusian
 		religion = pony
 		size = 713
+	}
+	craftsmen = {
+		culture = nimbusian
+		religion = pony
+		size = 130
 	}
 }
 
@@ -31965,7 +34430,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 193780
+		size = 191827
 	}
 	officers = {
 		culture = wittenlandic
@@ -31976,6 +34441,16 @@
 		culture = wittenlandic
 		religion = pony
 		size = 8529
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 1833
+	}
+	clerks = {
+		culture = wittenlandic
+		religion = pony
+		size = 120
 	}
 }
 
@@ -32063,7 +34538,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 15215
+		size = 11411
 	}
 	officers = {
 		culture = wittenlandic
@@ -32079,6 +34554,16 @@
 		culture = wittenlandic
 		religion = pony
 		size = 302
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 1902
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 1902
 	}
 }
 
@@ -32107,12 +34592,17 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 33206
+		size = 33121
 	}
 	soldiers = {
 		culture = wittenlandic
 		religion = pony
 		size = 360
+	}
+	craftsmen = {
+		culture = wittenlandic
+		religion = pony
+		size = 85
 	}
 }
 
@@ -32191,7 +34681,7 @@
 	farmers = {
 		culture = sicameonese
 		religion = griffon
-		size = 22674
+		size = 22595
 	}
 	officers = {
 		culture = ostlander
@@ -32217,6 +34707,11 @@
 		culture = sicameonese
 		religion = griffon
 		size = 479
+	}
+	craftsmen = {
+		culture = ostlander
+		religion = griffon
+		size = 79
 	}
 }
 
@@ -32328,7 +34823,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 18493
+		size = 14794
 	}
 	slaves = {
 		culture = riverlander
@@ -32339,6 +34834,16 @@
 		culture = nimbusian
 		religion = pony
 		size = 1849
+	}
+	labourers = {
+		culture = nimbusian
+		religion = pony
+		size = 1849
+	}
+	serfs = {
+		culture = nimbusian
+		religion = pony
+		size = 1850
 	}
 }
 
@@ -32572,7 +35077,7 @@
 	farmers = {
 		culture = ponaidh
 		religion = pony
-		size = 55746
+		size = 55569
 	}
 	officers = {
 		culture = ponaidh
@@ -32583,6 +35088,11 @@
 		culture = ponaidh
 		religion = pony
 		size = 2462
+	}
+	craftsmen = {
+		culture = ponaidh
+		religion = pony
+		size = 177
 	}
 }
 
@@ -32611,7 +35121,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 10675
+		size = 8540
 	}
 	officers = {
 		culture = nimbusian
@@ -32627,6 +35137,16 @@
 		culture = nimbusian
 		religion = pony
 		size = 947
+	}
+	labourers = {
+		culture = nimbusian
+		religion = pony
+		size = 1067
+	}
+	serfs = {
+		culture = nimbusian
+		religion = pony
+		size = 1068
 	}
 }
 
@@ -32660,12 +35180,22 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 14987
+		size = 11657
 	}
 	soldiers = {
 		culture = wittenlandic
 		religion = pony
 		size = 217
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 1665
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 1665
 	}
 }
 
@@ -32694,7 +35224,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 17858
+		size = 14286
 	}
 	officers = {
 		culture = nimbusian
@@ -32710,6 +35240,16 @@
 		culture = nimbusian
 		religion = pony
 		size = 1640
+	}
+	labourers = {
+		culture = nimbusian
+		religion = pony
+		size = 1786
+	}
+	serfs = {
+		culture = nimbusian
+		religion = pony
+		size = 1786
 	}
 }
 
@@ -32845,12 +35385,22 @@
 	farmers = {
 		culture = kasan
 		religion = zebra
-		size = 30549
+		size = 24439
 	}
 	soldiers = {
 		culture = kasan
 		religion = zebra
 		size = 398
+	}
+	labourers = {
+		culture = kasan
+		religion = zebra
+		size = 3055
+	}
+	serfs = {
+		culture = kasan
+		religion = zebra
+		size = 3055
 	}
 }
 
@@ -32967,7 +35517,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 59094
+		size = 46930
 	}
 	slaves = {
 		culture = riverlander
@@ -32983,6 +35533,21 @@
 		culture = nimbusian
 		religion = pony
 		size = 871
+	}
+	labourers = {
+		culture = nimbusian
+		religion = pony
+		size = 5909
+	}
+	serfs = {
+		culture = nimbusian
+		religion = pony
+		size = 5910
+	}
+	craftsmen = {
+		culture = nimbusian
+		religion = pony
+		size = 345
 	}
 }
 
@@ -33026,7 +35591,7 @@
 	farmers = {
 		culture = wittenlandic
 		religion = pony
-		size = 10164
+		size = 7454
 	}
 	soldiers = {
 		culture = ponaidh
@@ -33037,6 +35602,16 @@
 		culture = wittenlandic
 		religion = pony
 		size = 54
+	}
+	labourers = {
+		culture = wittenlandic
+		religion = pony
+		size = 1355
+	}
+	serfs = {
+		culture = wittenlandic
+		religion = pony
+		size = 1355
 	}
 }
 
@@ -33065,7 +35640,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 49440
+		size = 49069
 	}
 	officers = {
 		culture = nimbusian
@@ -33086,6 +35661,11 @@
 		culture = nimbusian
 		religion = pony
 		size = 6238
+	}
+	craftsmen = {
+		culture = nimbusian
+		religion = pony
+		size = 371
 	}
 }
 
@@ -33154,12 +35734,17 @@
 	farmers = {
 		culture = kasan
 		religion = zebra
-		size = 24455
+		size = 24382
 	}
 	soldiers = {
 		culture = kasan
 		religion = zebra
 		size = 184
+	}
+	craftsmen = {
+		culture = macawian
+		religion = harpies
+		size = 73
 	}
 }
 
@@ -33203,7 +35788,7 @@
 	farmers = {
 		culture = kasan
 		religion = zebra
-		size = 25437
+		size = 18654
 	}
 	farmers = {
 		culture = ponaidh
@@ -33219,6 +35804,16 @@
 		culture = ponaidh
 		religion = pony
 		size = 73
+	}
+	labourers = {
+		culture = kasan
+		religion = zebra
+		size = 3391
+	}
+	serfs = {
+		culture = kasan
+		religion = zebra
+		size = 3392
 	}
 }
 
@@ -33335,7 +35930,7 @@
 	farmers = {
 		culture = kasan
 		religion = zebra
-		size = 88699
+		size = 88366
 	}
 	officers = {
 		culture = kasan
@@ -33346,6 +35941,11 @@
 		culture = kasan
 		religion = zebra
 		size = 5187
+	}
+	craftsmen = {
+		culture = kasan
+		religion = zebra
+		size = 333
 	}
 }
 
@@ -33423,12 +36023,17 @@
 	farmers = {
 		culture = ponaidh
 		religion = pony
-		size = 91645
+		size = 91408
 	}
 	soldiers = {
 		culture = ponaidh
 		religion = pony
 		size = 1294
+	}
+	craftsmen = {
+		culture = ponaidh
+		religion = pony
+		size = 237
 	}
 }
 
@@ -33638,7 +36243,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 15851
+		size = 12681
 	}
 	slaves = {
 		culture = ponaidh
@@ -33649,6 +36254,16 @@
 		culture = nimbusian
 		religion = pony
 		size = 345
+	}
+	labourers = {
+		culture = nimbusian
+		religion = pony
+		size = 1585
+	}
+	serfs = {
+		culture = nimbusian
+		religion = pony
+		size = 1585
 	}
 }
 
@@ -33809,7 +36424,7 @@
 	farmers = {
 		culture = nimbusian
 		religion = pony
-		size = 13891
+		size = 13828
 	}
 	slaves = {
 		culture = austurland
@@ -33820,6 +36435,11 @@
 		culture = nimbusian
 		religion = pony
 		size = 266
+	}
+	craftsmen = {
+		culture = nimbusian
+		religion = pony
+		size = 63
 	}
 }
 
@@ -33853,7 +36473,7 @@
 	farmers = {
 		culture = austurland
 		religion = deer
-		size = 61837
+		size = 61631
 	}
 	farmers = {
 		culture = ponaidh
@@ -33869,6 +36489,11 @@
 		culture = austurland
 		religion = deer
 		size = 2432
+	}
+	craftsmen = {
+		culture = austurland
+		religion = deer
+		size = 206
 	}
 }
 
@@ -33897,7 +36522,7 @@
 	farmers = {
 		culture = herzlander
 		religion = griffon
-		size = 188649
+		size = 149664
 	}
 	officers = {
 		culture = herzlander
@@ -33908,6 +36533,26 @@
 		culture = herzlander
 		religion = griffon
 		size = 8267
+	}
+	labourers = {
+		culture = herzlander
+		religion = griffon
+		size = 18865
+	}
+	serfs = {
+		culture = herzlander
+		religion = griffon
+		size = 18865
+	}
+	craftsmen = {
+		culture = herzlander
+		religion = griffon
+		size = 1195
+	}
+	clerks = {
+		culture = herzlander
+		religion = griffon
+		size = 60
 	}
 }
 
