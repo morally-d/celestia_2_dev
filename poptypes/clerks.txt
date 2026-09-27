@@ -20,35 +20,34 @@ color = { 240 240 240 }
 
 luxury_needs = {
 	opium = 1.0
-	luxury_clothes = 2
-	luxury_furniture = 2
+	luxury_clothes = 1
+	luxury_furniture = 1
 	telephones = 1.25
-	automobiles = 1.25
-	wine = 5
-	#aeroplanes = 0.5
-	radio = 1.5
-	#fuel = 0.2
+	automobiles = 1.0
+	wine = 10
+	aeroplanes = 0.4
+	radio = 1.0
+	fuel = 0.2
+	coffee = 2
 }
 
 everyday_needs = {
-	coffee = 2
 	coal = 1
 	liquor = 5
-	regular_clothes = 3
-	furniture = 3
-	paper = 3
+	regular_clothes = 5
+	furniture = 4
+	paper = 5
 	glass = 1
-	tobacco = 2
-	tea = 4
-	cattle = 2.5
+	tobacco = 3
+	tea = 5
 }
 
 life_needs = {
-	cattle = 1.25
-	wool =  1.1
-	fish =  1.5
-	fruit =  1.5
-	grain =  3
+	cattle = 0.75
+	wool =  1
+	fish =  1
+	fruit =  1
+	grain =  2.5
 }
 
 

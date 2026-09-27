@@ -12,16 +12,15 @@ everyday_needs = {
 	liquor = 3
 	regular_clothes = 1.2
 	furniture = 1.1
-	explosives = 0.75
-	cattle = 2.5
+	explosives = 0.25
 }
 
 life_needs = {
 	cattle = 0.75
-	wool =  0.85
-	fish =  1.05
-	fruit =  1.25
-	grain =  2.75
+	wool =  1
+	fish =  1
+	fruit =  1
+	grain =  2.5
 }
 
 
@@ -31,12 +30,12 @@ luxury_needs = {
 	liquor = 1.5
 	paper = 1.0
 	telephones = 1.0
-	automobiles = 1.5
+	automobiles = 0.5
 	radio = 1.0
-	explosives = 0.75
+	fuel = 0.1
 	coffee = 0.45
 	tobacco = 0.95
-	#fuel = 0.1
+	#dye = 0.5
 }
 
 

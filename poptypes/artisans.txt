@@ -14,14 +14,14 @@ rebel =
 
 luxury_needs = {
 	opium = 1.0
-	luxury_clothes = 2
-	luxury_furniture = 2
+	luxury_clothes = 1
+	luxury_furniture = 1
 	telephones = 1.25
 	automobiles = 1.0
 	wine = 10
-	#aeroplanes = 0.4
+	aeroplanes = 0.4
 	radio = 1.0
-	#fuel = 0.2
+	fuel = 0.2
 	coffee = 2
 }
 
@@ -34,13 +34,12 @@ everyday_needs = {
 	glass = 1
 	tobacco = 3
 	tea = 5
-	cattle = 2.5
 }
 
 life_needs = {
 	cattle = 0.75
-	wool =  0.85
-	fish =  1.05
+	wool =  1
+	fish =  1
 	fruit =  1
 	grain =  2.5
 }
