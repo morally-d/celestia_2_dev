@@ -4,7 +4,7 @@ religion = changeling
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.150
+literacy = 0.130
 civilized = no
 is_releasable_vassal = no
 

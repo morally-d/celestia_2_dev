@@ -4,7 +4,7 @@ religion = zebra
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.285
+literacy = 0.266
 civilized = no
 is_releasable_vassal = no
 

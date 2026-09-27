@@ -5,7 +5,7 @@ religion = griffon
 government = absolute_monarchy
 plurality = 5
 nationalvalue = nv_order
-literacy = 0.150
+literacy = 0.170
 civilized = yes
 is_releasable_vassal = no
 

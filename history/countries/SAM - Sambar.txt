@@ -4,7 +4,7 @@ religion = deer
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.169
+literacy = 0.146
 civilized = yes
 is_releasable_vassal = no
 
