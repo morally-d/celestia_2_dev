@@ -308,3 +308,88 @@ TAL = { level = 5 influence_value = 100 }   # Talouse
 FRN = { level = 5 influence_value = 100 }   # Francistria
 ARN = { level = 5 influence_value = 100 }   # Arantiga
 
+
+navy = {
+	name = "GRI Transport Fleet"
+	location = 3170
+	ship = {
+		name = "1st Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "4th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "5th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "7th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "8th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "9th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "10th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "11th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "13th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "15th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "17th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "19th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name = "20th Transport Flotilla"
+		type = clipper_transport
+	}
+}
