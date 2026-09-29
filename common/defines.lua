@@ -3,11 +3,6 @@ defines = {
 start_date = '932.1.1',
 end_date = '1032.12.31',
 
-# c2 economic adaptation: shorten PA economy presimulation to avoid the
-# trade-arbitrage money runaway during the 730-day presim (see
-# docs/PA_C2_ECONOMY_PRESIM_INVESTIGATION.md)
-alice_economy_presim_days = 100,   -- c2 workaround: 730-day presim diverges (see docs/PA_C2_INGAME_INFLATION_INVESTIGATION.md)
-
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
 	MONTHS_UNTIL_BROKEN 		= 3,    -- OBSOLETE! (Months until rebel held capital results in broken country.)
