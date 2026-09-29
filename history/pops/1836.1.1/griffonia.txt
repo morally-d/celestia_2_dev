@@ -2707,6 +2707,17 @@
 		religion = griffon
 		size = 60
 	}
+
+	aristocrats = {
+		culture = aquileian
+		religion = griffon
+		size = 7180
+	}
+	capitalists = {
+		culture = aquileian
+		religion = griffon
+		size = 7180
+	}
 }
 
 # 
@@ -5789,6 +5800,17 @@
 		culture = marelander
 		religion = pony
 		size = 60
+	}
+
+	aristocrats = {
+		culture = marelander
+		religion = pony
+		size = 3590
+	}
+	capitalists = {
+		culture = marelander
+		religion = pony
+		size = 3590
 	}
 }
 
@@ -11080,6 +11102,17 @@
 		religion = griffon
 		size = 60
 	}
+
+	aristocrats = {
+		culture = feathisian
+		religion = griffon
+		size = 1538
+	}
+	capitalists = {
+		culture = feathisian
+		religion = griffon
+		size = 1538
+	}
 }
 
 # 
@@ -12698,6 +12731,17 @@
 		culture = karthinian
 		religion = griffon
 		size = 120
+	}
+
+	aristocrats = {
+		culture = karthinian
+		religion = griffon
+		size = 7179
+	}
+	capitalists = {
+		culture = karthinian
+		religion = griffon
+		size = 7179
 	}
 }
 
@@ -16748,6 +16792,17 @@
 		culture = herzlander
 		religion = griffon
 		size = 60
+	}
+
+	aristocrats = {
+		culture = herzlander
+		religion = griffon
+		size = 11282
+	}
+	capitalists = {
+		culture = herzlander
+		religion = griffon
+		size = 11282
 	}
 }
 
@@ -26357,6 +26412,17 @@
 		religion = pony
 		size = 60
 	}
+
+	aristocrats = {
+		culture = riverlander
+		religion = pony
+		size = 1538
+	}
+	capitalists = {
+		culture = riverlander
+		religion = pony
+		size = 1538
+	}
 }
 
 # 
@@ -27188,6 +27254,17 @@
 		religion = diamond_dogs
 		size = 803
 	}
+
+	aristocrats = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 1026
+	}
+	capitalists = {
+		culture = diamond_dog
+		religion = diamond_dogs
+		size = 1026
+	}
 }
 
 # 
@@ -27349,6 +27426,17 @@
 		culture = minotaur
 		religion = minotaurs
 		size = 60
+	}
+
+	aristocrats = {
+		culture = minotaur
+		religion = minotaurs
+		size = 1538
+	}
+	capitalists = {
+		culture = minotaur
+		religion = minotaurs
+		size = 1538
 	}
 }
 
@@ -28325,6 +28413,17 @@
 		culture = riverlander
 		religion = pony
 		size = 554
+	}
+
+	aristocrats = {
+		culture = riverlander
+		religion = pony
+		size = 1026
+	}
+	capitalists = {
+		culture = riverlander
+		religion = pony
+		size = 1026
 	}
 }
 
@@ -32250,6 +32349,17 @@
 		religion = pony
 		size = 494
 	}
+
+	aristocrats = {
+		culture = riverlander
+		religion = pony
+		size = 1026
+	}
+	capitalists = {
+		culture = riverlander
+		religion = pony
+		size = 1026
+	}
 }
 
 # 
@@ -33795,6 +33905,17 @@
 		religion = pony
 		size = 60
 	}
+
+	aristocrats = {
+		culture = riverlander
+		religion = pony
+		size = 1026
+	}
+	capitalists = {
+		culture = riverlander
+		religion = pony
+		size = 1026
+	}
 }
 
 # 
@@ -34452,6 +34573,17 @@
 		religion = pony
 		size = 120
 	}
+
+	aristocrats = {
+		culture = wittenlandic
+		religion = pony
+		size = 1538
+	}
+	capitalists = {
+		culture = wittenlandic
+		religion = pony
+		size = 1538
+	}
 }
 
 # 
@@ -35094,6 +35226,17 @@
 		religion = pony
 		size = 177
 	}
+
+	aristocrats = {
+		culture = ponaidh
+		religion = pony
+		size = 513
+	}
+	capitalists = {
+		culture = ponaidh
+		religion = pony
+		size = 513
+	}
 }
 
 # 
@@ -35666,6 +35809,17 @@
 		culture = nimbusian
 		religion = pony
 		size = 371
+	}
+
+	aristocrats = {
+		culture = nimbusian
+		religion = pony
+		size = 1026
+	}
+	capitalists = {
+		culture = nimbusian
+		religion = pony
+		size = 1026
 	}
 }
 

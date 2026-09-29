@@ -1910,6 +1910,17 @@
 		religion = deer
 		size = 180
 	}
+
+	aristocrats = {
+		culture = olenian
+		religion = deer
+		size = 3077
+	}
+	capitalists = {
+		culture = olenian
+		religion = deer
+		size = 3077
+	}
 }
 
 # 
@@ -20949,6 +20960,17 @@
 		religion = pony
 		size = 180
 	}
+
+	aristocrats = {
+		culture = severyanian
+		religion = pony
+		size = 12821
+	}
+	capitalists = {
+		culture = severyanian
+		religion = pony
+		size = 12821
+	}
 }
 
 # 
@@ -25899,6 +25921,17 @@
 		culture = equestrian
 		religion = pony
 		size = 11176
+	}
+
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 13846
+	}
+	capitalists = {
+		culture = equestrian
+		religion = pony
+		size = 13846
 	}
 }
 

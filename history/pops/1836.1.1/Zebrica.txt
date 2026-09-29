@@ -1215,6 +1215,17 @@
 		religion = horses
 		size = 2053
 	}
+
+	aristocrats = {
+		culture = arabian
+		religion = horses
+		size = 2564
+	}
+	capitalists = {
+		culture = arabian
+		religion = horses
+		size = 2564
+	}
 }
 
 # 
@@ -12710,6 +12721,17 @@
 		religion = hippogriffs
 		size = 60
 	}
+
+	aristocrats = {
+		culture = hippogriffian
+		religion = hippogriffs
+		size = 2564
+	}
+	capitalists = {
+		culture = hippogriffian
+		religion = hippogriffs
+		size = 2564
+	}
 }
 
 # 
@@ -21947,6 +21969,17 @@
 		religion = zebra
 		size = 120
 	}
+
+	aristocrats = {
+		culture = zonician
+		religion = zebra
+		size = 2051
+	}
+	capitalists = {
+		culture = zonician
+		religion = zebra
+		size = 2051
+	}
 }
 
 # 
@@ -28387,6 +28420,17 @@
 		culture = macawian
 		religion = harpies
 		size = 60
+	}
+
+	aristocrats = {
+		culture = macawian
+		religion = harpies
+		size = 2051
+	}
+	capitalists = {
+		culture = macawian
+		religion = harpies
+		size = 2051
 	}
 }
 
