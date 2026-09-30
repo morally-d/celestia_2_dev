@@ -1,7 +1,7 @@
 capital = 1993
 primary_culture = sicameonese
 religion = griffon
-government = absolute_monarchy
+government = democracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.080
