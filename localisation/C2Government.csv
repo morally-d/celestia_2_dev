@@ -1,0 +1,7 @@
+# C2 government type names (EaW-aligned). 2026-10-01
+tribal_union;Tribal Union;;;;;;;;;;x
+tribal_union_desc;A confederation of tribes whose leaders meet in council. The people choose their representatives, but tradition and custom weigh heavier than any written law.;;;;;;;;;;x
+tribal_union_ruler;High Chief;;;;;;;;;;x
+colonial_government;Colonial Government;;;;;;;;;;x
+colonial_government_desc;An administration appointed by a distant metropole to govern a colony. The governor answers to the homeland, not to the locals.;;;;;;;;;;x
+colonial_government_ruler;Governor;;;;;;;;;;x

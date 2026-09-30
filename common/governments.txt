@@ -99,5 +99,31 @@ democracy = {
 	duration = 48
 	appoint_ruling_party = yes
 }
- 
+
+tribal_union = {
+	# Neutrality (conservative, reactionary), Harmony (liberal, anarcho_liberal) and Supremacy (fascist).
+	reactionary = yes
+	conservative = yes
+	liberal = yes
+	anarcho_liberal = yes
+	fascist = yes
+
+	# Elected council of tribes; the ruling party cannot be appointed.
+	election = yes
+	duration = 48
+	appoint_ruling_party = no
+	flagType = monarchy
+}
+
+colonial_government = {
+	# Neutrality (conservative, reactionary) and Supremacy (fascist).
+	reactionary = yes
+	conservative = yes
+	fascist = yes
+
+	# Governor appointed by the metropole.
+	election = no
+	appoint_ruling_party = yes
+	flagType = republic
+}
 
