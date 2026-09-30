@@ -45,6 +45,7 @@ luxury_needs = {
 	radio = 1.0
 	fuel = 0.2
 	coffee = 2
+	crystals = 1	#C2: crystals as an elite luxury
 }
 
 everyday_needs = {

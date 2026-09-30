@@ -32,6 +32,7 @@ artillery = {
 		ammunition = 0.045 #0.05 #0.25
 		liquor = 0.04  #CE addition
 		wine = 0.02  #CE addition
+		crystals = 0.05  #C2: crystals as routine artillery maintenance supply
 	}
 	
 

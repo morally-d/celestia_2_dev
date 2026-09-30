@@ -274,6 +274,7 @@ aeroplane_factory = {
 		electric_gear = 2	#32
 		rubber = 1  		#7
 		lumber = 3.3 		#3.3	total input+maint = 90
+		crystals = 0.5	#C2: crystals as essential input
 	}
 	output_goods = aeroplanes
 	value = 0.91			#100
@@ -294,6 +295,7 @@ barrel_factory = {
 		machine_parts = 0.85	#29.2
 		electric_gear = 1	#16
 		rubber = 1		#7
+		crystals = 0.3	#C2: crystals as essential input
 	}
 	output_goods = barrels 
 	value = 1.0			#98	total input+maint = 83
@@ -318,6 +320,7 @@ automobile_factory = {
 		electric_gear = 1.5	#24
 		rubber = 1		#7
 		steel = 2.25		#10.58	total input+maint = 89
+		crystals = 0.5	#C2: crystals as essential input
 	}
 	
 	output_goods = automobiles 
@@ -341,6 +344,7 @@ radio_factory = {
 	input_goods = {      
 		glass = 10 		#29
 		electric_gear = 3	#48  	total input+maint = 87
+		crystals = 1	#C2: crystals as essential input
 	}
 	output_goods = radio 
 	value = 6.5			#104
@@ -359,6 +363,7 @@ telephone_factory = {
 	input_goods = {       
 		glass = 15 		#43.5
 		electric_gear = 2.5	#40 	total input+maint = 93.5
+		crystals = 1.25	#C2: crystals as essential input
 	}
 	output_goods = telephones 
 	value = 6.5			#104
@@ -380,6 +385,7 @@ electric_gear_factory = {
 		rubber = 4		#28
 		coal = 5		#11.5
 		iron = 5		#17.5	total input+maint = 67
+		crystals = 0.5	#C2: crystals as essential input
 	}
 	output_goods = electric_gear 
 	value = 5			#80
@@ -402,6 +408,7 @@ machine_parts_factory = {
 	input_goods = {    
 		steel = 9		#42.3
 		coal = 5		#11.5  total input+maint = 66
+		crystals = 0.5	#C2: crystals as essential input
 	}
 	output_goods = machine_parts 
 	value = 2			#73
@@ -419,6 +426,7 @@ synthetic_oil_factory = {
 	template = factory_template
 	input_goods = { 
 		coal = 12		#27.6	total input+maint = 39
+		crystals = 0.1	#C2: crystals as essential input
 	}
 	output_goods = oil 
 	value = 2.5			#30
@@ -432,6 +440,7 @@ synthetic_rubber_factory = {
 	template = factory_template
 	input_goods = { 
 		oil = 1		#12
+		crystals = 0.05	#C2: crystals as essential input
 	}
 	output_goods = rubber
 	value = 4.7			#32.9
@@ -446,12 +455,27 @@ synthetic_rubber_factory = {
 	}
 }
 
+synthetic_crystal_factory = {
+	template = factory_template
+	input_goods = {
+		coal = 10
+		machine_parts = 2
+		glass = 5
+	}
+	output_goods = crystals
+	value = 3
+	# C2: artificial crystal synthesis, unlocked by the industry technology
+	# synthetic_polymers (activate_building). No default_enabled, so it is not
+	# buildable at the 932 start.
+}
+
 ############# ADVANCED FACTORIES
 
 fuel_refinery = {       
 	template = factory_template
 	input_goods = { 
 		oil = 2.5			#30	total input+maint = 40
+		crystals = 0.05	#C2: crystals as essential input
 	}
 	output_goods = fuel
 	value = 2			#50

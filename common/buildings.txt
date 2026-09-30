@@ -250,6 +250,30 @@ synthetic_rubber_factory = {
 	strategic_factory = yes
 }
 
+synthetic_crystal_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 400
+		electric_gear = 200
+		steel = 400
+		cement = 400
+		lumber = 400
+	}
+	time = 30
+	visibility = yes
+	onmap = no
+
+	production_type = synthetic_crystal_factory
+	pop_build_factory = yes
+	strategic_factory = yes
+	# C2: unlocked by the synthetic_polymers technology (not default_enabled).
+}
+
 fuel_refinery = {
 	type = factory
 

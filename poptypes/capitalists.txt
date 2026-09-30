@@ -51,6 +51,7 @@ luxury_needs = {
 	small_arms = 1 
 	clipper_convoy = 2
 	steamer_convoy = 2
+	crystals = 1	#C2: crystals as a rich-strata luxury
 }
 
 
