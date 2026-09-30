@@ -1,0 +1,25 @@
+# =====================================================================
+# Celestia 2 - starting alliances (M1 section 1.7)
+# 2026-10-01
+#   alliance = { first = TAG second = TAG } -> mutual alliance at start
+#   No start_date/end_date -> active from scenario start (932.1.1).
+#
+# Every griffon-culture nation of the Griffonian continent that is not a
+# subject of anyone is allied with the Griffonian Empire (GRI) at start.
+# =====================================================================
+
+alliance = { first = GRI second = VED }   # Kingdom of Vedina
+alliance = { first = GRI second = SCE }   # Parishes of Sicameon
+alliance = { first = GRI second = BRO }   # Brodfeld
+alliance = { first = GRI second = ARC }   # Arcturian Order
+alliance = { first = GRI second = GRY }   # Gryphian Host
+alliance = { first = GRI second = HLQ }   # Ordensstaat Hellquill
+alliance = { first = GRI second = LNS }   # Longsword
+alliance = { first = GRI second = LUS }   # Lushi
+alliance = { first = GRI second = KIV }   # Kivessin
+alliance = { first = GRI second = SYD }   # Sydia
+alliance = { first = GRI second = OPN }   # Order of Opinicus
+alliance = { first = GRI second = GSG }   # Southern Continent Company
+alliance = { first = GRI second = GR1 }   # Viartorre
+alliance = { first = GRI second = GR2 }   # Pythagorea
+alliance = { first = GRI second = GR3 }   # Colegio

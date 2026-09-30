@@ -308,6 +308,22 @@ TAL = { level = 5 influence_value = 100 }   # Talouse
 FRN = { level = 5 influence_value = 100 }   # Francistria
 ARN = { level = 5 influence_value = 100 }   # Arantiga
 
+# --- allied griffon states (2026-10-01) ---
+BRO = { level = 5 influence_value = 100 }   # Brodfeld
+ARC = { level = 5 influence_value = 100 }   # Arcturian Order
+GRY = { level = 5 influence_value = 100 }   # Gryphian Host
+HLQ = { level = 5 influence_value = 100 }   # Ordensstaat Hellquill
+LNS = { level = 5 influence_value = 100 }   # Longsword
+LUS = { level = 5 influence_value = 100 }   # Lushi
+KIV = { level = 5 influence_value = 100 }   # Kivessin
+SYD = { level = 5 influence_value = 100 }   # Sydia
+OPN = { level = 5 influence_value = 100 }   # Order of Opinicus
+GSG = { level = 5 influence_value = 100 }   # Southern Continent Company
+GR1 = { level = 5 influence_value = 100 }   # Viartorre
+GR2 = { level = 5 influence_value = 100 }   # Pythagorea
+GR3 = { level = 5 influence_value = 100 }   # Colegio
+MIT = { level = 5 influence_value = 100 }   # Asterion
+
 
 navy = {
 	name = "GRI Transport Fleet"

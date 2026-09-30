@@ -32,7 +32,6 @@ substate = { first = GRI second = PYT }   # Greifenmarschen
 substate = { first = GRI second = GRF }   # Nova Griffonia
 
 vassal   = { first = GRI second = CLD }   # Duchy of Cloudbury
-vassal   = { first = GRI second = VED }   # Kingdom of Vedina
 vassal   = { first = GRI second = SKY }   # Skyfall
 vassal   = { first = GRI second = GTO }   # Griffton
 vassal   = { first = GRI second = VLE }   # Vleugeland
@@ -41,8 +40,8 @@ vassal   = { first = GRI second = VER }   # Verenia
 vassal   = { first = GRI second = WNG }   # Kingdom of Wingbardy
 vassal   = { first = GRI second = LAK }   # Rumare
 vassal   = { first = GRI second = FAL }   # Falcorian Queendom
-vassal   = { first = GRI second = SCE }   # Parishes of Sicameon
 vassal   = { first = GRI second = CYA }   # Cyanolisia
+vassal   = { first = GRI second = MIT }   # Asterion
 
 # ---------------------------------------------------------------------
 # [3] Griffonian Empire circle - second tier (their own subjects)
