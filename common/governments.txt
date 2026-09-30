@@ -124,6 +124,6 @@ colonial_government = {
 	# Governor appointed by the metropole.
 	election = no
 	appoint_ruling_party = yes
-	flagType = republic
+	flagType = monarchy
 }
 
