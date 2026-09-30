@@ -2,6 +2,6 @@
 owner = HYE
 controller = HYE
 add_core = HYE
-trade_goods = iron
+trade_goods = crystals
 life_rating = 35
 

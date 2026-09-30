@@ -2,7 +2,7 @@
 owner = DMT
 controller = DMT
 add_core = DMT
-trade_goods = iron
+trade_goods = crystals
 life_rating = 35
 
 
