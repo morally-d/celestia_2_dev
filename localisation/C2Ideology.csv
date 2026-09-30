@@ -1,0 +1,13 @@
+# C2 ideology display names (EaW-aligned, plan A). 2026-09-30
+# Groups renamed to EaW's four blocs: harmony / communist / supremacist / nonaligned.
+harmony_group;Harmonic parties;;;;;;;;;;x
+communist_group;Communist parties;;;;;;;;;;x
+supremacist_group;Supremacist parties;;;;;;;;;;x
+nonaligned_group;Non-Aligned parties;;;;;;;;;;x
+liberal;Harmonic Republicanism;;;;;;;;;;x
+anarcho_liberal;Harmonic Libertarianism;;;;;;;;;;x
+socialist;Democratic Socialism;;;;;;;;;;x
+communist;Marksism;;;;;;;;;;x
+fascist;Fascism;;;;;;;;;;x
+conservative;Conservatism;;;;;;;;;;x
+reactionary;Despotism;;;;;;;;;;x
