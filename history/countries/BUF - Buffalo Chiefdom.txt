@@ -1,7 +1,7 @@
 capital = 293
 primary_culture = buffalo
 religion = buffalos
-government = absolute_monarchy
+government = tribal_union
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.260
