@@ -1,5 +1,6 @@
 capital = 1235
 oob = "EQC_oob.txt"
+set_country_flag = immigrant_magnet
 primary_culture = marelander
 religion = pony
 government = hms_government

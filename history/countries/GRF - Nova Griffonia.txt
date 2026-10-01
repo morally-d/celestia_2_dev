@@ -1,5 +1,6 @@
 capital = 896
 oob = "GRF_oob.txt"
+set_country_flag = immigrant_magnet
 primary_culture = nova
 religion = griffon
 government = absolute_monarchy

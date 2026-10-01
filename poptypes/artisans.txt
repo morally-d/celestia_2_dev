@@ -54,6 +54,12 @@ country_migration_target =
 		culture_group = this
 	}
 
+	modifier = {
+		factor = 8.0
+		has_country_flag = immigrant_magnet
+		culture_group = this
+	}
+
 
 	modifier = {
 		factor = -1000

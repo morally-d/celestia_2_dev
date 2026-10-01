@@ -12,9 +12,7 @@ placeholder = {
 
 }
 
-pony = {
-	leader = european
-	unit = EuropeanGC
+equus_pony = {
 	equestrian = {	
 		color = { 129 198 96 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -25,7 +23,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	marelander = {		
 		color = { 47 158 99 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -36,7 +33,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	crystal_empire = {						
 		color = { 213 166 240 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -47,7 +43,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	severyanian = {						
 		color = {204 72 111}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -58,7 +53,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	trotsan = {						
 		color = {198 29 0}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -69,7 +63,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	aztlan = {						
 		color = { 75 114 52 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -80,7 +73,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	caballo = {						
 		color = { 140 65 166 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -91,7 +83,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	north = {						
 		color = { 179 174 158 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -102,7 +93,76 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
+	maregyptian = {						
+		color = { 255 220 104 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+	tobuckian = {						
+		color = { 25 105 90 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+	manedalusian = {						
+		color = { 31 138 40 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Hakim Hej'ran Sahif Hay'dle Nueman Ghazran Zawraqi Sadd'lani Stirr'fan Stirr'aad Mitrqa Al-Hoo'fandi Al-Bri'dili Al-Shoehandi
+		Al-Harnee Al-Spu'rqani Al-Shams Al-Qamar Al-Ghasq Al-Shafaq Al-San'fari Al-Sineighi Al-Maneisra Al-Coltuba }
+	}
+	hestrayan = {				
+		color = { 72 194 72 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+	north_thestral = {						
+		color = {198 29 0}
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+	aztlan_thestral = {						
+		color = { 88 97 137 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+	legion_thestral = {						
+		color = { 0 33 71 }
+		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
+
+		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
+		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
+		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
+		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
+		Trotter Light Clover Dusk Sky Rose Tiara }
+	}
+}
+
+eastern_pony = {
 	riverlander = {						
 		color = { 63 161 111 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -113,7 +173,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	hill = {						
 		color = { 134 137 213 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -124,7 +183,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	wittenlandic = {						
 		color = { 102 0 255 }
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -135,7 +193,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
 	ponaidh = {						
 		color = { 40 211 153 }
 		first_names = { "Thunder mac" "Duke mac" "Star mac" "Brisk mac" "Steel mac" "Flash mac" "Wild mac" "Platinum mac" "Rapid mac" "Blue mac" "Lighthoof mac" "Ebony mac" "Torch mac" "Big mac" "Burnt mac" "Feather mac" 
@@ -152,14 +209,12 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Sap Bread Stone Saddle Neigh
 		Light Clover Dusk Sky Rose }
 	}
-
 	nimbusian = {						
 		color = { 107 205 237 }
 		first_names = { "Diatton Asteras" "Marmarinos Kionas" "Iodes Anemos" "Hloro Fyllo" "Synnefothraustes" "Aeonios Pagetos" "Vasilikos Strovilos" "Therinos Helios" "Nyhterinos Tromos" "Mystikos Kodikas" "Mysterios Kometes" "Pneumatikos Fruros" "Apythmenos Okeanos" "Philosophike Lithos" "Aerino Phasma" "Leander Lithos" "Acacios Triantáfyllo" "Eryx Petros" "Aetios Petros" "Perseios Anemos" "Aeneas Anemos" "Castor Anemos" "Leonidas Petros" "Asimi Mageia" "Kyane Thalassa" "Kerine Omorfia" "Pikrodaphne" "Earine Isemeria" "Ophelia Enosia" "Penelope Thalassa" "Lyra Mageia" "Kyane Isemeria" "Nyx Skoteina" "Earine Thalassa" "Persephone Fruria" "Cassia Mageia" "Rhea Skoteina" "Cressida Lithia" "Ione Skoteina" "Selene Omorfia" "Astraea Zygaria" "Acacia Isemeria" "Ianthe Fruria" "Calla Iouloúdia" }
 
 		last_names = { "" }
 	}
-
 	vartai = {						
 		color = {198 29 0}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
@@ -170,81 +225,6 @@ pony = {
 		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
 		Trotter Light Clover Dusk Sky Rose Tiara }
 	}
-
-	maregyptian = {						
-		color = { 255 220 104 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
-	tobuckian = {						
-		color = { 25 105 90 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
-	manedalusian = {						
-		color = { 31 138 40 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Hakim Hej'ran Sahif Hay'dle Nueman Ghazran Zawraqi Sadd'lani Stirr'fan Stirr'aad Mitrqa Al-Hoo'fandi Al-Bri'dili Al-Shoehandi
-		Al-Harnee Al-Spu'rqani Al-Shams Al-Qamar Al-Ghasq Al-Shafaq Al-San'fari Al-Sineighi Al-Maneisra Al-Coltuba }
-	}
-
-	hestrayan = {				
-		color = { 72 194 72 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
-	north_thestral = {						
-		color = {198 29 0}
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
-	aztlan_thestral = {						
-		color = { 88 97 137 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
-	legion_thestral = {						
-		color = { 0 33 71 }
-		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
-
-		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
-		Oak Breadwinner Sandwich Diamond Amethyst Hooffield Hat Stream Stripes Nut Pants Bucket Shoes Pie Cider Bumpkin Cobbler Leaves Honey Fritter Berry Core Split
-		Delicious Bottom Apricot Brass Belle Frost Icicle Hoof Mane Curls Spurs Twirl Swirl Punch Flower Dust Dough Wheat Trot Gallop Whinny Heart Rock Glamour Delight Jewel
-		Harvest Tide Leaf Bloom Valley Spray Dawn Sparkle Dash Shy Melody Glow Shimmer Pearl Haze Wave Glaze Ruby Splash Water Ice Drops Love Sap Swoon Point Bread Stone Saddle Neigh
-		Trotter Light Clover Dusk Sky Rose Tiara }
-	}
-
 }
 
 changeling = {
