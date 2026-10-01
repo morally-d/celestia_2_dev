@@ -65,6 +65,12 @@ promote_to = {
 			factor = 2
 			luxury_needs = 0.8
 		}
+		# Serfs are only truly emancipated by the "Free Citizens" law;
+		# without it, promotion to free farmers is very slow (~50x slower).
+		modifier = {
+			factor = 0.02
+			NOT = { country = { slavery = free_citizens } }
+		}
 	}
 }
 

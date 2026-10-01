@@ -255,6 +255,15 @@ political_reforms = {
 
 			global_immigrant_attract = 0.05 #5% was 0.01
 		}
+		free_citizens = {
+			rules = { slavery_allowed = no }
+			allow = {
+				NOT = { government = tribal_union }
+				NOT = { government = colonial_government }
+			}
+
+			global_immigrant_attract = 0.10
+		}
 	}
 
 	vote_franschise = {

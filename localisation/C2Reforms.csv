@@ -1,0 +1,5 @@
+# C2 reform option names. 2026-10-01
+yes_slavery;Slavery Allowed;;;;;;;;;;x
+no_slavery;Abolition;;;;;;;;;;x
+free_citizens;Free Citizens;;;;;;;;;;x
+free_citizens_desc;All former slaves and bonded serfs are free;;;;;;;;;;x
