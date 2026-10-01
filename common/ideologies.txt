@@ -232,6 +232,31 @@ nonaligned_group = {
 			base = -0.5
 		}
 	}
+
+	anarcho_liberal = {
+		color = { 214 150 190 }
+		
+		add_political_reform = {
+			base = 0
+		}
+		remove_political_reform = {
+			base = 0
+		}
+		add_social_reform = {
+			base = 0
+		}
+		remove_social_reform = {
+			base = 1
+		}
+		
+		add_military_reform = {
+			base = -1
+		}
+		
+		add_economic_reform = {
+			base = -1
+		}
+	}
 }
 communist_group = {
 	socialist = {
@@ -311,7 +336,7 @@ communist_group = {
 			base = 0
 		}
 		add_social_reform = {
-			base = 0
+			base = 1
 
 			group = {
 				modifier = {
@@ -410,7 +435,7 @@ harmony_group = {
 		color = { 246 193 219 }
 	
 		add_political_reform = {
-			base = 0
+			base = 1
 			group = {
 				modifier = {
 					factor = 0.1
@@ -562,29 +587,5 @@ harmony_group = {
 		}
 	}
 	
-	anarcho_liberal = {
-		color = { 214 150 190 }
-		
-		add_political_reform = {
-			base = 0
-		}
-		remove_political_reform = {
-			base = 0
-		}
-		add_social_reform = {
-			base = 0
-		}
-		remove_social_reform = {
-			base = 1
-		}
-		
-		add_military_reform = {
-			base = -1
-		}
-		
-		add_economic_reform = {
-			base = -1
-		}
-	}
 }
 	

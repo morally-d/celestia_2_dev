@@ -101,11 +101,11 @@ democracy = {
 }
 
 tribal_union = {
-	# Neutrality (conservative, reactionary), Harmony (liberal, anarcho_liberal) and Supremacy (fascist).
+	# Neutrality (conservative, reactionary, anarcho_liberal), Harmony (liberal) and Supremacy (fascist).
 	reactionary = yes
 	conservative = yes
-	liberal = yes
 	anarcho_liberal = yes
+	liberal = yes
 	fascist = yes
 
 	# Elected council of tribes; the ruling party cannot be appointed.
@@ -116,9 +116,10 @@ tribal_union = {
 }
 
 colonial_government = {
-	# Neutrality (conservative, reactionary) and Supremacy (fascist).
+	# Neutrality (conservative, reactionary, anarcho_liberal) and Supremacy (fascist).
 	reactionary = yes
 	conservative = yes
+	anarcho_liberal = yes
 	fascist = yes
 
 	# Governor appointed by the metropole.
