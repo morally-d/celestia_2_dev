@@ -10,6 +10,12 @@ on_yearly_pulse = {
 	#100 = 22510 # Some event
 	#100 = 22520 # Some event
 	#100 = 22530 # Some event
+
+	# Ideology enablement (see events/C2_IdeologyEnabling.txt)
+	#   socialist/communist from 944, fascist from 990 (932-1032 timeline)
+	100 = 1000 # enable socialist
+	100 = 1001 # enable communist
+	100 = 1003 # enable fascist
 }
 
 on_quarterly_pulse = {

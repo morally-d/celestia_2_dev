@@ -237,7 +237,7 @@ communist_group = {
 	socialist = {
 		uncivilized = no
 		color = { 236 7 75 }
-		date = 1860.1.1
+		date = 944.1.1
 		
 		add_political_reform = {
 			base = 0
@@ -387,7 +387,7 @@ communist_group = {
 	communist = {
 		uncivilized = no
 		color = { 160 0 40 }
-		date = 1865.1.1
+		date = 944.1.1
 		
 		add_political_reform = {
 			base = 0
@@ -564,7 +564,6 @@ harmony_group = {
 	
 	anarcho_liberal = {
 		color = { 214 150 190 }
-		date = 1848.1.1
 		
 		add_political_reform = {
 			base = 0

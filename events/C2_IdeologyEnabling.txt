@@ -1,0 +1,75 @@
+# =====================================================================
+# Celestia 2 - enable ideologies across the 932-1032 timeline.
+#
+# Why: in PA an ideology's `date` does NOT auto-enable it. Vanilla V2 did
+# that from events/IdeologyEnabling.txt, which this mod's
+# `replace_path = "events"` removed -- so socialist / communist / anarcho_liberal /
+# fascist stayed disabled forever (only 3 of 7 ideologies existed).
+#
+# Fired from common/on_actions.txt -> on_yearly_pulse (every October, per nation).
+# `enable_ideology` is global, so the first nation that fires it turns it on for everyone.
+# Dates here must match common/ideologies.txt.
+# =====================================================================
+
+#####################
+# Enable Socialists (from 944)
+#####################
+country_event = {
+	id = 1000
+	title = "EVTNAME1000"
+	desc = "EVTDESC1000"
+
+	trigger = {
+		NOT = { is_ideology_enabled = socialist }
+		year = 944
+	}
+
+	fire_only_once = yes
+	immediate = { enable_ideology = socialist }
+
+	option = {
+		name = "EVTOPTA1000"
+	}
+}
+
+#####################
+# Enable Communists (from 944)
+#####################
+country_event = {
+	id = 1001
+	title = "EVTNAME1001"
+	desc = "EVTDESC1001"
+
+	trigger = {
+		NOT = { is_ideology_enabled = communist }
+		year = 944
+	}
+
+	fire_only_once = yes
+	immediate = { enable_ideology = communist }
+
+	option = {
+		name = "EVTOPTA1001"
+	}
+}
+
+##################
+# Enable Fascists (from 990)
+##################
+country_event = {
+	id = 1003
+	title = "EVTNAME1003"
+	desc = "EVTDESC1003"
+
+	trigger = {
+		NOT = { is_ideology_enabled = fascist }
+		year = 990
+	}
+
+	fire_only_once = yes
+	immediate = { enable_ideology = fascist }
+
+	option = {
+		name = "EVTOPTA1003"
+	}
+}
