@@ -3,6 +3,7 @@ communist_group;共产主义政党;;;;;;;;;;;;x
 supremacist_group;霸权主义政党;;;;;;;;;;;;x
 nonaligned_group;中立主义政党;;;;;;;;;;;;x
 liberal;谐律民主主义;;;;;;;;;;;;x
+anarcho_liberal;金权主义者;;;;;;;;;;;;x
 socialist;民主社会主义;;;;;;;;;;;;x
 communist;马科思主义;;;;;;;;;;;;x
 fascist;法西斯主义;;;;;;;;;;;;x
@@ -14,4 +15,4 @@ generic_liberal;谐律民主党;;;;;;;;;;;;x
 generic_socialist;民主社会主义党;;;;;;;;;;;;x
 generic_communist;马科思主义党;;;;;;;;;;;;x
 generic_fascist;霸权主义党;;;;;;;;;;;;x
-generic_anarcho_liberal;无政府自由派;;;;;;;;;;;;x
+generic_anarcho_liberal;金权党;;;;;;;;;;;;x

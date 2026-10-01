@@ -234,7 +234,7 @@ nonaligned_group = {
 	}
 
 	anarcho_liberal = {
-		color = { 214 150 190 }
+		color = { 176 176 176 }
 		
 		add_political_reform = {
 			base = 0
