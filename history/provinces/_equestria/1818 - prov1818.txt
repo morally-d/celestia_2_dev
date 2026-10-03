@@ -1,4 +1,8 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
+
+owner = DRG
+controller = DRG
+add_core = DRG
+colony = 0
 trade_goods = wool
 life_rating = 30
-
