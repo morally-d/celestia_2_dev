@@ -204,31 +204,3 @@ province_event = {
 		}
 	}
 }
-
-# Rockville (294): a mining boom is already under way at the start of the
-# scenario and expires on 933.1.1. It does not change the RGO (crystals),
-# only applies the gold_rush modifier.
-province_event = {
-	id = 9991307
-
-	trigger = {
-		year = 932
-		province_id = 294			# Rockville
-	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
-	fire_only_once = yes
-	title = "EVTNAME9991307"
-	desc = "EVTDESC9991307"
-
-	option = {
-		name = "EVTOPTA9991307"
-		add_province_modifier = {
-			name = gold_rush
-			duration = 365
-		}
-	}
-}
