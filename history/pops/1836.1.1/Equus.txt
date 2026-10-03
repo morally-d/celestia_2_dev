@@ -10392,107 +10392,107 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 172
+		size = 485
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 274
+		size = 117
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 337
+		size = 181
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 861
+		size = 2427
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1370
+		size = 587
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1684
+		size = 901
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 103
+		size = 291
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 164
+		size = 70
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 202
+		size = 108
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 103
+		size = 291
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 164
+		size = 70
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 202
+		size = 108
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 15626
+		size = 44038
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 24860
+		size = 10654
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 30543
+		size = 16337
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 17
+		size = 48
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 27
+		size = 12
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 34
+		size = 18
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 345
+		size = 971
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 548
+		size = 235
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 673
+		size = 360
 	}
 }
 
@@ -12522,107 +12522,107 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 99
+		size = 305
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 157
+		size = 58
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 193
+		size = 86
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 494
+		size = 1527
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 786
+		size = 292
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 965
+		size = 426
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
+		size = 183
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 35
+	}
+	bureaucrats = {
+		culture = equestrian
+		religion = pony
+		size = 51
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 214
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 41
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
 		size = 59
 	}
-	bureaucrats = {
-		culture = trotsan
-		religion = pony
-		size = 94
-	}
-	bureaucrats = {
-		culture = equestrian
-		religion = pony
-		size = 116
-	}
-	clergymen = {
-		culture = buffalo
-		religion = buffalos
-		size = 69
-	}
-	clergymen = {
-		culture = trotsan
-		religion = pony
-		size = 110
-	}
-	clergymen = {
-		culture = equestrian
-		religion = pony
-		size = 135
-	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 8962
+		size = 27700
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 14258
+		size = 5296
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 17516
+		size = 7740
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 20
+		size = 61
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 31
+		size = 12
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 38
+		size = 16
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 178
+		size = 549
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 283
+		size = 105
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 347
+		size = 154
 	}
 }
 
