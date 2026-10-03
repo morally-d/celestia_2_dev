@@ -18490,23 +18490,23 @@
 # 
 1818 = {
 	aristocrats = {
-		culture = equestrian
-		religion = pony
+		culture = fire_dragon
+		religion = dragons
 		size = 211
 	}
 	artisans = {
-		culture = equestrian
-		religion = pony
+		culture = fire_dragon
+		religion = dragons
 		size = 1057
 	}
 	farmers = {
-		culture = equestrian
-		religion = pony
+		culture = fire_dragon
+		religion = dragons
 		size = 19852
 	}
 	soldiers = {
-		culture = equestrian
-		religion = pony
+		culture = fire_dragon
+		religion = dragons
 		size = 21
 	}
 }
@@ -22774,27 +22774,77 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 92
+		size = 55
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 22
+	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 15
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 461
+		size = 277
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 111
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 73
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 18
+		size = 11
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 4
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
+		size = 3
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 8635
+		size = 5181
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 2072
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 1382
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 18
+		size = 11
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 4
+	}
+	soldiers = {
+		culture = equestrian
+		religion = pony
+		size = 3
 	}
 }
 
