@@ -3393,12 +3393,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 353
+		size = 306
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 157
+		size = 204
 	}
 	artisans = {
 		culture = buffalo
@@ -3408,12 +3408,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1766
+		size = 1531
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 785
+		size = 1020
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -3423,12 +3423,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 212
+		size = 184
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 94
+		size = 122
 	}
 	clergymen = {
 		culture = buffalo
@@ -3438,12 +3438,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 212
+		size = 184
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 94
+		size = 122
 	}
 	farmers = {
 		culture = buffalo
@@ -3453,12 +3453,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 25435
+		size = 22044
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 11305
+		size = 14696
 	}
 	officers = {
 		culture = buffalo
@@ -3468,12 +3468,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 141
+		size = 122
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 63
+		size = 82
 	}
 	soldiers = {
 		culture = buffalo
@@ -3483,12 +3483,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 742
+		size = 643
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 329
+		size = 428
 	}
 	labourers = {
 		culture = buffalo
@@ -3498,12 +3498,12 @@
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 3190
+		size = 2764
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 1417
+		size = 1843
 	}
 	serfs = {
 		culture = buffalo
@@ -3513,12 +3513,12 @@
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 3190
+		size = 2765
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 1418
+		size = 1843
 	}
 	craftsmen = {
 		culture = buffalo
@@ -3528,12 +3528,12 @@
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 84
+		size = 73
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 37
+		size = 48
 	}
 }
 
@@ -3547,12 +3547,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 206
+		size = 162
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 44
+		size = 88
 	}
 	artisans = {
 		culture = buffalo
@@ -3562,12 +3562,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1030
+		size = 810
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 221
+		size = 441
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -3577,12 +3577,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 123
+		size = 97
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 27
+		size = 53
 	}
 	clergymen = {
 		culture = buffalo
@@ -3592,43 +3592,43 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 123
+		size = 97
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
+		size = 53
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 4012
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 14710
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 8024
+	}
+	officers = {
+		culture = buffalo
+		religion = buffalos
+		size = 13
+	}
+	officers = {
+		culture = trotsan
+		religion = pony
+		size = 48
+	}
+	officers = {
+		culture = equestrian
+		religion = pony
 		size = 27
 	}
-	farmers = {
-		culture = buffalo
-		religion = buffalos
-		size = 4012
-	}
-	farmers = {
-		culture = trotsan
-		religion = pony
-		size = 18722
-	}
-	farmers = {
-		culture = equestrian
-		religion = pony
-		size = 4012
-	}
-	officers = {
-		culture = buffalo
-		religion = buffalos
-		size = 13
-	}
-	officers = {
-		culture = trotsan
-		religion = pony
-		size = 62
-	}
-	officers = {
-		culture = equestrian
-		religion = pony
-		size = 13
-	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
@@ -3637,12 +3637,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 350
+		size = 275
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 75
+		size = 150
 	}
 }
 
@@ -3924,12 +3924,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 433
+		size = 340
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 93
+		size = 186
 	}
 	artisans = {
 		culture = buffalo
@@ -3939,12 +3939,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 7377
+		size = 5796
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1580
+		size = 3161
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -3954,12 +3954,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 303
+		size = 238
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 65
+		size = 130
 	}
 	clergymen = {
 		culture = buffalo
@@ -3969,12 +3969,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 303
+		size = 238
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 65
+		size = 130
 	}
 	farmers = {
 		culture = buffalo
@@ -3984,12 +3984,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 33717
+		size = 26492
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 7225
+		size = 14450
 	}
 	officers = {
 		culture = buffalo
@@ -3999,12 +3999,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 173
+		size = 136
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 37
+		size = 74
 	}
 	soldiers = {
 		culture = buffalo
@@ -4014,12 +4014,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 1084
+		size = 852
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 233
+		size = 465
 	}
 }
 
@@ -4545,12 +4545,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 296
+		size = 257
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 132
+		size = 171
 	}
 	artisans = {
 		culture = buffalo
@@ -4560,12 +4560,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1482
+		size = 1284
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 658
+		size = 856
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -4575,12 +4575,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 178
+		size = 154
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 79
+		size = 103
 	}
 	clergymen = {
 		culture = buffalo
@@ -4590,12 +4590,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 178
+		size = 154
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 79
+		size = 103
 	}
 	farmers = {
 		culture = buffalo
@@ -4605,12 +4605,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 21581
+		size = 18704
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 9592
+		size = 12469
 	}
 	soldiers = {
 		culture = buffalo
@@ -4620,12 +4620,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 533
+		size = 462
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 237
+		size = 308
 	}
 	labourers = {
 		culture = buffalo
@@ -4635,12 +4635,12 @@
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 2698
+		size = 2338
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 1199
+		size = 1559
 	}
 	serfs = {
 		culture = buffalo
@@ -4650,12 +4650,12 @@
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 2698
+		size = 2338
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 1199
+		size = 1559
 	}
 }
 
@@ -5027,12 +5027,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 40
+		size = 42
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 30
+		size = 28
 	}
 	artisans = {
 		culture = buffalo
@@ -5042,12 +5042,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 199
+		size = 209
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 150
+		size = 140
 	}
 	farmers = {
 		culture = buffalo
@@ -5057,12 +5057,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 3741
+		size = 3928
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 2806
+		size = 2619
 	}
 	soldiers = {
 		culture = buffalo
@@ -5179,12 +5179,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 481
+		size = 368
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 85
+		size = 198
 	}
 	artisans = {
 		culture = buffalo
@@ -5194,12 +5194,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 2409
+		size = 1842
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 425
+		size = 992
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -5209,12 +5209,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 192
+		size = 147
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 34
+		size = 79
 	}
 	clergymen = {
 		culture = buffalo
@@ -5224,12 +5224,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 241
+		size = 184
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 42
+		size = 99
 	}
 	farmers = {
 		culture = buffalo
@@ -5239,12 +5239,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 44074
+		size = 33703
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 7777
+		size = 18148
 	}
 	soldiers = {
 		culture = buffalo
@@ -5254,12 +5254,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 675
+		size = 516
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 119
+		size = 278
 	}
 	craftsmen = {
 		culture = buffalo
@@ -5269,12 +5269,12 @@
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 114
+		size = 87
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 20
+		size = 47
 	}
 }
 
@@ -5288,12 +5288,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 50
+		size = 42
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 34
+		size = 42
 	}
 	artisans = {
 		culture = buffalo
@@ -5303,12 +5303,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 252
+		size = 210
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 169
+		size = 211
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -5318,12 +5318,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 10
+		size = 8
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 7
+		size = 9
 	}
 	clergymen = {
 		culture = buffalo
@@ -5333,12 +5333,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 20
+		size = 17
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 14
+		size = 17
 	}
 	farmers = {
 		culture = buffalo
@@ -5348,12 +5348,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 3753
+		size = 3128
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 2502
+		size = 3127
 	}
 	soldiers = {
 		culture = buffalo
@@ -5363,12 +5363,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 25
+		size = 21
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 17
+		size = 21
 	}
 	labourers = {
 		culture = buffalo
@@ -5378,12 +5378,12 @@
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 469
+		size = 391
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 313
+		size = 391
 	}
 	serfs = {
 		culture = buffalo
@@ -5393,12 +5393,12 @@
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 469
+		size = 391
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 313
+		size = 391
 	}
 }
 
@@ -5524,12 +5524,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 7
+		size = 6
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 10
 	}
 	artisans = {
 		culture = buffalo
@@ -5539,12 +5539,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 34
+		size = 32
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 47
+		size = 49
 	}
 	farmers = {
 		culture = buffalo
@@ -5554,12 +5554,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 641
+		size = 601
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 882
+		size = 922
 	}
 	soldiers = {
 		culture = buffalo
@@ -5617,12 +5617,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 308
+		size = 257
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 155
+		size = 206
 	}
 	artisans = {
 		culture = buffalo
@@ -5632,12 +5632,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1544
+		size = 1287
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 773
+		size = 1030
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -5647,12 +5647,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 185
+		size = 154
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 92
+		size = 123
 	}
 	clergymen = {
 		culture = buffalo
@@ -5662,12 +5662,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 185
+		size = 154
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 92
+		size = 123
 	}
 	farmers = {
 		culture = buffalo
@@ -5677,12 +5677,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 27759
+		size = 23132
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 13880
+		size = 18507
 	}
 	officers = {
 		culture = buffalo
@@ -5692,12 +5692,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 123
+		size = 102
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 62
+		size = 83
 	}
 	soldiers = {
 		culture = buffalo
@@ -5707,12 +5707,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 710
+		size = 592
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 356
+		size = 474
 	}
 	craftsmen = {
 		culture = buffalo
@@ -5722,12 +5722,12 @@
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 73
+		size = 61
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 37
+		size = 49
 	}
 }
 
@@ -6257,12 +6257,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 250
+		size = 191
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 44
+		size = 103
 	}
 	artisans = {
 		culture = buffalo
@@ -6272,12 +6272,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1250
+		size = 956
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 220
+		size = 514
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -6287,12 +6287,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 100
+		size = 76
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 18
+		size = 42
 	}
 	clergymen = {
 		culture = buffalo
@@ -6302,12 +6302,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 124
+		size = 95
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 22
+		size = 51
 	}
 	farmers = {
 		culture = buffalo
@@ -6317,12 +6317,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 23074
+		size = 17645
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4072
+		size = 9501
 	}
 	soldiers = {
 		culture = buffalo
@@ -6332,12 +6332,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 200
+		size = 153
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 35
+		size = 82
 	}
 }
 
@@ -6536,12 +6536,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 276
+		size = 211
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 49
+		size = 114
 	}
 	artisans = {
 		culture = buffalo
@@ -6551,12 +6551,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1381
+		size = 1056
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 244
+		size = 569
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -6566,12 +6566,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 110
+		size = 84
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 20
+		size = 46
 	}
 	clergymen = {
 		culture = buffalo
@@ -6581,12 +6581,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 110
+		size = 84
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 20
+		size = 46
 	}
 	farmers = {
 		culture = buffalo
@@ -6596,12 +6596,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 25412
+		size = 19432
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4484
+		size = 10464
 	}
 	soldiers = {
 		culture = buffalo
@@ -6611,12 +6611,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 331
+		size = 253
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 59
+		size = 137
 	}
 }
 
@@ -6664,12 +6664,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 114
+		size = 89
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 46
+		size = 71
 	}
 	artisans = {
 		culture = buffalo
@@ -6679,12 +6679,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 569
+		size = 445
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 232
+		size = 356
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -6694,12 +6694,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 23
+		size = 18
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 14
 	}
 	clergymen = {
 		culture = buffalo
@@ -6709,12 +6709,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 34
+		size = 26
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 14
+		size = 22
 	}
 	farmers = {
 		culture = buffalo
@@ -6724,12 +6724,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 10582
+		size = 8268
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4300
+		size = 6614
 	}
 	soldiers = {
 		culture = buffalo
@@ -6739,12 +6739,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 68
+		size = 53
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 28
+		size = 43
 	}
 }
 
@@ -6787,92 +6787,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
+		size = 48
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 165
+	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 757
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 242
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 825
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 3783
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
 		size = 19
 	}
-	aristocrats = {
-		culture = trotsan
-		religion = pony
-		size = 175
-	}
-	aristocrats = {
-		culture = equestrian
-		religion = pony
-		size = 776
-	}
-	artisans = {
-		culture = buffalo
-		religion = buffalos
-		size = 97
-	}
-	artisans = {
-		culture = trotsan
-		religion = pony
-		size = 873
-	}
-	artisans = {
-		culture = equestrian
-		religion = pony
-		size = 3880
-	}
-	bureaucrats = {
-		culture = buffalo
-		religion = buffalos
-		size = 8
-	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 70
+		size = 66
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 310
+		size = 303
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 8
+		size = 19
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 70
+		size = 66
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 310
+		size = 303
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 1785
+		size = 4463
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 16065
+		size = 15173
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 71402
+		size = 69616
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 23
+		size = 58
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 210
+		size = 198
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 931
+		size = 908
 	}
 }
 
@@ -6886,12 +6886,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 119
+		size = 93
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 48
+		size = 74
 	}
 	artisans = {
 		culture = buffalo
@@ -6901,12 +6901,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 596
+		size = 466
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 242
+		size = 372
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -6916,12 +6916,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 24
+		size = 18
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 15
 	}
 	clergymen = {
 		culture = buffalo
@@ -6931,12 +6931,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 24
+		size = 18
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 15
 	}
 	farmers = {
 		culture = buffalo
@@ -6946,12 +6946,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 11125
+		size = 8692
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4520
+		size = 6953
 	}
 	soldiers = {
 		culture = buffalo
@@ -6961,12 +6961,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 36
+		size = 28
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 14
+		size = 22
 	}
 }
 
@@ -7282,12 +7282,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 19
+		size = 21
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 12
+		size = 10
 	}
 	clergymen = {
 		culture = buffalo
@@ -7307,12 +7307,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 351
+		size = 390
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 234
+		size = 195
 	}
 	soldiers = {
 		culture = buffalo
@@ -7434,92 +7434,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
+		size = 23
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 78
+	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 357
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 115
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 390
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 1789
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
 		size = 9
 	}
-	aristocrats = {
-		culture = trotsan
-		religion = pony
-		size = 82
-	}
-	aristocrats = {
-		culture = equestrian
-		religion = pony
-		size = 367
-	}
-	artisans = {
-		culture = buffalo
-		religion = buffalos
-		size = 46
-	}
-	artisans = {
-		culture = trotsan
-		religion = pony
-		size = 413
-	}
-	artisans = {
-		culture = equestrian
-		religion = pony
-		size = 1835
-	}
-	bureaucrats = {
-		culture = buffalo
-		religion = buffalos
-		size = 4
-	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 33
+		size = 31
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 146
+		size = 143
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 4
+		size = 9
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 33
+		size = 31
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 146
+		size = 143
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 842
+		size = 2106
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 7581
+		size = 7160
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 33694
+		size = 32851
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 13
+		size = 32
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 116
+		size = 109
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 513
+		size = 501
 	}
 }
 
@@ -7548,12 +7548,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 16
+		size = 17
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 10
+		size = 9
 	}
 	clergymen = {
 		culture = buffalo
@@ -7573,12 +7573,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 295
+		size = 327
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 196
+		size = 164
 	}
 	soldiers = {
 		culture = buffalo
@@ -7612,12 +7612,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 21
+		size = 23
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 13
+		size = 11
 	}
 	farmers = {
 		culture = buffalo
@@ -7627,12 +7627,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 387
+		size = 430
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 258
+		size = 215
 	}
 	soldiers = {
 		culture = buffalo
@@ -7832,12 +7832,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 36
+		size = 34
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 49
+		size = 51
 	}
 	clergymen = {
 		culture = buffalo
@@ -7862,12 +7862,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 671
+		size = 629
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 923
+		size = 965
 	}
 	soldiers = {
 		culture = buffalo
@@ -7896,12 +7896,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 12
+		size = 11
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 16
+		size = 17
 	}
 	artisans = {
 		culture = buffalo
@@ -7911,12 +7911,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 59
+		size = 55
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 80
+		size = 84
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -7926,12 +7926,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 7
+		size = 6
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 10
 	}
 	clergymen = {
 		culture = buffalo
@@ -7941,12 +7941,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 7
+		size = 6
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 9
+		size = 10
 	}
 	farmers = {
 		culture = buffalo
@@ -7956,12 +7956,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 1066
+		size = 999
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 1465
+		size = 1532
 	}
 	officers = {
 		culture = buffalo
@@ -7986,12 +7986,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 17
+		size = 16
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 24
+		size = 25
 	}
 }
 
@@ -8112,12 +8112,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 139
+		size = 125
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 69
+		size = 83
 	}
 	artisans = {
 		culture = buffalo
@@ -8127,12 +8127,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 694
+		size = 625
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 347
+		size = 416
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -8142,12 +8142,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 83
+		size = 75
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 42
+		size = 50
 	}
 	clergymen = {
 		culture = buffalo
@@ -8157,12 +8157,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 111
+		size = 100
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 55
+		size = 66
 	}
 	farmers = {
 		culture = buffalo
@@ -8172,12 +8172,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 12576
+		size = 11319
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 6288
+		size = 7545
 	}
 	officers = {
 		culture = buffalo
@@ -8187,12 +8187,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 14
+		size = 12
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 7
+		size = 9
 	}
 	soldiers = {
 		culture = buffalo
@@ -8202,12 +8202,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 264
+		size = 237
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 132
+		size = 159
 	}
 }
 
@@ -8289,12 +8289,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 100
+		size = 90
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 51
+		size = 61
 	}
 	artisans = {
 		culture = buffalo
@@ -8304,12 +8304,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 502
+		size = 452
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 252
+		size = 302
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -8319,12 +8319,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 60
+		size = 54
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 30
+		size = 36
 	}
 	clergymen = {
 		culture = buffalo
@@ -8334,12 +8334,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 80
+		size = 72
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 41
+		size = 49
 	}
 	farmers = {
 		culture = buffalo
@@ -8349,12 +8349,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 9020
+		size = 8118
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4510
+		size = 5412
 	}
 	officers = {
 		culture = buffalo
@@ -8364,12 +8364,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 10
+		size = 9
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 5
+		size = 6
 	}
 	soldiers = {
 		culture = buffalo
@@ -8379,12 +8379,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 281
+		size = 253
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 141
+		size = 169
 	}
 }
 
@@ -8700,167 +8700,167 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 71
+		size = 177
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 637
+		size = 601
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 2830
+		size = 2760
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 1769
+		size = 4423
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 15922
+		size = 15038
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 70767
+		size = 68997
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 71
+		size = 177
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 637
+		size = 601
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 2830
+		size = 2760
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 99
+		size = 248
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 892
+		size = 842
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 3962
+		size = 3863
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 3812
+		size = 9530
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 34310
+		size = 32404
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 152487
+		size = 148675
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 50
+		size = 124
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 446
+		size = 421
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 1980
+		size = 1931
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 198
+		size = 495
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 1783
+		size = 1684
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 7926
+		size = 7728
 	}
 	labourers = {
 		culture = buffalo
 		religion = buffalos
-		size = 482
+		size = 1205
 	}
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 4337
+		size = 4096
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 19277
+		size = 18795
 	}
 	serfs = {
 		culture = buffalo
 		religion = buffalos
-		size = 482
+		size = 1205
 	}
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 4337
+		size = 4096
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 19277
+		size = 18795
 	}
 	craftsmen = {
 		culture = buffalo
 		religion = buffalos
-		size = 41
+		size = 102
 	}
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 367
+		size = 347
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 1632
+		size = 1591
 	}
 	clerks = {
 		culture = buffalo
 		religion = buffalos
-		size = 2
+		size = 6
 	}
 	clerks = {
 		culture = trotsan
 		religion = pony
-		size = 22
+		size = 20
 	}
 	clerks = {
 		culture = equestrian
 		religion = pony
-		size = 96
+		size = 94
 	}
 }
 
@@ -9049,137 +9049,137 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 18
+		size = 46
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 165
+		size = 156
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 733
+		size = 714
 	}
 	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 275
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 934
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 4287
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 37
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 124
+	}
+	bureaucrats = {
+		culture = equestrian
+		religion = pony
+		size = 571
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 50
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 171
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
+		size = 786
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 3243
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 11026
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 50587
+	}
+	officers = {
+		culture = buffalo
+		religion = buffalos
+		size = 9
+	}
+	officers = {
+		culture = trotsan
+		religion = pony
+		size = 31
+	}
+	officers = {
+		culture = equestrian
+		religion = pony
+		size = 143
+	}
+	soldiers = {
 		culture = buffalo
 		religion = buffalos
 		size = 110
 	}
-	artisans = {
-		culture = trotsan
-		religion = pony
-		size = 989
-	}
-	artisans = {
-		culture = equestrian
-		religion = pony
-		size = 4397
-	}
-	bureaucrats = {
-		culture = buffalo
-		religion = buffalos
-		size = 15
-	}
-	bureaucrats = {
-		culture = trotsan
-		religion = pony
-		size = 132
-	}
-	bureaucrats = {
-		culture = equestrian
-		religion = pony
-		size = 585
-	}
-	clergymen = {
-		culture = buffalo
-		religion = buffalos
-		size = 20
-	}
-	clergymen = {
-		culture = trotsan
-		religion = pony
-		size = 181
-	}
-	clergymen = {
-		culture = equestrian
-		religion = pony
-		size = 806
-	}
-	farmers = {
-		culture = buffalo
-		religion = buffalos
-		size = 1297
-	}
-	farmers = {
-		culture = trotsan
-		religion = pony
-		size = 11674
-	}
-	farmers = {
-		culture = equestrian
-		religion = pony
-		size = 51885
-	}
-	officers = {
-		culture = buffalo
-		religion = buffalos
-		size = 4
-	}
-	officers = {
-		culture = trotsan
-		religion = pony
-		size = 33
-	}
-	officers = {
-		culture = equestrian
-		religion = pony
-		size = 146
-	}
-	soldiers = {
-		culture = buffalo
-		religion = buffalos
-		size = 44
-	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 396
+		size = 374
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 1758
+		size = 1714
 	}
 	labourers = {
 		culture = buffalo
 		religion = buffalos
-		size = 162
+		size = 405
 	}
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 1459
+		size = 1378
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 6486
+		size = 6324
 	}
 	serfs = {
 		culture = buffalo
 		religion = buffalos
-		size = 162
+		size = 405
 	}
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 1459
+		size = 1378
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 6486
+		size = 6324
 	}
 }
 
@@ -9222,12 +9222,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 125
+		size = 113
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 63
+		size = 75
 	}
 	artisans = {
 		culture = buffalo
@@ -9237,12 +9237,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 626
+		size = 563
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 313
+		size = 376
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -9252,12 +9252,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 75
+		size = 68
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 37
+		size = 44
 	}
 	clergymen = {
 		culture = buffalo
@@ -9267,12 +9267,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 88
+		size = 79
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 43
+		size = 52
 	}
 	farmers = {
 		culture = buffalo
@@ -9282,12 +9282,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 11397
+		size = 10257
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 5698
+		size = 6838
 	}
 	officers = {
 		culture = buffalo
@@ -9297,12 +9297,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 12
+		size = 11
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 6
+		size = 7
 	}
 	soldiers = {
 		culture = buffalo
@@ -9312,12 +9312,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 200
+		size = 180
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 100
+		size = 120
 	}
 }
 
@@ -9472,12 +9472,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 360
+		size = 324
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 180
+		size = 216
 	}
 	artisans = {
 		culture = buffalo
@@ -9487,12 +9487,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 8998
+		size = 8099
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 4500
+		size = 5399
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -9502,12 +9502,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 360
+		size = 324
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 180
+		size = 216
 	}
 	clergymen = {
 		culture = buffalo
@@ -9517,12 +9517,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 396
+		size = 356
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 198
+		size = 238
 	}
 	farmers = {
 		culture = buffalo
@@ -9532,12 +9532,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 24548
+		size = 22093
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 12274
+		size = 14729
 	}
 	officers = {
 		culture = buffalo
@@ -9547,12 +9547,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 180
+		size = 162
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 90
+		size = 108
 	}
 	soldiers = {
 		culture = buffalo
@@ -9562,12 +9562,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 1152
+		size = 1037
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 576
+		size = 691
 	}
 }
 
@@ -9698,12 +9698,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 101
+		size = 95
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 139
+		size = 145
 	}
 	artisans = {
 		culture = buffalo
@@ -9713,12 +9713,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 506
+		size = 475
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 696
+		size = 727
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -9728,12 +9728,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 61
+		size = 57
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 83
+		size = 87
 	}
 	clergymen = {
 		culture = buffalo
@@ -9743,12 +9743,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 71
+		size = 66
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 97
+		size = 102
 	}
 	farmers = {
 		culture = buffalo
@@ -9758,12 +9758,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 9133
+		size = 8563
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 12559
+		size = 13129
 	}
 	officers = {
 		culture = buffalo
@@ -9773,12 +9773,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 40
+		size = 38
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 56
+		size = 58
 	}
 	soldiers = {
 		culture = buffalo
@@ -9788,12 +9788,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 213
+		size = 199
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 292
+		size = 306
 	}
 }
 
@@ -9875,12 +9875,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 121
+		size = 302
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 424
+		size = 243
 	}
 	artisans = {
 		culture = buffalo
@@ -9890,12 +9890,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 605
+		size = 1514
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 2119
+		size = 1210
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -9905,12 +9905,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 24
+		size = 60
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 85
+		size = 49
 	}
 	clergymen = {
 		culture = buffalo
@@ -9920,12 +9920,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 36
+		size = 90
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 127
+		size = 73
 	}
 	farmers = {
 		culture = buffalo
@@ -9935,12 +9935,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 11186
+		size = 27965
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 39151
+		size = 22372
 	}
 	soldiers = {
 		culture = buffalo
@@ -9950,12 +9950,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 109
+		size = 272
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 381
+		size = 218
 	}
 	craftsmen = {
 		culture = buffalo
@@ -9965,12 +9965,12 @@
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 29
+		size = 72
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 100
+		size = 57
 	}
 }
 
@@ -10397,12 +10397,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 157
+		size = 274
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 454
+		size = 337
 	}
 	artisans = {
 		culture = buffalo
@@ -10412,12 +10412,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 783
+		size = 1370
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 2271
+		size = 1684
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -10427,12 +10427,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 94
+		size = 164
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 272
+		size = 202
 	}
 	clergymen = {
 		culture = buffalo
@@ -10442,12 +10442,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 94
+		size = 164
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 272
+		size = 202
 	}
 	farmers = {
 		culture = buffalo
@@ -10457,12 +10457,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 14206
+		size = 24860
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 41197
+		size = 30543
 	}
 	officers = {
 		culture = buffalo
@@ -10472,12 +10472,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 16
+		size = 27
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 45
+		size = 34
 	}
 	soldiers = {
 		culture = buffalo
@@ -10487,12 +10487,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 313
+		size = 548
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 908
+		size = 673
 	}
 }
 
@@ -10506,12 +10506,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 81
+		size = 77
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 61
+		size = 65
 	}
 	artisans = {
 		culture = buffalo
@@ -10521,12 +10521,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 408
+		size = 387
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 306
+		size = 327
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -10536,12 +10536,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 16
+		size = 15
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 12
+		size = 13
 	}
 	clergymen = {
 		culture = buffalo
@@ -10551,12 +10551,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 16
+		size = 15
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 12
+		size = 13
 	}
 	farmers = {
 		culture = buffalo
@@ -10566,12 +10566,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 7577
+		size = 7198
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 5683
+		size = 6062
 	}
 	soldiers = {
 		culture = buffalo
@@ -10581,12 +10581,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 57
+		size = 54
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 43
+		size = 46
 	}
 }
 
@@ -10600,12 +10600,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 374
+		size = 294
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 81
+		size = 161
 	}
 	artisans = {
 		culture = buffalo
@@ -10615,12 +10615,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1875
+		size = 1473
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 401
+		size = 803
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -10630,12 +10630,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 225
+		size = 177
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 48
+		size = 96
 	}
 	clergymen = {
 		culture = buffalo
@@ -10645,12 +10645,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 225
+		size = 177
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 48
+		size = 96
 	}
 	farmers = {
 		culture = buffalo
@@ -10660,12 +10660,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 33790
+		size = 26549
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 7240
+		size = 14481
 	}
 	officers = {
 		culture = buffalo
@@ -10675,12 +10675,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 150
+		size = 118
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 32
+		size = 64
 	}
 	soldiers = {
 		culture = buffalo
@@ -10690,12 +10690,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 862
+		size = 678
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 185
+		size = 369
 	}
 }
 
@@ -10806,92 +10806,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 41
+		size = 285
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 204
+		size = 187
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 570
+		size = 343
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 204
+		size = 1428
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1020
+		size = 938
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 2855
+		size = 1713
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 8
+		size = 57
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 41
-	}
-	bureaucrats = {
-		culture = equestrian
-		religion = pony
-		size = 114
-	}
-	clergymen = {
-		culture = buffalo
-		religion = buffalos
-		size = 12
-	}
-	clergymen = {
-		culture = trotsan
-		religion = pony
-		size = 61
-	}
-	clergymen = {
-		culture = equestrian
-		religion = pony
-		size = 171
-	}
-	farmers = {
-		culture = buffalo
-		religion = buffalos
-		size = 3778
-	}
-	farmers = {
-		culture = trotsan
-		religion = pony
-		size = 18890
-	}
-	farmers = {
-		culture = equestrian
-		religion = pony
-		size = 52892
-	}
-	soldiers = {
-		culture = buffalo
-		religion = buffalos
 		size = 37
 	}
+	bureaucrats = {
+		culture = equestrian
+		religion = pony
+		size = 69
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 85
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 56
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
+		size = 103
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 26446
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 17379
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 31735
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 257
+	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 184
+		size = 169
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 513
+		size = 308
 	}
 }
 
@@ -11143,12 +11143,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 15
+		size = 14
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 12
+		size = 13
 	}
 	artisans = {
 		culture = buffalo
@@ -11158,12 +11158,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 76
+		size = 73
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 58
+		size = 61
 	}
 	clergymen = {
 		culture = buffalo
@@ -11188,12 +11188,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 1431
+		size = 1359
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 1073
+		size = 1145
 	}
 	soldiers = {
 		culture = buffalo
@@ -11344,12 +11344,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 43
+		size = 108
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 150
+		size = 85
 	}
 	artisans = {
 		culture = buffalo
@@ -11359,12 +11359,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 216
+		size = 539
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 754
+		size = 431
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -11374,12 +11374,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 9
+		size = 22
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 30
+		size = 17
 	}
 	clergymen = {
 		culture = buffalo
@@ -11389,12 +11389,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 13
+		size = 32
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 45
+		size = 26
 	}
 	farmers = {
 		culture = buffalo
@@ -11404,12 +11404,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 4020
+		size = 10050
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 14070
+		size = 8040
 	}
 	soldiers = {
 		culture = buffalo
@@ -11419,12 +11419,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 13
+		size = 32
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 45
+		size = 26
 	}
 }
 
@@ -11482,12 +11482,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 30
+		size = 32
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 50
+		size = 48
 	}
 	artisans = {
 		culture = buffalo
@@ -11497,12 +11497,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 150
+		size = 162
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 249
+		size = 237
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -11527,12 +11527,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 12
+		size = 13
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 20
+		size = 19
 	}
 	farmers = {
 		culture = buffalo
@@ -11542,12 +11542,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 2785
+		size = 3017
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4641
+		size = 4409
 	}
 	soldiers = {
 		culture = buffalo
@@ -11557,12 +11557,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 12
+		size = 13
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 20
+		size = 19
 	}
 }
 
@@ -11620,107 +11620,107 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 23
+		size = 160
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 114
+		size = 105
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 320
+		size = 192
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 114
+		size = 800
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 572
+		size = 526
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1600
+		size = 960
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 5
+		size = 32
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 23
+		size = 21
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 63
+		size = 38
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 7
+		size = 48
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 34
+		size = 32
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 96
+		size = 57
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 2114
+		size = 14799
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 10571
+		size = 9725
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 29598
+		size = 17759
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 18
+		size = 128
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 91
+		size = 84
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 256
+		size = 153
 	}
 	craftsmen = {
 		culture = buffalo
 		religion = buffalos
-		size = 5
+		size = 38
 	}
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 27
+		size = 25
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 76
+		size = 45
 	}
 }
 
@@ -11914,12 +11914,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 71
+		size = 67
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 53
+		size = 57
 	}
 	artisans = {
 		culture = buffalo
@@ -11929,12 +11929,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 354
+		size = 336
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 266
+		size = 284
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -11944,12 +11944,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 14
+		size = 13
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 10
+		size = 11
 	}
 	clergymen = {
 		culture = buffalo
@@ -11959,12 +11959,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 14
+		size = 13
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 10
+		size = 11
 	}
 	farmers = {
 		culture = buffalo
@@ -11974,12 +11974,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 6590
+		size = 6260
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4942
+		size = 5272
 	}
 	soldiers = {
 		culture = buffalo
@@ -11989,12 +11989,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 42
+		size = 40
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 32
+		size = 34
 	}
 }
 
@@ -12100,37 +12100,37 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 6
+		size = 46
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 32
+		size = 30
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 92
+		size = 54
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 32
+		size = 227
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 162
+		size = 150
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 456
+		size = 273
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 1
+		size = 9
 	}
 	bureaucrats = {
 		culture = trotsan
@@ -12140,52 +12140,52 @@
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 19
+		size = 11
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 3
+		size = 18
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 13
+		size = 12
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
+		size = 22
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 4214
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 2769
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 5057
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
 		size = 36
 	}
-	farmers = {
-		culture = buffalo
-		religion = buffalos
-		size = 602
-	}
-	farmers = {
-		culture = trotsan
-		religion = pony
-		size = 3010
-	}
-	farmers = {
-		culture = equestrian
-		religion = pony
-		size = 8428
-	}
-	soldiers = {
-		culture = buffalo
-		religion = buffalos
-		size = 5
-	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 26
+		size = 24
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 73
+		size = 44
 	}
 }
 
@@ -12413,107 +12413,107 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
+		size = 314
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 143
+	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 114
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 1570
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 714
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 571
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 188
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 86
+	}
+	bureaucrats = {
+		culture = equestrian
+		religion = pony
+		size = 68
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 157
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 71
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
 		size = 57
 	}
-	aristocrats = {
-		culture = trotsan
-		religion = pony
-		size = 354
-	}
-	aristocrats = {
-		culture = equestrian
-		religion = pony
-		size = 160
-	}
-	artisans = {
+	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 286
+		size = 28359
 	}
-	artisans = {
+	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 1770
+		size = 12890
 	}
-	artisans = {
+	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 799
+		size = 10313
 	}
-	bureaucrats = {
+	officers = {
 		culture = buffalo
 		religion = buffalos
+		size = 94
+	}
+	officers = {
+		culture = trotsan
+		religion = pony
+		size = 43
+	}
+	officers = {
+		culture = equestrian
+		religion = pony
 		size = 34
 	}
-	bureaucrats = {
-		culture = trotsan
-		religion = pony
-		size = 212
-	}
-	bureaucrats = {
-		culture = equestrian
-		religion = pony
-		size = 96
-	}
-	clergymen = {
-		culture = buffalo
-		religion = buffalos
-		size = 28
-	}
-	clergymen = {
-		culture = trotsan
-		religion = pony
-		size = 177
-	}
-	clergymen = {
-		culture = equestrian
-		religion = pony
-		size = 80
-	}
-	farmers = {
-		culture = buffalo
-		religion = buffalos
-		size = 5156
-	}
-	farmers = {
-		culture = trotsan
-		religion = pony
-		size = 31968
-	}
-	farmers = {
-		culture = equestrian
-		religion = pony
-		size = 14438
-	}
-	officers = {
-		culture = buffalo
-		religion = buffalos
-		size = 17
-	}
-	officers = {
-		culture = trotsan
-		religion = pony
-		size = 106
-	}
-	officers = {
-		culture = equestrian
-		religion = pony
-		size = 48
-	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 131
+		size = 722
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 814
+		size = 328
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 368
+		size = 263
 	}
 }
 
@@ -12527,12 +12527,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 112
+		size = 157
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 238
+		size = 193
 	}
 	artisans = {
 		culture = buffalo
@@ -12542,12 +12542,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 561
+		size = 786
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1190
+		size = 965
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -12557,12 +12557,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 67
+		size = 94
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 143
+		size = 116
 	}
 	clergymen = {
 		culture = buffalo
@@ -12572,12 +12572,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 78
+		size = 110
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 167
+		size = 135
 	}
 	farmers = {
 		culture = buffalo
@@ -12587,12 +12587,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 10184
+		size = 14258
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 21590
+		size = 17516
 	}
 	officers = {
 		culture = buffalo
@@ -12602,12 +12602,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 22
+		size = 31
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 47
+		size = 38
 	}
 	soldiers = {
 		culture = buffalo
@@ -12617,12 +12617,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 202
+		size = 283
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 428
+		size = 347
 	}
 }
 
@@ -12636,12 +12636,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 148
+		size = 128
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 65
+		size = 85
 	}
 	artisans = {
 		culture = buffalo
@@ -12651,12 +12651,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 738
+		size = 640
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 328
+		size = 426
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -12666,12 +12666,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 88
+		size = 76
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 39
+		size = 51
 	}
 	clergymen = {
 		culture = buffalo
@@ -12681,12 +12681,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 103
+		size = 89
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 46
+		size = 60
 	}
 	farmers = {
 		culture = buffalo
@@ -12696,12 +12696,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 13345
+		size = 11565
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 5931
+		size = 7711
 	}
 	officers = {
 		culture = buffalo
@@ -12711,12 +12711,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 14
+		size = 12
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 7
+		size = 9
 	}
 	soldiers = {
 		culture = buffalo
@@ -12726,12 +12726,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 324
+		size = 281
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 145
+		size = 188
 	}
 }
 
@@ -12745,12 +12745,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 209
+		size = 226
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 348
+		size = 331
 	}
 	artisans = {
 		culture = buffalo
@@ -12760,12 +12760,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 5224
+		size = 5659
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 8707
+		size = 8272
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -12775,12 +12775,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 167
+		size = 181
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 279
+		size = 265
 	}
 	clergymen = {
 		culture = buffalo
@@ -12790,12 +12790,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 251
+		size = 272
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 417
+		size = 396
 	}
 	farmers = {
 		culture = buffalo
@@ -12805,12 +12805,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 14021
+		size = 15190
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 23369
+		size = 22200
 	}
 	officers = {
 		culture = buffalo
@@ -12820,12 +12820,12 @@
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 146
+		size = 158
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 244
+		size = 232
 	}
 	soldiers = {
 		culture = buffalo
@@ -12835,12 +12835,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 878
+		size = 951
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 1462
+		size = 1389
 	}
 }
 
@@ -12927,141 +12927,201 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 46
+		size = 200
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 217
+		size = 222
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 307
+		size = 148
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 1142
+		size = 4994
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 5422
+		size = 5565
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 7705
+		size = 3710
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 32
+		size = 140
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 152
+		size = 156
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 215
+		size = 103
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 46
+		size = 200
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 217
+		size = 222
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 307
+		size = 148
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 3141
+		size = 13744
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 14922
+		size = 15315
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 21205
+		size = 10209
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 18
+		size = 80
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 87
+		size = 89
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 123
+		size = 59
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 142
+		size = 619
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 672
+		size = 690
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 955
+		size = 460
 	}
 }
 
 # 
 371 = {
 	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 126
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 52
+	}
+	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 229
+		size = 51
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 631
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 258
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1148
+		size = 259
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 25
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 10
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 45
+		size = 10
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 37
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 15
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 68
+		size = 16
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 11703
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 4788
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 21278
+		size = 4787
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 113
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 46
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 206
+		size = 47
 	}
 }
 
@@ -13274,12 +13334,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 13
+		size = 14
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 22
+		size = 21
 	}
 	artisans = {
 		culture = buffalo
@@ -13289,12 +13349,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 65
+		size = 71
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 109
+		size = 103
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -13334,12 +13394,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 1212
+		size = 1314
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 2021
+		size = 1919
 	}
 	soldiers = {
 		culture = buffalo
@@ -13395,34 +13455,94 @@
 # 
 382 = {
 	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 136
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 56
+	}
+	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 247
+		size = 55
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 681
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 279
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1239
+		size = 279
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 27
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 11
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 49
+		size = 11
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 27
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 11
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 49
+		size = 11
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 12693
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 5193
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 23079
+		size = 5193
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 68
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 28
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 123
+		size = 27
 	}
 }
 
@@ -13548,137 +13668,137 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 130
+		size = 713
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 804
+		size = 324
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 363
+		size = 260
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 2206
+		size = 12135
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 13679
+		size = 5516
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 6178
+		size = 4412
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 143
+		size = 785
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 885
+		size = 357
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 399
+		size = 285
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 130
+		size = 713
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 804
+		size = 324
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 363
+		size = 260
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 7777
+		size = 42771
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 48215
+		size = 19442
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 21774
+		size = 15553
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 78
+		size = 428
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 482
+		size = 194
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 218
+		size = 156
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 571
+		size = 3141
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 3540
+		size = 1428
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 1599
+		size = 1141
 	}
 	labourers = {
 		culture = buffalo
 		religion = buffalos
-		size = 972
+		size = 5346
 	}
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 6026
+		size = 2430
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 2722
+		size = 1944
 	}
 	serfs = {
 		culture = buffalo
 		religion = buffalos
-		size = 972
+		size = 5347
 	}
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 6027
+		size = 2430
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 2722
+		size = 1944
 	}
 }
 
@@ -13687,92 +13807,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 35
+		size = 248
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 177
+		size = 163
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 496
+		size = 297
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 177
+		size = 1239
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 885
+		size = 814
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 2479
+		size = 1488
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 14
+		size = 99
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 71
+		size = 65
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 198
+		size = 119
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 11
+		size = 74
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 53
+		size = 49
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 148
+		size = 89
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 3251
+		size = 22758
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 16256
+		size = 14956
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 45517
+		size = 27310
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 53
+		size = 372
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 266
+		size = 244
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 743
+		size = 446
 	}
 }
 
@@ -13810,107 +13930,107 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 57
+		size = 251
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 272
+		size = 280
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 388
+		size = 186
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 287
+		size = 1256
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 1364
+		size = 1400
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1938
+		size = 933
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 23
+		size = 100
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 109
+		size = 112
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 155
+		size = 75
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 23
+		size = 100
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 109
+		size = 112
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 155
+		size = 75
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 5282
+		size = 23107
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 25088
+		size = 25748
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 35650
+		size = 17165
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 57
+		size = 251
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 272
+		size = 280
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 388
+		size = 186
 	}
 	craftsmen = {
 		culture = buffalo
 		religion = buffalos
-		size = 14
+		size = 59
 	}
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 65
+		size = 66
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 91
+		size = 45
 	}
 }
 
@@ -14162,141 +14282,201 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 17
+		size = 95
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 107
+		size = 43
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 48
+		size = 34
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 86
+		size = 473
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 533
+		size = 215
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 241
+		size = 172
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 10
+		size = 57
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 64
+		size = 26
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 29
+		size = 20
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 10
+		size = 57
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 64
+		size = 26
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 29
+		size = 20
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 1553
+		size = 8540
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 9627
+		size = 3882
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 4348
+		size = 3106
 	}
 	officers = {
 		culture = buffalo
 		religion = buffalos
-		size = 3
+		size = 19
 	}
 	officers = {
 		culture = trotsan
 		religion = pony
-		size = 21
+		size = 8
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 10
+		size = 7
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 41
+		size = 227
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 256
+		size = 103
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 116
+		size = 83
 	}
 }
 
 # 
 398 = {
 	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 120
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 49
+	}
+	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 219
+		size = 50
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 603
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 247
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1096
+		size = 246
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 24
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 10
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 43
+		size = 9
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 24
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 10
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 43
+		size = 9
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 11217
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 4589
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 20395
+		size = 4589
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 72
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 29
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 131
+		size = 30
 	}
 }
 
@@ -14612,12 +14792,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 416
+		size = 327
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 90
+		size = 179
 	}
 	artisans = {
 		culture = buffalo
@@ -14627,12 +14807,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 2083
+		size = 1637
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 447
+		size = 893
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -14642,12 +14822,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 83
+		size = 65
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 18
+		size = 36
 	}
 	clergymen = {
 		culture = buffalo
@@ -14657,12 +14837,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 125
+		size = 98
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 26
+		size = 53
 	}
 	farmers = {
 		culture = buffalo
@@ -14672,12 +14852,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 38524
+		size = 30269
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 8255
+		size = 16510
 	}
 	soldiers = {
 		culture = buffalo
@@ -14687,12 +14867,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 333
+		size = 262
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 72
+		size = 143
 	}
 	craftsmen = {
 		culture = buffalo
@@ -14702,12 +14882,12 @@
 	craftsmen = {
 		culture = trotsan
 		religion = pony
-		size = 99
+		size = 78
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 21
+		size = 42
 	}
 }
 
@@ -14925,92 +15105,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 24
+		size = 133
 	}
 	aristocrats = {
-		culture = trotsan
-		religion = pony
-		size = 150
-	}
-	aristocrats = {
-		culture = equestrian
-		religion = pony
-		size = 68
-	}
-	artisans = {
-		culture = buffalo
-		religion = buffalos
-		size = 121
-	}
-	artisans = {
-		culture = trotsan
-		religion = pony
-		size = 750
-	}
-	artisans = {
-		culture = equestrian
-		religion = pony
-		size = 339
-	}
-	bureaucrats = {
-		culture = buffalo
-		religion = buffalos
-		size = 10
-	}
-	bureaucrats = {
 		culture = trotsan
 		religion = pony
 		size = 60
 	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 49
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 666
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 302
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 242
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 53
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 24
+	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 26
+		size = 19
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 12
+		size = 67
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 75
+		size = 30
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 34
+		size = 24
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 2241
+		size = 12327
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 13896
+		size = 5603
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 6276
+		size = 4483
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 12
+		size = 67
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 75
+		size = 30
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 34
+		size = 24
 	}
 }
 
@@ -15163,34 +15343,94 @@
 # 
 420 = {
 	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 113
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 46
+	}
+	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 205
+		size = 46
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 566
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 232
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 1029
+		size = 231
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 23
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 9
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 41
+		size = 9
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 23
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 9
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 41
+		size = 9
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 10508
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 4299
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 19106
+		size = 4299
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 90
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 37
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 164
+		size = 37
 	}
 }
 
@@ -15358,44 +15598,124 @@
 # 
 425 = {
 	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 65
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 27
+	}
+	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 119
+		size = 27
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 327
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 134
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 595
+		size = 134
+	}
+	bureaucrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 13
+	}
+	bureaucrats = {
+		culture = trotsan
+		religion = pony
+		size = 5
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 23
+		size = 5
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 26
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 11
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 47
+		size = 10
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 4870
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 1992
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 8854
+		size = 1992
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 26
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 11
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 47
+		size = 10
+	}
+	labourers = {
+		culture = buffalo
+		religion = buffalos
+		size = 608
+	}
+	labourers = {
+		culture = trotsan
+		religion = pony
+		size = 249
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 1106
+		size = 249
+	}
+	serfs = {
+		culture = buffalo
+		religion = buffalos
+		size = 609
+	}
+	serfs = {
+		culture = trotsan
+		religion = pony
+		size = 249
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 1107
+		size = 249
 	}
 }
 
@@ -29530,92 +29850,92 @@
 	aristocrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 19
+		size = 82
 	}
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 89
+		size = 92
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 127
+		size = 61
 	}
 	artisans = {
 		culture = buffalo
 		religion = buffalos
-		size = 94
+		size = 412
 	}
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 447
+		size = 459
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 635
+		size = 305
 	}
 	bureaucrats = {
 		culture = buffalo
 		religion = buffalos
-		size = 8
+		size = 33
 	}
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 36
+		size = 37
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 50
+		size = 24
 	}
 	clergymen = {
 		culture = buffalo
 		religion = buffalos
-		size = 9
+		size = 41
 	}
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 44
+		size = 46
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 64
+		size = 30
 	}
 	farmers = {
 		culture = buffalo
 		religion = buffalos
-		size = 1732
+		size = 7577
 	}
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 8227
+		size = 8444
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 11691
+		size = 5629
 	}
 	soldiers = {
 		culture = buffalo
 		religion = buffalos
-		size = 21
+		size = 90
 	}
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 98
+		size = 101
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 139
+		size = 67
 	}
 }
 
@@ -29902,12 +30222,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 8
+		size = 7
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 10
+		size = 11
 	}
 	artisans = {
 		culture = buffalo
@@ -29917,12 +30237,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 39
+		size = 36
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 53
+		size = 56
 	}
 	clergymen = {
 		culture = buffalo
@@ -29947,12 +30267,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 725
+		size = 680
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 998
+		size = 1043
 	}
 	soldiers = {
 		culture = buffalo
@@ -29981,12 +30301,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 55
+		size = 46
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 36
+		size = 45
 	}
 	artisans = {
 		culture = buffalo
@@ -29996,12 +30316,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 274
+		size = 228
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 183
+		size = 229
 	}
 	bureaucrats = {
 		culture = buffalo
@@ -30011,12 +30331,12 @@
 	bureaucrats = {
 		culture = trotsan
 		religion = pony
-		size = 11
+		size = 9
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 7
+		size = 9
 	}
 	clergymen = {
 		culture = buffalo
@@ -30026,12 +30346,12 @@
 	clergymen = {
 		culture = trotsan
 		religion = pony
-		size = 16
+		size = 14
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 11
+		size = 13
 	}
 	farmers = {
 		culture = buffalo
@@ -30041,12 +30361,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 4064
+		size = 3386
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 2709
+		size = 3387
 	}
 	soldiers = {
 		culture = buffalo
@@ -30056,12 +30376,12 @@
 	soldiers = {
 		culture = trotsan
 		religion = pony
-		size = 49
+		size = 41
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 33
+		size = 41
 	}
 	labourers = {
 		culture = buffalo
@@ -30071,12 +30391,12 @@
 	labourers = {
 		culture = trotsan
 		religion = pony
-		size = 508
+		size = 423
 	}
 	labourers = {
 		culture = equestrian
 		religion = pony
-		size = 338
+		size = 423
 	}
 	serfs = {
 		culture = buffalo
@@ -30086,12 +30406,12 @@
 	serfs = {
 		culture = trotsan
 		religion = pony
-		size = 508
+		size = 423
 	}
 	serfs = {
 		culture = equestrian
 		religion = pony
-		size = 339
+		size = 424
 	}
 }
 

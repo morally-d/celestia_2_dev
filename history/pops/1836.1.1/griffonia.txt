@@ -22779,12 +22779,12 @@
 	aristocrats = {
 		culture = trotsan
 		religion = pony
-		size = 22
+		size = 18
 	}
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 15
+		size = 19
 	}
 	artisans = {
 		culture = buffalo
@@ -22794,12 +22794,12 @@
 	artisans = {
 		culture = trotsan
 		religion = pony
-		size = 111
+		size = 92
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 73
+		size = 92
 	}
 	clergymen = {
 		culture = buffalo
@@ -22824,12 +22824,12 @@
 	farmers = {
 		culture = trotsan
 		religion = pony
-		size = 2072
+		size = 1727
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 1382
+		size = 1727
 	}
 	soldiers = {
 		culture = buffalo
