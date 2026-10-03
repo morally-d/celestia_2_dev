@@ -39,6 +39,7 @@ political_decisions = {
 		potential = {
 			tag = EQS
 			owns = 294
+			NOT = { has_country_flag = EQS_gemstone_rush_done }
 		}
 		allow = {
 			war = no
@@ -50,6 +51,7 @@ political_decisions = {
 					duration = 3650
 				}
 			}
+			set_country_flag = EQS_gemstone_rush_done
 		}
 		ai_will_do = {
 			factor = 1
@@ -60,6 +62,7 @@ political_decisions = {
 		potential = {
 			tag = EQS
 			owns = 315
+			NOT = { has_country_flag = EQS_the_frontier_town_done }
 		}
 		allow = {
 			war = no
@@ -71,6 +74,7 @@ political_decisions = {
 					duration = 1825
 				}
 			}
+			set_country_flag = EQS_the_frontier_town_done
 		}
 		ai_will_do = {
 			factor = 1
@@ -81,6 +85,7 @@ political_decisions = {
 		potential = {
 			tag = EQS
 			owns = 363
+			NOT = { has_country_flag = EQS_the_old_frontier_done }
 		}
 		allow = {
 			war = no
@@ -93,6 +98,7 @@ political_decisions = {
 					duration = 3650
 				}
 			}
+			set_country_flag = EQS_the_old_frontier_done
 		}
 		ai_will_do = {
 			factor = 1
@@ -103,6 +109,7 @@ political_decisions = {
 		potential = {
 			tag = EQS
 			owns = 386
+			NOT = { has_country_flag = EQS_pride_of_the_south_done }
 		}
 		allow = {
 			war = no
@@ -114,6 +121,7 @@ political_decisions = {
 					duration = 3650
 				}
 			}
+			set_country_flag = EQS_pride_of_the_south_done
 		}
 		ai_will_do = {
 			factor = 1
