@@ -1,0 +1,16 @@
+# =====================================================================
+# Celestia 2 - Equestria events
+#
+#  9991400: fired by the EQS_northwest_expedition decision. Carries the
+#           expedition leader's letter (the decision's original text).
+# =====================================================================
+
+country_event = {
+	id = 9991400
+	title = "EVTNAME9991400"
+	desc = "EVTDESC9991400"
+
+	option = {
+		name = "EVTOPTA9991400"
+	}
+}

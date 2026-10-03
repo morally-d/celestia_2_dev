@@ -1,0 +1,29 @@
+# =====================================================================
+# Celestia 2 - Equestria decisions
+#
+#  EQS_northwest_expedition:
+#    Equestria funds an expedition to the northwestern frontier and
+#    takes ownership of Fort Acorn (province 250), then a colony.
+# =====================================================================
+
+political_decisions = {
+	EQS_northwest_expedition = {
+		potential = {
+			tag = EQS
+			NOT = { owns = 250 }
+		}
+		allow = {
+			money = 1000
+		}
+		effect = {
+			money = -1000
+			250 = {
+				secede_province = THIS
+			}
+			country_event = { id = 9991400 days = 0 }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
