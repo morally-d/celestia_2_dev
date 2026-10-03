@@ -10,6 +10,12 @@ country_event = {
 	title = "EVTNAME9991400"
 	desc = "EVTDESC9991400"
 
+	immediate = {
+		250 = {
+			trade_goods = silk
+		}
+	}
+
 	option = {
 		name = "EVTOPTA9991400"
 	}
