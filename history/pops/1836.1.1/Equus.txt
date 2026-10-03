@@ -6310,37 +6310,72 @@
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 1496
+		size = 997
+	}
+	aristocrats = {
+		culture = brackish
+		religion = changeling
+		size = 499
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 29935
+		size = 19957
+	}
+	artisans = {
+		culture = brackish
+		religion = changeling
+		size = 9978
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 1496
+		size = 997
+	}
+	bureaucrats = {
+		culture = brackish
+		religion = changeling
+		size = 499
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 1496
+		size = 997
+	}
+	clergymen = {
+		culture = brackish
+		religion = changeling
+		size = 499
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 108665
+		size = 72443
+	}
+	farmers = {
+		culture = brackish
+		religion = changeling
+		size = 36222
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 1047
+		size = 698
+	}
+	officers = {
+		culture = brackish
+		religion = changeling
+		size = 349
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 5538
+		size = 3692
+	}
+	soldiers = {
+		culture = brackish
+		religion = changeling
+		size = 1846
 	}
 }
 
