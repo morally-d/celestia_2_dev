@@ -4544,42 +4544,122 @@
 	aristocrats = {
 		culture = equestrian
 		religion = pony
-		size = 2845
+		size = 1707
+	}
+	aristocrats = {
+		culture = olenian
+		religion = deer
+		size = 996
+	}
+	aristocrats = {
+		culture = boreal
+		religion = changeling
+		size = 142
 	}
 	artisans = {
 		culture = equestrian
 		religion = pony
-		size = 71144
+		size = 42687
+	}
+	artisans = {
+		culture = olenian
+		religion = deer
+		size = 24900
+	}
+	artisans = {
+		culture = boreal
+		religion = changeling
+		size = 3557
 	}
 	bureaucrats = {
 		culture = equestrian
 		religion = pony
-		size = 3699
+		size = 2219
+	}
+	bureaucrats = {
+		culture = olenian
+		religion = deer
+		size = 1295
+	}
+	bureaucrats = {
+		culture = boreal
+		religion = changeling
+		size = 185
 	}
 	clergymen = {
 		culture = equestrian
 		religion = pony
-		size = 3699
+		size = 2219
+	}
+	clergymen = {
+		culture = olenian
+		religion = deer
+		size = 1295
+	}
+	clergymen = {
+		culture = boreal
+		religion = changeling
+		size = 185
 	}
 	farmers = {
 		culture = equestrian
 		religion = pony
-		size = 190276
+		size = 114165
+	}
+	farmers = {
+		culture = olenian
+		religion = deer
+		size = 66597
+	}
+	farmers = {
+		culture = boreal
+		religion = changeling
+		size = 9514
 	}
 	officers = {
 		culture = equestrian
 		religion = pony
-		size = 2276
+		size = 1365
+	}
+	officers = {
+		culture = olenian
+		religion = deer
+		size = 797
+	}
+	officers = {
+		culture = boreal
+		religion = changeling
+		size = 114
 	}
 	soldiers = {
 		culture = equestrian
 		religion = pony
-		size = 9960
+		size = 5976
+	}
+	soldiers = {
+		culture = olenian
+		religion = deer
+		size = 3486
+	}
+	soldiers = {
+		culture = boreal
+		religion = changeling
+		size = 498
 	}
 	craftsmen = {
 		culture = equestrian
 		religion = pony
-		size = 676
+		size = 405
+	}
+	craftsmen = {
+		culture = olenian
+		religion = deer
+		size = 237
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 34
 	}
 }
 
