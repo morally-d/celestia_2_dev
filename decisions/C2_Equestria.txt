@@ -4,6 +4,14 @@
 #  EQS_northwest_expedition:
 #    Equestria funds an expedition to the northwestern frontier and
 #    takes ownership of Fort Acorn (province 250), then a colony.
+#
+#  Southern frontier development:
+#    EQS_gemstone_rush      - Rockville (294)   -> 10-year gold_rush
+#    EQS_the_frontier_town  - Appleloosa (315)  -> 5-year gold_rush
+#    EQS_the_old_frontier   - Fort Dodge (363)  -> renamed Dodge City,
+#                                                  10-year gold_rush
+#    EQS_pride_of_the_south - Hoofington (386)  -> 10-year gold_rush
+#  All four require Equestria to own the province and be at peace.
 # =====================================================================
 
 political_decisions = {
@@ -21,6 +29,91 @@ political_decisions = {
 				secede_province = THIS
 			}
 			country_event = { id = 9991400 days = 0 }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EQS_gemstone_rush = {
+		potential = {
+			tag = EQS
+			owns = 294
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			294 = {
+				add_province_modifier = {
+					name = gold_rush
+					duration = 3650
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EQS_the_frontier_town = {
+		potential = {
+			tag = EQS
+			owns = 315
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			315 = {
+				add_province_modifier = {
+					name = gold_rush
+					duration = 1825
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EQS_the_old_frontier = {
+		potential = {
+			tag = EQS
+			owns = 363
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			363 = {
+				change_province_name = "Dodge City"
+				add_province_modifier = {
+					name = gold_rush
+					duration = 3650
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EQS_pride_of_the_south = {
+		potential = {
+			tag = EQS
+			owns = 386
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			386 = {
+				add_province_modifier = {
+					name = gold_rush
+					duration = 3650
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 1
