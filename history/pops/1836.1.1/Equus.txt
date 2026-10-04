@@ -29778,6 +29778,87 @@
 }
 
 # 
+1556 = {
+	aristocrats = {
+		culture = penguin
+		religion = penguins
+		size = 184
+	}
+	artisans = {
+		culture = penguin
+		religion = penguins
+		size = 920
+	}
+	bureaucrats = {
+		culture = penguin
+		religion = penguins
+		size = 110
+	}
+	clergymen = {
+		culture = penguin
+		religion = penguins
+		size = 110
+	}
+	farmers = {
+		culture = penguin
+		religion = penguins
+		size = 16555
+	}
+	officers = {
+		culture = penguin
+		religion = penguins
+		size = 73
+	}
+	soldiers = {
+		culture = penguin
+		religion = penguins
+		size = 460
+	}
+}
+
+1581 = {
+	aristocrats = {
+		culture = nova
+		religion = griffon
+		size = 815
+	}
+	artisans = {
+		culture = nova
+		religion = griffon
+		size = 4076
+	}
+	bureaucrats = {
+		culture = nova
+		religion = griffon
+		size = 489
+	}
+	clergymen = {
+		culture = nova
+		religion = griffon
+		size = 570
+	}
+	farmers = {
+		culture = nova
+		religion = griffon
+		size = 73997
+	}
+	officers = {
+		culture = nova
+		religion = griffon
+		size = 81
+	}
+	soldiers = {
+		culture = nova
+		religion = griffon
+		size = 1304
+	}
+	craftsmen = {
+		culture = nova
+		religion = griffon
+		size = 193
+	}
+}
+
 1587 = {
 	aristocrats = {
 		culture = equestrian
@@ -29846,6 +29927,9 @@
 }
 
 # 
+1633 = {
+}
+
 1639 = {
 	aristocrats = {
 		culture = buffalo
@@ -30135,6 +30219,49 @@
 }
 
 # 
+1742 = {
+	aristocrats = {
+		culture = boreal
+		religion = changeling
+		size = 2956
+	}
+	artisans = {
+		culture = boreal
+		religion = changeling
+		size = 73910
+	}
+	bureaucrats = {
+		culture = boreal
+		religion = changeling
+		size = 3252
+	}
+	clergymen = {
+		culture = boreal
+		religion = changeling
+		size = 3843
+	}
+	farmers = {
+		culture = boreal
+		religion = changeling
+		size = 200037
+	}
+	officers = {
+		culture = boreal
+		religion = changeling
+		size = 1478
+	}
+	soldiers = {
+		culture = boreal
+		religion = changeling
+		size = 9460
+	}
+	craftsmen = {
+		culture = boreal
+		religion = changeling
+		size = 702
+	}
+}
+
 1753 = {
 	aristocrats = {
 		culture = boreal
@@ -30213,6 +30340,29 @@
 }
 
 # 
+1818 = {
+	aristocrats = {
+		culture = fire_dragon
+		religion = dragons
+		size = 211
+	}
+	artisans = {
+		culture = fire_dragon
+		religion = dragons
+		size = 1057
+	}
+	farmers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 19852
+	}
+	soldiers = {
+		culture = fire_dragon
+		religion = dragons
+		size = 21
+	}
+}
+
 1957 = {
 	aristocrats = {
 		culture = buffalo
@@ -30292,6 +30442,84 @@
 }
 
 # 
+1990 = {
+	aristocrats = {
+		culture = buffalo
+		religion = buffalos
+		size = 55
+	}
+	aristocrats = {
+		culture = trotsan
+		religion = pony
+		size = 18
+	}
+	aristocrats = {
+		culture = equestrian
+		religion = pony
+		size = 19
+	}
+	artisans = {
+		culture = buffalo
+		religion = buffalos
+		size = 277
+	}
+	artisans = {
+		culture = trotsan
+		religion = pony
+		size = 92
+	}
+	artisans = {
+		culture = equestrian
+		religion = pony
+		size = 92
+	}
+	clergymen = {
+		culture = buffalo
+		religion = buffalos
+		size = 11
+	}
+	clergymen = {
+		culture = trotsan
+		religion = pony
+		size = 4
+	}
+	clergymen = {
+		culture = equestrian
+		religion = pony
+		size = 3
+	}
+	farmers = {
+		culture = buffalo
+		religion = buffalos
+		size = 5181
+	}
+	farmers = {
+		culture = trotsan
+		religion = pony
+		size = 1727
+	}
+	farmers = {
+		culture = equestrian
+		religion = pony
+		size = 1727
+	}
+	soldiers = {
+		culture = buffalo
+		religion = buffalos
+		size = 11
+	}
+	soldiers = {
+		culture = trotsan
+		religion = pony
+		size = 4
+	}
+	soldiers = {
+		culture = equestrian
+		religion = pony
+		size = 3
+	}
+}
+
 1997 = {
 	aristocrats = {
 		culture = buffalo

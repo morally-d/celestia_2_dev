@@ -13709,43 +13709,6 @@
 }
 
 # 
-1556 = {
-	aristocrats = {
-		culture = penguin
-		religion = penguins
-		size = 184
-	}
-	artisans = {
-		culture = penguin
-		religion = penguins
-		size = 920
-	}
-	bureaucrats = {
-		culture = penguin
-		religion = penguins
-		size = 110
-	}
-	clergymen = {
-		culture = penguin
-		religion = penguins
-		size = 110
-	}
-	farmers = {
-		culture = penguin
-		religion = penguins
-		size = 16555
-	}
-	officers = {
-		culture = penguin
-		religion = penguins
-		size = 73
-	}
-	soldiers = {
-		culture = penguin
-		religion = penguins
-		size = 460
-	}
-}
 
 # 
 1557 = {
@@ -15045,38 +15008,6 @@
 }
 
 # 
-1621 = {
-	aristocrats = {
-		culture = herzlander
-		religion = griffon
-		size = 922
-	}
-	artisans = {
-		culture = herzlander
-		religion = griffon
-		size = 4610
-	}
-	bureaucrats = {
-		culture = herzlander
-		religion = griffon
-		size = 553
-	}
-	clergymen = {
-		culture = herzlander
-		religion = griffon
-		size = 461
-	}
-	farmers = {
-		culture = herzlander
-		religion = griffon
-		size = 83907
-	}
-	soldiers = {
-		culture = herzlander
-		religion = griffon
-		size = 1751
-	}
-}
 
 # 
 1622 = {
@@ -16856,48 +16787,6 @@
 }
 
 # 
-1742 = {
-	aristocrats = {
-		culture = boreal
-		religion = changeling
-		size = 2956
-	}
-	artisans = {
-		culture = boreal
-		religion = changeling
-		size = 73910
-	}
-	bureaucrats = {
-		culture = boreal
-		religion = changeling
-		size = 3252
-	}
-	clergymen = {
-		culture = boreal
-		religion = changeling
-		size = 3843
-	}
-	farmers = {
-		culture = boreal
-		religion = changeling
-		size = 200037
-	}
-	officers = {
-		culture = boreal
-		religion = changeling
-		size = 1478
-	}
-	soldiers = {
-		culture = boreal
-		religion = changeling
-		size = 9460
-	}
-	craftsmen = {
-		culture = boreal
-		religion = changeling
-		size = 702
-	}
-}
 
 # 
 1744 = {
@@ -17348,43 +17237,6 @@
 }
 
 # 
-1785 = {
-	aristocrats = {
-		culture = herzlander
-		religion = griffon
-		size = 515
-	}
-	artisans = {
-		culture = herzlander
-		religion = griffon
-		size = 2579
-	}
-	bureaucrats = {
-		culture = herzlander
-		religion = griffon
-		size = 309
-	}
-	clergymen = {
-		culture = herzlander
-		religion = griffon
-		size = 309
-	}
-	farmers = {
-		culture = herzlander
-		religion = griffon
-		size = 46640
-	}
-	officers = {
-		culture = herzlander
-		religion = griffon
-		size = 103
-	}
-	soldiers = {
-		culture = herzlander
-		religion = griffon
-		size = 1135
-	}
-}
 
 # 
 1786 = {
@@ -18823,28 +18675,6 @@
 }
 
 # 
-1894 = {
-	aristocrats = {
-		culture = undead
-		religion = undeads
-		size = 16
-	}
-	artisans = {
-		culture = undead
-		religion = undeads
-		size = 82
-	}
-	farmers = {
-		culture = undead
-		religion = undeads
-		size = 1546
-	}
-	soldiers = {
-		culture = undead
-		religion = undeads
-		size = 1
-	}
-}
 
 # 
 1896 = {
@@ -23962,43 +23792,6 @@
 }
 
 # 
-2282 = {
-	aristocrats = {
-		culture = macawian
-		religion = harpies
-		size = 128
-	}
-	artisans = {
-		culture = macawian
-		religion = harpies
-		size = 642
-	}
-	bureaucrats = {
-		culture = macawian
-		religion = harpies
-		size = 51
-	}
-	clergymen = {
-		culture = macawian
-		religion = harpies
-		size = 64
-	}
-	farmers = {
-		culture = macawian
-		religion = harpies
-		size = 11673
-	}
-	soldiers = {
-		culture = macawian
-		religion = harpies
-		size = 256
-	}
-	craftsmen = {
-		culture = macawian
-		religion = harpies
-		size = 30
-	}
-}
 
 # 
 2283 = {
@@ -24045,38 +23838,6 @@
 }
 
 # 
-2285 = {
-	aristocrats = {
-		culture = macawian
-		religion = harpies
-		size = 130
-	}
-	artisans = {
-		culture = macawian
-		religion = harpies
-		size = 650
-	}
-	bureaucrats = {
-		culture = macawian
-		religion = harpies
-		size = 52
-	}
-	clergymen = {
-		culture = macawian
-		religion = harpies
-		size = 65
-	}
-	farmers = {
-		culture = macawian
-		religion = harpies
-		size = 11843
-	}
-	soldiers = {
-		culture = macawian
-		religion = harpies
-		size = 260
-	}
-}
 
 # 
 2286 = {
@@ -28801,43 +28562,6 @@
 }
 
 # 
-2533 = {
-	aristocrats = {
-		culture = nimbusian
-		religion = pony
-		size = 599
-	}
-	artisans = {
-		culture = nimbusian
-		religion = pony
-		size = 2999
-	}
-	bureaucrats = {
-		culture = nimbusian
-		religion = pony
-		size = 239
-	}
-	clergymen = {
-		culture = nimbusian
-		religion = pony
-		size = 299
-	}
-	farmers = {
-		culture = nimbusian
-		religion = pony
-		size = 31070
-	}
-	slaves = {
-		culture = ponaidh
-		religion = pony
-		size = 23992
-	}
-	soldiers = {
-		culture = nimbusian
-		religion = pony
-		size = 779
-	}
-}
 
 # 
 2534 = {
