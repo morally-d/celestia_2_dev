@@ -2,6 +2,7 @@
 owner = VRA
 controller = VRA
 add_core = VRA
+add_core = CHN
 trade_goods = timber
 life_rating = 35
 

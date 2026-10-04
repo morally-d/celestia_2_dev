@@ -2,6 +2,7 @@
 owner = GOR
 controller = GOR
 add_core = GOR
+add_core = CHN
 trade_goods = timber
 life_rating = 35
 

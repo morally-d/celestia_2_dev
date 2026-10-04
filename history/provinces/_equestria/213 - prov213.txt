@@ -2,6 +2,7 @@
 owner = CRU
 controller = CRU
 add_core = CRU
+add_core = CHN
 trade_goods = timber
 life_rating = 35
 terrain = marsh

@@ -2,6 +2,7 @@
 owner = LYC
 controller = LYC
 add_core = LYC
+add_core = CHN
 trade_goods = silk
 life_rating = 35
 

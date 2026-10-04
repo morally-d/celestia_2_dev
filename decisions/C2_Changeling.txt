@@ -1,0 +1,89 @@
+# =====================================================================
+# Celestia 2 - Changeling decisions
+#
+#  CHN_the_one_queen  ("The One Queen Of The Changeling Lands")
+#    Pan-changeling unification, modelled on the vanilla German/Italian
+#    formation decisions. A changeling hive whose capital lies in Equus
+#    and which controls the five great hives -- Vesalipolis (157),
+#    Ditrysium (126), Vraks (177), Lyctida (1328) and Soryth (1742) --
+#    either directly, through its subjects, or through sphere members,
+#    and which has researched Nationalism & Imperialism, may crown its
+#    queen the One Queen Of The Changeling Lands.
+#
+#    Effects:
+#      * the country becomes CHN (change_tag preserves the former hive's
+#        primary culture, so a boreal hive yields a boreal CHN with
+#        brackish accepted, and a brackish hive yields the reverse;
+#        CHN's own default is boreal primary / brackish accepted);
+#      * every changeling subject and sphere member on Equus is absorbed;
+#      * +50 prestige.
+#
+#    CHN is a formable tag: it owns no land at start. Its cores are
+#    pre-placed on every changeling-majority (>50% pop) province in
+#    Equus (see the province history files).
+# =====================================================================
+
+political_decisions = {
+	CHN_the_one_queen = {
+		potential = {
+			culture_group = changeling
+			continent = equus
+			NOT = { tag = CHN }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+
+			# Vesalipolis
+			OR = {
+				owns = 157
+				157 = { owner = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } } }
+			}
+			# Ditrysium
+			OR = {
+				owns = 126
+				126 = { owner = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } } }
+			}
+			# Vraks
+			OR = {
+				owns = 177
+				177 = { owner = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } } }
+			}
+			# Lyctida
+			OR = {
+				owns = 1328
+				1328 = { owner = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } } }
+			}
+			# Soryth
+			OR = {
+				owns = 1742
+				1742 = { owner = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } } }
+			}
+		}
+		effect = {
+			change_tag = CHN
+
+			if = {
+				limit = { primary_culture = boreal }
+				add_accepted_culture = brackish
+			}
+			if = {
+				limit = { primary_culture = brackish }
+				add_accepted_culture = boreal
+			}
+
+			any_country = {
+				limit = {
+					OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS }
+					culture_group = changeling
+					continent = equus
+				}
+				annex_to = THIS
+			}
+
+			prestige = 50
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

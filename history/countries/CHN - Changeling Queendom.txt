@@ -1,5 +1,6 @@
-capital = 1128
+capital = 157
 primary_culture = boreal
+culture = brackish
 religion = changeling
 government = absolute_monarchy
 plurality = 10

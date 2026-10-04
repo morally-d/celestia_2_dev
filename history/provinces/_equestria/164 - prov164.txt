@@ -2,6 +2,7 @@
 owner = VES
 controller = VES
 add_core = VES
+add_core = CHN
 trade_goods = wool
 life_rating = 35
 

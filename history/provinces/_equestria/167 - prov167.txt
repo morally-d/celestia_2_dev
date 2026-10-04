@@ -2,6 +2,7 @@
 owner = ASS
 controller = ASS
 add_core = ASS
+add_core = CHN
 trade_goods = cattle
 life_rating = 35
 
