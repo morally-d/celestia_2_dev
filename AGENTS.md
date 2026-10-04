@@ -29,8 +29,9 @@ thestrals.
 **Current state:** region 1 is in progress. Equestria's southern content
 (frontier decisions, the "Until the Southern Sea" war, the SPCAC decision) and
 the Changeling unification (CHN as a formable pan-changeling tag, `union = CHN`)
-are implemented and build clean; they still need in-game verification. The
-`ASS` tag was corrected from a donkey nation to a changeling hive.
+are implemented and build clean, as is the CHN–Equestria "Acornage Boundary
+Agreement"; they still need in-game verification. The `ASS` tag was corrected
+from a donkey nation to a changeling hive.
 
 Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 
