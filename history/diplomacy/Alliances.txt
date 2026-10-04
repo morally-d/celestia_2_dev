@@ -22,3 +22,26 @@ alliance = { first = GRI second = GSG }   # Southern Continent Company
 alliance = { first = GRI second = GR1 }   # Viartorre
 alliance = { first = GRI second = GR2 }   # Pythagorea
 alliance = { first = GRI second = GR3 }   # Colegio
+
+# ---------------------------------------------------------------------
+# Polar bear clans (region 1) - full mutual-alliance web (15 pairs).
+# PLB (the bears' cultural union tag) is the shared mother country; the
+# six clans are sovereign and equal, so the league is modelled with
+# alliances only. PA's AI prunes alliances when it feels safe, so the
+# web is kept alive by the Clan Moot event (events/C2_Bear_Moot.txt).
+# ---------------------------------------------------------------------
+alliance = { first = ROS second = ROZ }   # Rosensverd - Rozenkrantz
+alliance = { first = ROS second = SCY }   # Rosensverd - Scyfling
+alliance = { first = ROS second = SVA }   # Rosensverd - Svartpels
+alliance = { first = ROS second = VLS }   # Rosensverd - Volsungr
+alliance = { first = ROS second = WES }   # Rosensverd - Wesslandia
+alliance = { first = ROZ second = SCY }   # Rozenkrantz - Scyfling
+alliance = { first = ROZ second = SVA }   # Rozenkrantz - Svartpels
+alliance = { first = ROZ second = VLS }   # Rozenkrantz - Volsungr
+alliance = { first = ROZ second = WES }   # Rozenkrantz - Wesslandia
+alliance = { first = SCY second = SVA }   # Scyfling - Svartpels
+alliance = { first = SCY second = VLS }   # Scyfling - Volsungr
+alliance = { first = SCY second = WES }   # Scyfling - Wesslandia
+alliance = { first = SVA second = VLS }   # Svartpels - Volsungr
+alliance = { first = SVA second = WES }   # Svartpels - Wesslandia
+alliance = { first = VLS second = WES }   # Volsungr - Wesslandia

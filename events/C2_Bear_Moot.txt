@@ -1,0 +1,82 @@
+# =====================================================================
+# Celestia 2 - The Clan Moot (polar bear self-healing league)
+#
+# The six polar bear clans (ROS/ROZ/SCY/SVA/VLS/WES) start fully allied
+# in history/diplomacy/Alliances.txt. PA's AI, however, cancels alliances
+# when it no longer feels threatened (ai_alliances.cpp: prune_alliances,
+# every May 1 and Nov 1), so the web decays over time. This event quietly
+# restores any missing clan alliance.
+#
+# Cost: the trigger is only true while an alliance is actually missing,
+# and MTTH events are checked in 32-day blocks, so while the league is
+# intact nothing fires. When it does fire, the effect re-creates all
+# missing pairs at once (make_alliance is a no-op for existing or
+# self-pairs), so at most one event per clan per ~month is needed.
+#
+# Guards: never allies a clan that is at war with another clan, and
+# never re-allies a clan that has lost all of its provinces (the engine
+# also refuses to ally landless tags).
+# =====================================================================
+
+country_event = {
+	id = 9991450
+	title = "EVTNAME9991450"
+	desc = "EVTDESC9991450"
+
+	is_triggered_only = no
+	fire_only_once = no
+
+	trigger = {
+		OR = {
+			tag = ROS
+			tag = ROZ
+			tag = SCY
+			tag = SVA
+			tag = VLS
+			tag = WES
+		}
+		OR = {
+			AND = { NOT = { tag = ROS } NOT = { alliance_with = ROS } }
+			AND = { NOT = { tag = ROZ } NOT = { alliance_with = ROZ } }
+			AND = { NOT = { tag = SCY } NOT = { alliance_with = SCY } }
+			AND = { NOT = { tag = SVA } NOT = { alliance_with = SVA } }
+			AND = { NOT = { tag = VLS } NOT = { alliance_with = VLS } }
+			AND = { NOT = { tag = WES } NOT = { alliance_with = WES } }
+		}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+		if = {
+			limit = { NOT = { tag = ROS } NOT = { war_with = ROS } }
+			create_alliance = ROS
+		}
+		if = {
+			limit = { NOT = { tag = ROZ } NOT = { war_with = ROZ } }
+			create_alliance = ROZ
+		}
+		if = {
+			limit = { NOT = { tag = SCY } NOT = { war_with = SCY } }
+			create_alliance = SCY
+		}
+		if = {
+			limit = { NOT = { tag = SVA } NOT = { war_with = SVA } }
+			create_alliance = SVA
+		}
+		if = {
+			limit = { NOT = { tag = VLS } NOT = { war_with = VLS } }
+			create_alliance = VLS
+		}
+		if = {
+			limit = { NOT = { tag = WES } NOT = { war_with = WES } }
+			create_alliance = WES
+		}
+	}
+
+	option = {
+		name = "EVTOPTA9991450"
+	}
+}
