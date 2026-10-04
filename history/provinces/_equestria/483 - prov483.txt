@@ -2,6 +2,7 @@
 owner = SVA
 controller = SVA
 add_core = SVA
+add_core = PLB
 trade_goods = fish
 life_rating = 35
 

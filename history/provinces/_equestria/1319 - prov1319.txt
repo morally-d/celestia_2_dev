@@ -2,6 +2,7 @@
 owner = ROS
 controller = ROS
 add_core = ROS
+add_core = PLB
 trade_goods = fish
 life_rating = 35
 

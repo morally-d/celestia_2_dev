@@ -2,6 +2,7 @@
 owner = SCY
 controller = SCY
 add_core = SCY
+add_core = PLB
 trade_goods = iron
 life_rating = 35
 
