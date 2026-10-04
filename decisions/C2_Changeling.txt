@@ -86,4 +86,66 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	# "The Acornage Boundary Agreement" - after unifying the changelings, CHN
+	# settles its southern border with Equestria: CHN takes the Wild Lands
+	# (state_157) and Svarm (state_155); Equestria takes Fort Acorn (state_11),
+	# Fairflanks-Whitebell (state_13) and West/East Yeahcon (state_14/state_20)
+	# and gains cores on them. Fort Acorn is renamed Acornage.
+	CHN_acornage_boundary = {
+		potential = {
+			tag = CHN
+			NOT = { has_country_flag = CHN_acornage_boundary_done }
+		}
+		allow = {
+			war = no
+			EQS = { war = no }
+			any_neighbor_country = { tag = EQS }
+			relation = { who = EQS value >= 0 }
+		}
+		effect = {
+			# Wild Lands and Svarm go to the Changelings.
+			195 = { secede_province = THIS }
+			217 = { secede_province = THIS }
+			220 = { secede_province = THIS }
+			223 = { secede_province = THIS }
+			257 = { secede_province = THIS }
+			261 = { secede_province = THIS }
+			292 = { secede_province = THIS }
+
+			# Fort Acorn goes to Equestria; its town and state are renamed.
+			250 = {
+				secede_province = EQS
+				add_core = EQS
+				change_province_name = "Acornage"
+				change_region_name = "Acornage"
+			}
+			# Fairflanks-Whitebell (state_13)
+			215 = { secede_province = EQS add_core = EQS }
+			234 = { secede_province = EQS add_core = EQS }
+			221 = { secede_province = EQS add_core = EQS }
+			265 = { secede_province = EQS add_core = EQS }
+			# The rest of Fort Acorn (state_11)
+			272 = { secede_province = EQS add_core = EQS }
+			231 = { secede_province = EQS add_core = EQS }
+			262 = { secede_province = EQS add_core = EQS }
+			# West Yeahcon (state_14)
+			280 = { secede_province = EQS add_core = EQS }
+			245 = { secede_province = EQS add_core = EQS }
+			275 = { secede_province = EQS add_core = EQS }
+			255 = { secede_province = EQS add_core = EQS }
+			269 = { secede_province = EQS add_core = EQS }
+			# East Yeahcon (state_20)
+			312 = { secede_province = EQS add_core = EQS }
+			290 = { secede_province = EQS add_core = EQS }
+			626 = { secede_province = EQS add_core = EQS }
+			314 = { secede_province = EQS add_core = EQS }
+			305 = { secede_province = EQS add_core = EQS }
+
+			set_country_flag = CHN_acornage_boundary_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }
