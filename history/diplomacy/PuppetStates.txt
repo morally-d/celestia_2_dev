@@ -65,3 +65,6 @@ vassal = { first = RCT second = LCT }     # Lake City
 vassal = { first = RCT second = NIM }     # Nimbusia
 vassal = { first = RCT second = WIT }     # Wittenland
 vassal = { first = RCT second = DMT }     # Diamond Mountain (Diamond Dogs)
+
+# Changeling hives (region 1)
+vassal = { first = VES second = DIT }   # Ditrysium

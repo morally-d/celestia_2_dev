@@ -1,0 +1,29 @@
+army = {
+	name = "1. Vesalipolis Corps"
+	location = 157
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = {
+		name = "1. Artillery"
+		type = artillery
+		home = 157
+	}
+}
