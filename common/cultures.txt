@@ -231,6 +231,7 @@ eastern_pony = {
 }
 
 changeling = {
+	union = CHN
 	leader = european
 	unit = EuropeanGC
 	boreal = {						
