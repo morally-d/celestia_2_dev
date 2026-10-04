@@ -127,4 +127,95 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	# "Until the Southern Sea!" - declares war on the Buffalo Chiefdom with
+	# the scripted EQS_southern_sea CB. On enforce it transfers the Arimaspi
+	# Territory and Tsoh Halgai states to Equestria and brings the Buffalo
+	# Chiefdom into Equestria's sphere of influence.
+	EQS_until_the_southern_sea = {
+		potential = {
+			tag = EQS
+			is_greater_power = yes
+			war = no
+			any_neighbor_country = { tag = BUF }
+			ideological_thought = 1
+			NOT = { has_country_flag = EQS_southern_sea_done }
+		}
+		allow = { }
+		effect = {
+			war = {
+				target = BUF
+				attacker_goal = {
+					casus_belli = EQS_southern_sea
+				}
+			}
+			set_country_flag = EQS_southern_sea_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# "Southwest Privy Council Administrative Committee" - Canterlot dissolves
+	# the local governments of the southwest, annexes the Trot vassals and
+	# takes full legal authority over the region.
+	EQS_spcac = {
+		potential = {
+			tag = EQS
+			is_greater_power = yes
+			war = no
+			state_n_government = 1
+			HAY = { vassal_of = EQS }
+			SLL = { vassal_of = EQS }
+			CST = { vassal_of = EQS }
+			owns = 296
+			owns = 306
+			NOT = { has_country_flag = EQS_spcac_done }
+		}
+		allow = { }
+		effect = {
+			inherit = HAY
+			inherit = SLL
+			inherit = CST
+			add_accepted_culture = trotsan
+
+			# Cores on the settled and colonisable southwest.
+			294 = { add_core = EQS }
+			267 = { add_core = EQS }
+			263 = { add_core = EQS }
+			289 = { add_core = EQS }
+			348 = { add_core = EQS }
+			316 = { add_core = EQS }
+			330 = { add_core = EQS }
+			363 = { add_core = EQS }
+			380 = { add_core = EQS }
+			365 = { add_core = EQS }
+			339 = { add_core = EQS }
+			386 = { add_core = EQS }
+			362 = { add_core = EQS }
+			415 = { add_core = EQS }
+			397 = { add_core = EQS }
+
+			# Cores on the buffalo lands won in the southern war
+			# (state_31 Arimaspi Territory / state_32 Tsoh Halgai).
+			# state_30 Doo Nidhaltinghoo, the buffalo homeland, is
+			# deliberately left without Equestrian cores.
+			296 = { add_core = EQS }
+			302 = { add_core = EQS }
+			310 = { add_core = EQS }
+			248 = { add_core = EQS }
+			252 = { add_core = EQS }
+			253 = { add_core = EQS }
+			342 = { add_core = EQS }
+			353 = { add_core = EQS }
+			320 = { add_core = EQS }
+			306 = { add_core = EQS }
+			325 = { add_core = EQS }
+
+			set_country_flag = EQS_spcac_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

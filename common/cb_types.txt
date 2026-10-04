@@ -5489,3 +5489,64 @@ vassal_tax = {
 		
 	}
 }
+
+
+########################################################################
+# Celestia 2 - Equestria: "Until the Southern Sea!" scripted CB
+#
+#  A single scripted CB which, when enforced in a peace deal, transfers
+#  the Arimaspi Territory and Tsoh Halgai states from the Buffalo
+#  Chiefdom to Equestria and brings the Buffalo Chiefdom into
+#  Equestria's sphere of influence.
+#
+#  allowed_states restricts the demandable states to the two buffalo
+#  states (state_31 = Arimaspi Territory, state_32 = Tsoh Halgai);
+#  all_allowed_states makes one war goal cover every allowed province.
+########################################################################
+
+EQS_southern_sea = {
+	sprite_index = 7
+	is_triggered_only = yes
+	months = 24
+	crisis = no
+
+	badboy_factor = 0.5
+	prestige_factor = 2
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	construction_speed = 0.5
+
+	# THIS - us; the scope is a state owned by the war target.
+	allowed_states = {
+		any_owned_province = {
+			OR = {
+				province_id = 296
+				province_id = 306
+			}
+		}
+	}
+	all_allowed_states = yes
+
+	po_transfer_provinces = yes
+	po_add_to_sphere = yes
+
+	war_name = WAR_SOUTHERN_SEA_NAME
+
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
