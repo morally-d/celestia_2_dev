@@ -212,6 +212,37 @@ political_decisions = {
 			306 = { add_core = EQS }
 			325 = { add_core = EQS }
 
+			# Cores on the settled southwestern belt: the Aetherlands,
+			# the three Trotsas states, Canter Creek, Appleloosa and
+			# Macintosh Hills, plus the single province of Elk.
+			238 = { add_core = EQS }   # Aetherlands (Portails)
+			235 = { add_core = EQS }   # Aetherlands (Neighgales)
+			162 = { add_core = EQS }   # North Trotsas
+			364 = { add_core = EQS }
+			196 = { add_core = EQS }
+			187 = { add_core = EQS }
+			407 = { add_core = EQS }   # Central Trotsas
+			163 = { add_core = EQS }
+			317 = { add_core = EQS }
+			171 = { add_core = EQS }
+			199 = { add_core = EQS }   # South Trotsas
+			226 = { add_core = EQS }
+			233 = { add_core = EQS }
+			1997 = { add_core = EQS }  # Canter Creek
+			1990 = { add_core = EQS }
+			201 = { add_core = EQS }
+			315 = { add_core = EQS }   # Appleloosa
+			1957 = { add_core = EQS }
+			205 = { add_core = EQS }
+			259 = { add_core = EQS }
+			258 = { add_core = EQS }
+			298 = { add_core = EQS }
+			425 = { add_core = EQS }   # Macintosh Hills
+			420 = { add_core = EQS }
+			371 = { add_core = EQS }
+			382 = { add_core = EQS }
+			398 = { add_core = EQS }   # Elk
+
 			set_country_flag = EQS_spcac_done
 		}
 		ai_will_do = {
