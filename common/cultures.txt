@@ -959,6 +959,7 @@ kirin = {
 }
 
 bears = {
+	union = PLB
 	leader = polar_bear
 	unit = EuropeanGC
 	polar_bears = {
