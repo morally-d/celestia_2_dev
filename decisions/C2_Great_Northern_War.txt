@@ -16,11 +16,11 @@
 #    it cedes state_171 + state_165 and adds Olenian cores.
 #
 #  OLE_burn_vesalipolis       - Olenia wins the war outright: ends it,
-#    takes both states (with cores) and the two Soulless Mountain
-#    provinces (without cores), vassalises Lyctida (and Assyna, if it
-#    sided with the changelings or sat in Olenia's sphere), burns
-#    Vesalipolis (terrain -> forest, pops x0.75 in Vesalipolis and
-#    Lyctida) and fires "A Crown in the Ashes" to VES, which forms CHN.
+#    takes both states (with cores), the Soulless Mountain provinces and
+#    Neverwarm Point and Ditrysium 1 (without cores), vassalises Lyctida
+#    and - unconditionally - Assyna, burns Vesalipolis (terrain ->
+#    forest, pops x0.75 in Vesalipolis and Lyctida) and fires
+#    "A Crown in the Ashes" to VES, which forms CHN.
 #
 #  LYC_the_raids_end          - Lyctida concedes after 1440 days of
 #    losing war: the two states (with cores) go to Olenia and the war
@@ -141,12 +141,6 @@ political_decisions = {
 			war_score > 0
 		}
 		effect = {
-			# Remember who stood with the changelings before the war ends.
-			if = {
-				limit = { OR = { ASS = { war_with = OLE } ASS = { in_sphere = OLE } } }
-				ASS = { set_country_flag = OLE_gnw_ass_joins }
-			}
-
 			# End the war: remove the changeling side, the military GC
 			# then clears the empty war (and the failed wargoal) for us.
 			end_war = VES
@@ -167,17 +161,15 @@ political_decisions = {
 			130 = { secede_province = OLE add_core = OLE }
 			102 = { secede_province = OLE add_core = OLE }
 			76 = { secede_province = OLE add_core = OLE }
-			# Soulless Mountains, without cores.
+			# Soulless Mountains, Neverwarm Point and Ditrysium 1, without cores.
 			101 = { secede_province = OLE }
 			98 = { secede_province = OLE }
+			91 = { secede_province = OLE }
+			105 = { secede_province = OLE }
 
-			# Lyctida submits to Olenia; Assyna too, if it stood against us.
+			# Lyctida and Assyna submit to Olenia.
 			create_vassal = LYC
-			if = {
-				limit = { ASS = { has_country_flag = OLE_gnw_ass_joins } }
-				create_vassal = ASS
-				ASS = { clr_country_flag = OLE_gnw_ass_joins }
-			}
+			create_vassal = ASS
 
 			# Vesalipolis burns; Lyctida is sacked.
 			157 = {
