@@ -35,10 +35,11 @@ are implemented and build clean, as is the CHN–Equestria "Acornage Boundary
 Agreement"; they still need in-game verification. The `ASS` tag was corrected
 from a donkey nation to a changeling hive. An AI war-proneness investigation is
 done (`docs/C2_AI_AGGRESSION_INVESTIGATION.md`): PA has no per-nation
-aggression, its declaration threshold is hard-coded, and the current c2 data
-makes wars easier than vanilla V2 (zero truce after a white peace, 24-month
-fabricated CBs, `is_triggered_only` ignored by PA). A tiered, data-only tuning
-list awaits a decision; no data changed yet.
+aggression and its declaration threshold (`best_difference = 2.0f`) is
+hard-coded. Data-side tuning is partially applied (2026-10-05): truce 60
+months incl. white peace, fabricated-CB validity 12 months, crisis chance 0,
+and `EQS_southern_sea`/`free_peoples` are no longer fabricable; an engine patch
+for a 4.0 threshold is pending a decision.
 
 Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 
@@ -49,8 +50,9 @@ Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 - In country-history files, accepted cultures use `culture = <c>`;
   `add_accepted_culture` is invalid there.
 - Cultural unions are declared with `union = TAG` in `common/cultures.txt`.
-- PA ignores the CB `is_triggered_only` flag (the AI can fabricate those CBs),
-  and a white peace grants only `BASE_TRUCE_MONTHS` months of truce (c2: 0).
+- PA ignores the CB `is_triggered_only` flag (the AI can fabricate those CBs
+  unless `constructing_cb = no` is set), and a white peace grants only
+  `BASE_TRUCE_MONTHS` of truce (c2: 60 since 2026-10-05).
 - Always build with 0 Errors and sync to the game dir before committing.
 
 ## Git commits
