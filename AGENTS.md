@@ -20,7 +20,9 @@ is gitignored). Update it at the end of every session — status, completed-work
 log, and open items — and mirror the key points here.
 
 Roadmap docs (local): `docs/C2_REGION_REFINEMENT_PLAN.md` (region plan),
-`docs/C2_OPENING_SETUP.md` (opening situation), `docs/C2_PLAYABILITY_PLAN.md`.
+`docs/C2_OPENING_SETUP.md` (opening situation), `docs/C2_PLAYABILITY_PLAN.md`,
+`docs/C2_AI_DIPLOMACY_INVESTIGATION.md` and
+`docs/C2_AI_AGGRESSION_INVESTIGATION.md` (AI diplomacy / war proneness).
 
 Region order: 1) Equus — Equestria + dependencies + Olenia + Changelings;
 2) the Griffonian Empire sphere; 3) the Riverlands; 4) northern Zebrica +
@@ -31,7 +33,12 @@ thestrals.
 the Changeling unification (CHN as a formable pan-changeling tag, `union = CHN`)
 are implemented and build clean, as is the CHN–Equestria "Acornage Boundary
 Agreement"; they still need in-game verification. The `ASS` tag was corrected
-from a donkey nation to a changeling hive.
+from a donkey nation to a changeling hive. An AI war-proneness investigation is
+done (`docs/C2_AI_AGGRESSION_INVESTIGATION.md`): PA has no per-nation
+aggression, its declaration threshold is hard-coded, and the current c2 data
+makes wars easier than vanilla V2 (zero truce after a white peace, 24-month
+fabricated CBs, `is_triggered_only` ignored by PA). A tiered, data-only tuning
+list awaits a decision; no data changed yet.
 
 Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 
@@ -42,6 +49,8 @@ Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 - In country-history files, accepted cultures use `culture = <c>`;
   `add_accepted_culture` is invalid there.
 - Cultural unions are declared with `union = TAG` in `common/cultures.txt`.
+- PA ignores the CB `is_triggered_only` flag (the AI can fabricate those CBs),
+  and a white peace grants only `BASE_TRUCE_MONTHS` months of truce (c2: 0).
 - Always build with 0 Errors and sync to the game dir before committing.
 
 ## Git commits
