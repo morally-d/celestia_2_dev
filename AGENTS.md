@@ -38,8 +38,8 @@ done (`docs/C2_AI_AGGRESSION_INVESTIGATION.md`): PA has no per-nation
 aggression and its declaration threshold (`best_difference = 2.0f`) is
 hard-coded. Data-side tuning is partially applied (2026-10-05): truce 60
 months incl. white peace, fabricated-CB validity 12 months, crisis chance 0,
-and `EQS_southern_sea`/`free_peoples` are no longer fabricable; an engine patch
-for a 4.0 threshold is pending a decision.
+and the scripted `EQS_southern_sea` CB is no longer fabricable; the engine
+threshold stays 2.0 (decided).
 
 Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 

@@ -2830,7 +2830,6 @@ cut_down_to_size_boxer = {
 free_peoples = {
 	sprite_index = 9
 	is_triggered_only = yes
-	constructing_cb = no
 	months = 12
 
 	badboy_factor = 1.5
