@@ -36,8 +36,10 @@ and build clean, as is the CHN–Equestria "Acornage Boundary
 Agreement"; they still need in-game verification. The Great Northern War
 (Olenia against the changelings) is implemented: the OLE decision and its
 scripted CB, the burn-Vesalipolis and the two peace decisions, plus the
-"crown in the ashes" event that founds CHN; it builds clean and awaits
-verification. The `ASS` tag was corrected
+"crown in the ashes" event that founds CHN. Its burn-Vesalipolis line was
+verified in-game on 2026-10-05 (province transfers, Lyctida and Assyna
+becoming Olenia's vassals, Vesalipolis becoming CHN); the other war outcomes
+still await verification. The `ASS` tag was corrected
 from a donkey nation to a changeling hive. An AI war-proneness investigation is
 done (`docs/C2_AI_AGGRESSION_INVESTIGATION.md`): PA has no per-nation
 aggression and its declaration threshold (`best_difference = 2.0f`) is
@@ -58,6 +60,11 @@ Key gotchas (full list in `docs/C2_PROGRESS.md` §6):
 - PA ignores the CB `is_triggered_only` flag (the AI can fabricate those CBs
   unless `constructing_cb = no` is set), and a white peace grants only
   `BASE_TRUCE_MONTHS` of truce (c2: 60 since 2026-10-05).
+- `create_vassal`/`make_vassal` silently does nothing unless both nations own
+  at least one province, so vassalise before ceding a subject's last province
+  away; pending events settle in date order, so an event queued earlier can
+  resolve after a later decision (guard it, or confirm with a `days = 1`
+  event).
 - Always build with 0 Errors and sync to the game dir before committing.
 
 ## Git commits
