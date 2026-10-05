@@ -64,6 +64,32 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA9991462"
+		# Only while Vesalipolis still exists: if this event is answered
+		# after the changelings have already been unified, it must not
+		# hand Lyctida to the new CHN.
+		if = {
+			limit = { tag = VES }
+			create_vassal = LYC
+		}
+	}
+}
+
+country_event = {
+	id = 9991463
+	title = "EVTNAME9991463"
+	desc = "EVTDESC9991463"
+
+	is_triggered_only = yes
+
+	immediate = {
+		# The final word on the hives' submission: re-applied a day after
+		# the burn so that a late-resolving "protection" event cannot leave
+		# Lyctida (or Assyna) in anyone else's hands.
 		create_vassal = LYC
+		create_vassal = ASS
+	}
+
+	option = {
+		name = "EVTOPTA9991463"
 	}
 }

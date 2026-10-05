@@ -150,6 +150,12 @@ political_decisions = {
 				end_war = ASS
 			}
 
+			# Lyctida and Assyna submit to Olenia. This must happen *before*
+			# the transfers below: the engine refuses to vassalise a nation
+			# that no longer owns a single province.
+			create_vassal = LYC
+			create_vassal = ASS
+
 			# The two border states, with cores.
 			81 = { secede_province = OLE add_core = OLE }
 			77 = { secede_province = OLE add_core = OLE }
@@ -167,10 +173,6 @@ political_decisions = {
 			91 = { secede_province = OLE }
 			105 = { secede_province = OLE }
 
-			# Lyctida and Assyna submit to Olenia.
-			create_vassal = LYC
-			create_vassal = ASS
-
 			# Vesalipolis burns; Lyctida is sacked.
 			157 = {
 				change_terrain = forest
@@ -180,6 +182,10 @@ political_decisions = {
 
 			clr_country_flag = OLE_gnw_war
 			set_country_flag = OLE_gnw_burned
+
+			# A day later the hives formally submit. This also settles any
+			# "protection" event that resolved after the burn did.
+			OLE = { country_event = { id = 9991463 days = 1 } }
 
 			# The survivors crown a new queen in the ashes.
 			VES = { country_event = { id = 9991461 days = 0 } }
