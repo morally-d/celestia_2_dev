@@ -29,3 +29,19 @@ EVTNAME9991460;Envoys from our kin;;x
 EVTDESC9991460;A changeling nation-state has been founded, and it has sent envoys to us, asking our hive to join its great undertaking - to unite the changelings under a single government as never before. Shall we accept their request and join Changelingia?;;x
 EVTOPTA9991460;Yes, we accept!;;x
 EVTOPTB9991460;This is not our cause.;;x
+OLE_great_northern_war_title;The Great Northern War;;x
+OLE_great_northern_war_desc;Troubled by the endless wars of the changeling race to the north, and fearful that a changeling state uniting our neighbours would rise into a formidable rival, the Olenian government - pressed on by radical nationalists - has resolved to march north. We shall take the Bortbyting Hogland and the Solgud Bergskedja, where the deer have long roamed, and push our northern frontier up to the natural border formed by that range.;;x
+OLE_burn_vesalipolis_title;The Burning of Vesalipolis;;x
+OLE_burn_vesalipolis_desc;Our legions stand before Vesalipolis. The oldest and proudest of the hives has nothing left but one last blaze. Let it burn - and let the changelings remember that from this day on, the north answers to Olenia.;;x
+LYC_the_raids_end_title;The Raids End;;x
+LYC_the_raids_end_desc;Though the Olenian deer have plundered much wealth and land, the allied hives have at last halted their assault on Lyctida. The war is over.;;x
+VES_to_the_table_title;To the Negotiating Table;;x
+VES_to_the_table_desc;After we took Elksburg, the Olenian deer realised that they could make no further progress in the mountains. Judging that these two barren ranges were not worth more blood, they have agreed to negotiate. Our own overstretched supply lines likewise denied the allied hives the chance to march into Olenia's fertile southern heartland - and so peace has come.;;x
+EVTNAME9991461;A Crown in the Ashes;;x
+EVTDESC9991461;Though the price was terrible, the destruction of Vesalipolis has proven that our hive is the changelings' true bulwark against foreign foes. Sympathisers with our cause have risen in every other hive, and on the ruins their delegates have signed a pact of union, swearing that one day this humiliated people shall have its revenge. Hjortland, too, shall burn!;;x
+EVTOPTA9991461;Remember this wrong.;;x
+EVTNAME9991462;Lyctida Asks For Our Protection;;x
+EVTDESC9991462;With the Olenian deer invading, the queen of Lyctida turns to us - the strongest of the hives - and begs for our protection.;;x
+EVTOPTA9991462;We shall accept their allegiance, of course.;;x
+WAR_GREAT_NORTHERN_WAR_NAME;The Great Northern War;;x
+great_northern_war;Great Northern War;;x

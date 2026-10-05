@@ -1,0 +1,277 @@
+# =====================================================================
+# Celestia 2 - The Great Northern War (Olenia vs. the changelings)
+#
+#  OLE_great_northern_war     - Olenia's opening decision. Five cases:
+#    1) Lyctida is Olenia's vassal       -> released; the two border
+#       states (with cores) plus the two Soulless Mountain provinces
+#       (without cores) are ceded; VES is offered Lyctida's allegiance.
+#    2) Olenia is a GP, Lyctida in her sphere -> Lyctida is expelled
+#       from the sphere; the two border states (with cores) are ceded;
+#       VES is offered Lyctida's allegiance.
+#    3) VES is a GP, Lyctida in VES's sphere -> Lyctida becomes VES's
+#       vassal, VES is offered her allegiance, and Olenia declares war.
+#    4) Lyctida is VES's vassal          -> Olenia declares war.
+#    5) anything else                    -> as case 3.
+#    The CB is OLE_great_northern_war (common/cb_types.txt): enforcing
+#    it cedes state_171 + state_165 and adds Olenian cores.
+#
+#  OLE_burn_vesalipolis       - Olenia wins the war outright: ends it,
+#    takes both states (with cores) and the two Soulless Mountain
+#    provinces (without cores), vassalises Lyctida (and Assyna, if it
+#    sided with the changelings or sat in Olenia's sphere), burns
+#    Vesalipolis (terrain -> forest, pops x0.75 in Vesalipolis and
+#    Lyctida) and fires "A Crown in the Ashes" to VES, which forms CHN.
+#
+#  LYC_the_raids_end          - Lyctida concedes after 1440 days of
+#    losing war: the two states (with cores) go to Olenia and the war
+#    ends. (The 1440-day clock is the `great_northern_war` country
+#    modifier, added when the war starts and expiring after 1440 days;
+#    PA has no war-duration trigger.)
+#
+#  VES_to_the_table           - the changelings are winning and hold
+#    Moose Castle (province 40): white peace, +30 VES prestige, and
+#    Assyna leaves Olenia's sphere/vassalage to become VES's vassal.
+#
+#  Note: end_war = TAG removes TAG (and its subjects) from wars with
+#  us; when one side of a war is empty, PA's military GC (run_gc)
+#  deletes the war without applying the failed-wargoal penalty.
+# =====================================================================
+
+political_decisions = {
+	OLE_great_northern_war = {
+		potential = {
+			tag = OLE
+			NOT = { has_country_flag = OLE_gnw_done }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+			LYC = { number_of_states = 1 }
+		}
+		effect = {
+			if = {
+				limit = { LYC = { vassal_of = OLE } }
+				# --- Case 1: Lyctida is our vassal ---
+				release_vassal = LYC
+
+				# Bobaitin Highlands (state_171)
+				81 = { secede_province = OLE add_core = OLE }
+				77 = { secede_province = OLE add_core = OLE }
+				78 = { secede_province = OLE add_core = OLE }
+				89 = { secede_province = OLE add_core = OLE }
+				79 = { secede_province = OLE add_core = OLE }
+				# Solgud Mountains (state_165)
+				83 = { secede_province = OLE add_core = OLE }
+				87 = { secede_province = OLE add_core = OLE }
+				130 = { secede_province = OLE add_core = OLE }
+				102 = { secede_province = OLE add_core = OLE }
+				76 = { secede_province = OLE add_core = OLE }
+				# Soulless Mountains, without cores
+				101 = { secede_province = OLE }
+				98 = { secede_province = OLE }
+
+				# The hive of Lyctida turns to Vesalipolis instead.
+				VES = { create_vassal = LYC }
+				VES = { country_event = { id = 9991462 days = 0 } }
+			} else_if = {
+				limit = {
+					is_greater_power = yes
+					LYC = { in_sphere = OLE }
+				}
+				# --- Case 2: Lyctida is in our sphere of influence ---
+				diplomatic_influence = { who = LYC value = -200 }
+
+				# Bobaitin Highlands + Solgud Mountains, with cores
+				81 = { secede_province = OLE add_core = OLE }
+				77 = { secede_province = OLE add_core = OLE }
+				78 = { secede_province = OLE add_core = OLE }
+				89 = { secede_province = OLE add_core = OLE }
+				79 = { secede_province = OLE add_core = OLE }
+				83 = { secede_province = OLE add_core = OLE }
+				87 = { secede_province = OLE add_core = OLE }
+				130 = { secede_province = OLE add_core = OLE }
+				102 = { secede_province = OLE add_core = OLE }
+				76 = { secede_province = OLE add_core = OLE }
+
+				VES = { create_vassal = LYC }
+				VES = { country_event = { id = 9991462 days = 0 } }
+			} else = {
+				# --- Cases 3 / 4 / 5: war ---
+				if = {
+					limit = { NOT = { LYC = { vassal_of = VES } } }
+					# Lyctida asks Vesalipolis for protection before we march.
+					VES = { create_vassal = LYC }
+					VES = { country_event = { id = 9991462 days = 0 } }
+				}
+
+				# Lyctida's overlord (if any) becomes the war's defender,
+				# so Vesalipolis and its allies are drawn in as well.
+				war = {
+					target = LYC
+					attacker_goal = { casus_belli = OLE_great_northern_war }
+				}
+
+				# Four years must pass before Lyctida may sue for peace;
+				# the modifier expiring is what unlocks LYC_the_raids_end.
+				LYC = {
+					add_country_modifier = { name = great_northern_war duration = 1440 }
+					set_country_flag = LYC_great_north_war
+				}
+				VES = { set_country_flag = VES_great_north_war }
+				set_country_flag = OLE_gnw_war
+			}
+			set_country_flag = OLE_gnw_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# --- Olenia wins the war outright ---
+	OLE_burn_vesalipolis = {
+		potential = {
+			tag = OLE
+			has_country_flag = OLE_gnw_war
+			NOT = { has_country_flag = OLE_gnw_burned }
+		}
+		allow = {
+			war_with = VES
+			controls = 1328
+			controls = 157
+			war_score > 0
+		}
+		effect = {
+			# Remember who stood with the changelings before the war ends.
+			if = {
+				limit = { OR = { ASS = { war_with = OLE } ASS = { in_sphere = OLE } } }
+				ASS = { set_country_flag = OLE_gnw_ass_joins }
+			}
+
+			# End the war: remove the changeling side, the military GC
+			# then clears the empty war (and the failed wargoal) for us.
+			end_war = VES
+			end_war = LYC
+			if = {
+				limit = { ASS = { war_with = OLE } }
+				end_war = ASS
+			}
+
+			# The two border states, with cores.
+			81 = { secede_province = OLE add_core = OLE }
+			77 = { secede_province = OLE add_core = OLE }
+			78 = { secede_province = OLE add_core = OLE }
+			89 = { secede_province = OLE add_core = OLE }
+			79 = { secede_province = OLE add_core = OLE }
+			83 = { secede_province = OLE add_core = OLE }
+			87 = { secede_province = OLE add_core = OLE }
+			130 = { secede_province = OLE add_core = OLE }
+			102 = { secede_province = OLE add_core = OLE }
+			76 = { secede_province = OLE add_core = OLE }
+			# Soulless Mountains, without cores.
+			101 = { secede_province = OLE }
+			98 = { secede_province = OLE }
+
+			# Lyctida submits to Olenia; Assyna too, if it stood against us.
+			create_vassal = LYC
+			if = {
+				limit = { ASS = { has_country_flag = OLE_gnw_ass_joins } }
+				create_vassal = ASS
+				ASS = { clr_country_flag = OLE_gnw_ass_joins }
+			}
+
+			# Vesalipolis burns; Lyctida is sacked.
+			157 = {
+				change_terrain = forest
+				reduce_pop = 0.75
+			}
+			1328 = { reduce_pop = 0.75 }
+
+			clr_country_flag = OLE_gnw_war
+			set_country_flag = OLE_gnw_burned
+
+			# The survivors crown a new queen in the ashes.
+			VES = { country_event = { id = 9991461 days = 0 } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# --- Lyctida trades the border for peace after four years of war ---
+	LYC_the_raids_end = {
+		potential = {
+			tag = LYC
+			has_country_flag = LYC_great_north_war
+			NOT = { has_country_flag = LYC_gnw_done }
+		}
+		allow = {
+			war_with = OLE
+			war_score < 0
+			NOT = { has_country_modifier = great_northern_war }
+		}
+		effect = {
+			# Concede the two states and end the war (removing ourselves and
+			# Vesalipolis leaves the war empty, so the GC clears it cleanly).
+			OLE = {
+				end_war = LYC
+				end_war = VES
+			}
+
+			81 = { secede_province = OLE add_core = OLE }
+			77 = { secede_province = OLE add_core = OLE }
+			78 = { secede_province = OLE add_core = OLE }
+			89 = { secede_province = OLE add_core = OLE }
+			79 = { secede_province = OLE add_core = OLE }
+			83 = { secede_province = OLE add_core = OLE }
+			87 = { secede_province = OLE add_core = OLE }
+			130 = { secede_province = OLE add_core = OLE }
+			102 = { secede_province = OLE add_core = OLE }
+			76 = { secede_province = OLE add_core = OLE }
+
+			clr_country_flag = LYC_great_north_war
+			set_country_flag = LYC_gnw_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	# --- The changelings are winning: Olenia comes to the table ---
+	VES_to_the_table = {
+		potential = {
+			tag = VES
+			has_country_flag = VES_great_north_war
+			NOT = { has_country_flag = VES_gnw_done }
+		}
+		allow = {
+			war_with = OLE
+			war_score > 0
+			any_country = {
+				war_with = OLE
+				culture_group = changeling
+				controls = 40
+			}
+		}
+		effect = {
+			# A white peace: the war simply ends.
+			OLE = {
+				end_war = VES
+				end_war = LYC
+			}
+			prestige = 30
+
+			# Assyna leaves Olenia's orbit and joins Vesalipolis instead.
+			if = {
+				limit = { OR = { ASS = { vassal_of = OLE } ASS = { in_sphere = OLE } } }
+				create_vassal = ASS
+				OLE = { diplomatic_influence = { who = ASS value = -200 } }
+			}
+
+			clr_country_flag = VES_great_north_war
+			set_country_flag = VES_gnw_done
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

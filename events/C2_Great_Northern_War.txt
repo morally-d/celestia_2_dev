@@ -1,0 +1,69 @@
+# =====================================================================
+# Celestia 2 - The Great Northern War events
+#
+#  9991461  "A Crown in the Ashes"
+#    Fired to Vesalipolis by Olenia's OLE_burn_vesalipolis decision,
+#    after the changelings' defeat and the burning of Vesalipolis.
+#    Vesalipolis becomes CHN and absorbs every Equus changeling hive
+#    except Lyctida (Olenia's new vassal) and Assyna.
+#
+#  9991462  "Powderpost Asks For Our Protection"
+#    Fired to Vesalipolis by Olenia's OLE_great_northern_war decision
+#    (cases 1, 2, 3 and 5). Accepting makes Lyctida Vesalipolis's
+#    vassal; in the war cases the decision itself has already done the
+#    same, so the option is idempotent.
+#
+#  Neither event has a mean_time_to_happen, so neither fires on its own.
+# =====================================================================
+
+country_event = {
+	id = 9991461
+	title = "EVTNAME9991461"
+	desc = "EVTDESC9991461"
+
+	is_triggered_only = yes
+
+	immediate = {
+		change_tag = CHN
+
+		if = {
+			limit = { primary_culture = boreal }
+			add_accepted_culture = brackish
+		}
+		if = {
+			limit = { primary_culture = brackish }
+			add_accepted_culture = boreal
+		}
+
+		# Every Equus changeling hive except Lyctida and Assyna joins us.
+		any_country = {
+			limit = {
+				culture_group = changeling
+				continent = equus
+				NOT = { tag = CHN }
+				NOT = { tag = LYC }
+				NOT = { tag = ASS }
+			}
+			annex_to = CHN
+		}
+
+		clr_country_flag = VES_great_north_war
+	}
+
+	option = {
+		name = "EVTOPTA9991461"
+	}
+}
+
+country_event = {
+	id = 9991462
+	title = "EVTNAME9991462"
+	desc = "EVTDESC9991462"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA9991462"
+		create_vassal = LYC
+	}
+}

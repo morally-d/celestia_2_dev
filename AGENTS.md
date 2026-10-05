@@ -33,7 +33,11 @@ thestrals.
 the Changeling unification (CHN as a formable pan-changeling tag, `union = CHN`,
 plus event 9991460, which invites the remaining hives to join) are implemented
 and build clean, as is the CHN–Equestria "Acornage Boundary
-Agreement"; they still need in-game verification. The `ASS` tag was corrected
+Agreement"; they still need in-game verification. The Great Northern War
+(Olenia against the changelings) is implemented: the OLE decision and its
+scripted CB, the burn-Vesalipolis and the two peace decisions, plus the
+"crown in the ashes" event that founds CHN; it builds clean and awaits
+verification. The `ASS` tag was corrected
 from a donkey nation to a changeling hive. An AI war-proneness investigation is
 done (`docs/C2_AI_AGGRESSION_INVESTIGATION.md`): PA has no per-nation
 aggression and its declaration threshold (`best_difference = 2.0f`) is

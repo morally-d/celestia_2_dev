@@ -1507,3 +1507,9 @@ indirect_rule = {
 settlement = {
 	icon = 22
 }
+# Celestia 2 - timer marker for the Great Northern War (no gameplay effect;
+# expires 1440 days after Olenia's decision starts the war, which is what
+# lets Lyctida's "The Raids End" decision appear).
+great_northern_war = {
+	icon = 7
+}
