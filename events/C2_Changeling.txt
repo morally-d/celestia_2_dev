@@ -1,0 +1,35 @@
+# =====================================================================
+# Celestia 2 - Changeling unification events
+#
+#  9991460  "Envoys from our kin"
+#    Fired by the CHN_the_one_queen decision (decisions/C2_Changeling.txt)
+#    to every Equus changeling hive that is not a subject, substate or
+#    sphere member of the newly founded CHN. The hive is invited to join
+#    the union: accepting annexes it into CHN, refusing changes nothing.
+#
+#    Subjects and sphere members are absorbed by the decision itself, so
+#    this event only ever reaches hives that are still independent.
+#    It has no mean_time_to_happen, so it never fires on its own (PA
+#    treats a missing MTTH as a zero chance - scripting/events.cpp).
+# =====================================================================
+
+country_event = {
+	id = 9991460
+	title = "EVTNAME9991460"
+	desc = "EVTDESC9991460"
+
+	is_triggered_only = yes
+
+	# Yes, we accept! - the hive joins Changelingia.
+	option = {
+		name = "EVTOPTA9991460"
+		ai_chance = { factor = 100 }
+		annex_to = CHN
+	}
+
+	# This is not our cause. - status quo.
+	option = {
+		name = "EVTOPTB9991460"
+		ai_chance = { factor = 0 }
+	}
+}

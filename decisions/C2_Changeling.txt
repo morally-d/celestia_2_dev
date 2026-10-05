@@ -16,6 +16,8 @@
 #        brackish accepted, and a brackish hive yields the reverse;
 #        CHN's own default is boreal primary / brackish accepted);
 #      * every changeling subject and sphere member on Equus is absorbed;
+#      * the remaining independent Equus hives receive event 9991460
+#        ("Envoys from our kin") and are annexed into CHN if they accept;
 #      * +50 prestige.
 #
 #    CHN is a formable tag: it owns no land at start. Its cores are
@@ -78,6 +80,19 @@ political_decisions = {
 					continent = equus
 				}
 				annex_to = THIS
+			}
+
+			# Hives that are still independent - not our subjects, substates
+			# or sphere members - are not annexed outright: each receives an
+			# invitation to join the union of its own will (event 9991460).
+			any_country = {
+				limit = {
+					culture_group = changeling
+					continent = equus
+					NOT = { tag = CHN }
+					NOT = { OR = { vassal_of = THIS substate_of = THIS in_sphere = THIS } }
+				}
+				country_event = { id = 9991460 days = 0 }
 			}
 
 			prestige = 50

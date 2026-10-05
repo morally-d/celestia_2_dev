@@ -25,3 +25,7 @@ Acornage;Acornage;;x
 EVTNAME9991450;The Clan Moot;;x
 EVTDESC9991450;Word comes in from the clan holds, and it is the same word everywhere: old quarrels have been left to cool for too long, and the bonds between the clans have slipped. The elders demand a moot, and envoys are sent to every hold. When the clans answer, the old covenant is renewed - as it has been renewed since the Unification War, and as it must be renewed again if the bears are to face the world as one people.;;x
 EVTOPTA9991450;The clans answer.;;x
+EVTNAME9991460;Envoys from our kin;;x
+EVTDESC9991460;A changeling nation-state has been founded, and it has sent envoys to us, asking our hive to join its great undertaking - to unite the changelings under a single government as never before. Shall we accept their request and join Changelingia?;;x
+EVTOPTA9991460;Yes, we accept!;;x
+EVTOPTB9991460;This is not our cause.;;x
